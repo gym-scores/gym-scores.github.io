@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bootstrap 4 Github Pages
+title: Gym Scores
 ---
 
 |Fed|Name                                         |D  |E    |ND  |Bonus|Score |Event                                    |Organizer                     |Event Type                     |Date        |Q  |ic |rc |lc |
