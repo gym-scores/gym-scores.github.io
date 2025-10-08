@@ -10,14 +10,14 @@ layout: post
 
 <h2>MAG posts</h2>
 
-{% assign magPosts = site.posts | where: "discipline", "MAG" %}
+{%- assign magPosts = site.posts | where: "discipline", "MAG" %}
     {%- for post in magPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
 
 <h2>WAG posts</h2>
 
-{% assign wagPosts = site.posts | where: "discipline", "WAG" %}
+{%- assign wagPosts = site.posts | where: "discipline", "WAG" %}
     {%- for post in wagPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
