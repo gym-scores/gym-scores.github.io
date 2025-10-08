@@ -4,7 +4,22 @@ title: Gym Scores
 ---
 
 <h1>Using Jekyll Data</h1>
+<hr>
 <h2>Post data</h2>
-{%- for post in site.posts -%}
-    <p><strong>Post title:</strong> {{ post.title }}</p>
-{%- endfor -%}
+    {%- for post in site.posts -%}
+        <p><strong>Post title:</strong> {{ post.title }}</p>
+    {%- endfor -%}
+
+<h2>MAG posts</h2>
+
+{% assign magPosts = site.posts | where: "discipline", "MAG" %}
+    {%- for post in magPosts -%}
+        <p>{{ post.title }}</p>
+    {%- endfor -%}
+
+<h2>WAG posts</h2>
+
+{% assign wagPosts = site.posts | where: "discipline", "WAG" %}
+    {%- for post in wagPosts -%}
+        <p>{{ post.title }}</p>
+    {%- endfor -%}
