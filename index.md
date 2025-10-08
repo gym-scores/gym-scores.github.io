@@ -12,16 +12,16 @@ layout: post
 
 {% assign magPosts = site.posts | where: "discipline", "MAG" %}
     {%- for post in magPosts -%}
-        <p>{{ post.title }}</p>
+        {{ post.title }}
     {%- endfor -%}
 
 <h2>WAG posts</h2>
 
 {% assign wagPosts = site.posts | where: "discipline", "WAG" %}
     {%- for post in wagPosts -%}
-        <p>{{ post.title }}</p>
+        <p>{{ post.title }}!</p>
     {%- endfor -%}
 <h2>Pages</h2>
     {% for page in site.pages %}
-        <p>{{ page.title }}</p>
+        {{ page.title }}!
     {% endfor %}
