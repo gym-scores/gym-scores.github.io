@@ -22,6 +22,6 @@ layout: post
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
 <h2>Pages</h2>
-    {% for page in site.pages %}
-        <a href="{{ page.url }}">{{ page.title }}</a>!
-    {% endfor %}
+    {%- for page in site.pages -%}
+        <p><a href="{{ page.url }}">{{ page.title }}</a>!</p>
+    {%- endfor -%}
