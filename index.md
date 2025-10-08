@@ -10,9 +10,9 @@ layout: post
 
 <h2>MAG posts</h2>
 
-{% assign magPosts = site.posts | where: "discipline", "MAG" %}
-    {%- for post in magPosts -%}
-        {{ post.title }}
+{% assign magPages = site.pages | where: "discipline", "MAG" %}
+    {%- for page in magPages -%}
+        {{ page.title }}
     {%- endfor -%}
 
 <h2>WAG posts</h2>
