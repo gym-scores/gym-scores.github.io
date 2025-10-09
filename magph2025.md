@@ -20,6 +20,7 @@ discipline: "MAG"
       <!-- <th>Bonus</th> -->
       <th>Score</th>
       <th>Event</th>
+      <th>Date</th>  
     </tr>
     {%- for item in site.data.magph2025.scores -%}
     <tr>
@@ -31,6 +32,7 @@ discipline: "MAG"
      <!-- <td class="Bonus" >{{ item.Bonus }}</td> -->
       <td class="Score" >{{ item.Score }}</td>
       <td class="Event" >{{ item.Event }}</td>
+      <td class="Date" >{{ item.Date }}</td>
     </tr>
   {%- endfor -%}
 </table>
