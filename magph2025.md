@@ -21,14 +21,14 @@ discipline: "MAG"
       <th>Date</th>  
     </tr>
     <tr>
-      <td class="Country" >{{ item.Fed }}</td>
-      <td class="Name" >{{ item.Name }}</td>
-      <td class="D" >{{ item.D }}</td>
-      <td class="E" >{{ item.E }}</td>
-      <td class="ND" >{{ item.ND }}</td>
-      <td class="Score" >{{ item.Score }}</td>
-      <td class="Event" >{{ item.Event }}</td>
-      <td class="Date" >{{ item.Date }}</td>
+      <td class="Country">USA</td>
+      <td class="Name">EQUESTRIAN Ryder</td>
+      <td class="D">6.0</td>
+      <td class="E">9.200</td>
+      <td class="ND"></td>
+      <td class="Score">15.200</td>
+      <td class="Event">Fantasy Camp</td>
+      <td class="Date">December 31, 1969</td>
     </tr>
 </table>
 
