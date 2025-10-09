@@ -38,7 +38,8 @@ discipline: "MAG"
 -->
 
 
-<table id="myTable">
+<table id="myTable"
+   class="table table-striped">
 <thead>
    <tr>
       <th>Country</th>
