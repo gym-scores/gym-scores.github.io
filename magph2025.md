@@ -12,15 +12,15 @@ discipline: "MAG"
       data-search="true"
     class="table table-striped">
     <tr>
-      <th>Country</th>
-      <th>Name</th>
-      <th>D</th>
-      <th>E</th>
-      <th>ND</th>
-      <!-- <th>Bonus</th> -->
-      <th>Score</th>
-      <th>Event</th>
-      <th>Date</th>  
+      <th data-sortable="true">Country</th>
+      <th data-sortable="true">Name</th>
+      <th data-sortable="true">D</th>
+      <th data-sortable="true">E</th>
+      <th data-sortable="true">ND</th>
+      <!-- <th data-sortable="true">Bonus</th> -->
+      <th data-sortable="true">Score</th>
+      <th data-sortable="true">Event</th>
+      <th data-sortable="true">Date</th>  
     </tr>
     {%- for item in site.data.magph2025.scores -%}
     <tr>
