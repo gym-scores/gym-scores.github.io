@@ -12,12 +12,12 @@ discipline: "MAG"
     class="table table-striped">
     <tr>
       <th>Country</th>
-      <th><strong>Name</strong></th>
+      <th>Name</th>
       <th>D</th>
       <th>E</th>
       <th>ND</th>
       <th>Bonus</th>
-      <th><strong>Score</strong></th>
+      <th>SCORE</th>
       <th>Event</th>
       <th>Date</th>
     </tr>
