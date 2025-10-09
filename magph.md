@@ -18,15 +18,45 @@ discipline: "MAG"
       <th>Date</th>
     </tr>
     <tr>
-      <td>KAZ</td>
-      <td>KURBANOV Nariman</td>
-      <td>6.2</td>
-      <td>9.050</td>
-      <td></td>
-      <td></td>
-      <td>15.250</td>
-      <td>Kazakh Championships</td>
-      <td>4 Oct 2025</td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.Fed }}
+          {%- endfor -%}
+      </td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.Name }}
+          {%- endfor -%}
+        </td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.D }}
+          {%- endfor -%}    
+      </td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.E }}
+          {%- endfor -%}</td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.ND }}
+          {%- endfor -%}</td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.Bonus }}
+          {%- endfor -%}</td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.Score }}
+          {%- endfor -%}</td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.Event }}
+          {%- endfor -%}</td>
+      <td>
+          {%- for item in site.data.magph.scores -%}
+              {{ item.Date }}
+          {%- endfor -%}</td>
     </tr>
 </table>
 
