@@ -11,7 +11,7 @@ discipline: "MAG"
 
 <table id="myTable">
     <tr>
-      <th data-sortable="true">Country</th>
+      <th>Country</th>
       <th>Name</th>
       <th>D</th>
       <th>E</th>
