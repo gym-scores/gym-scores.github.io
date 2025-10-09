@@ -5,11 +5,10 @@ date: 2025-08-07 06:00:00 -0700
 discipline: "MAG"
 ---
 
-<!-- {%- for item in site.data.magph.scores -%}
-    <p>{{ item.Fed }}</p>
-{%- endfor -%}
--->
-<table style="width: 95%;">
+<table 
+    style="width: 95%;"
+     data-pagination="true"
+      data-search="true">
     <tr>
       <th>Country</th>
       <th>Name</th>
