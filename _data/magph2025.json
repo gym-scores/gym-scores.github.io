@@ -14105,47 +14105,26 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
    "D": "",
    "E": "",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
-   "Name": "",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "12.866",
+   "Score": "12.866",
    "Score": "FE/Siberian Federal District Champs EF",
    "Event": "Russia",
-   "Date": "1"
+   "Date": "March 11, 2025"
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
    "D": "",
    "E": "",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
-   "Name": "",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "12.866",
-   "Score": "Russian Cup AA",
-   "Event": "Russia",
-   "Date": "2"
+   "Score": "12.866",
+   "Event": "Russian Cup AA",
+   "Date": "April 24, 2025"
  },
  {
    "Fed": "CAN",
@@ -15447,25 +15426,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
-   "D": "",
-   "E": "",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
+   "D": "4.3",
+   "E": "8.433",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
-   "Name": "4.3",
-   "D": "8.433",
-   "E": "",
-   "ND": "",
-   "Bonus": "12.733",
-   "Score": "Russian Cup QF",
-   "Event": "Russia",
-   "Date": "2"
+   "Score": "12.733",
+   "Event": "Russian Cup QF",
+   "Date": "April 22, 2025"
  },
  {
    "Fed": "CHN",
@@ -45147,6 +45115,7 @@
  }
 ]  
 }
+
 
 
 
