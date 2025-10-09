@@ -5,7 +5,11 @@ date: 2025-08-07 06:00:00 -0700
 discipline: "MAG"
 ---
 
-<table style="width: 95%;">
+{%- for item in site.data.magph.scores -%}
+    <p>{{ item.Fed }}</p>
+{%- endfor -%}
+
+<!-- <table style="width: 95%;">
     <tr>
       <th>Country</th>
       <th>Name</th>
@@ -59,4 +63,4 @@ discipline: "MAG"
           {%- endfor -%}</td>
     </tr>
 </table>
-
+-->
