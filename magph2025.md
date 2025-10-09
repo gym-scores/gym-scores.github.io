@@ -5,7 +5,9 @@ date: 2025-10-07 06:00:00 -0700
 discipline: "MAG"
 ---
 
+<div class="table-responsive">
 <table 
+    class="table"
     style="width: 95%;"
      data-pagination="true"
       data-search="true"
@@ -33,4 +35,4 @@ discipline: "MAG"
     </tr>
   {%- endfor -%}
 </table>
-
+</div>
