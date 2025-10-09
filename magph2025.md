@@ -27,7 +27,7 @@ discipline: "MAG"
       <td class="D" >{{ item.D }}</td>
       <td class="E" >{{ item.E }}</td>
       <td class="ND" >{{ item.ND }}</td>
-      <td class="Score" >{{ item.Score }}</td>
+      <td class="Score" ><strong>{{ item.Score }}</strong></td>
       <td class="Event" >{{ item.Event }}</td>
       <td class="Date" >{{ item.Date }}</td>
     </tr>
