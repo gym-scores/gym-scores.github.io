@@ -10,7 +10,8 @@ discipline: "MAG"
     class="table table-striped" --> 
 
 <table id="myTable">
-    <tr>
+    <thead>
+       <tr>
       <th>Country</th>
       <th>Name</th>
       <th>D</th>
@@ -20,6 +21,8 @@ discipline: "MAG"
       <th>Event</th>
       <th>Date</th>  
     </tr>
+    </thead>
+   <tbody>
     <tr>
       <td class="Country">USA</td>
       <td class="Name">EQUESTRIAN Ryder</td>
@@ -30,6 +33,7 @@ discipline: "MAG"
       <td class="Event">Fantasy Camp</td>
       <td class="Date">December 31, 1969</td>
     </tr>
+   </tbody>
 </table>
 
 
