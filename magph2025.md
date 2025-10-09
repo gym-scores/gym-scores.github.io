@@ -9,7 +9,7 @@ discipline: "MAG"
       data-search="true"
     class="table table-striped" --> 
 
-<table id="myTable">
+<!--<table id="myTable">
     <thead>
        <tr>
       <th>Country</th>
@@ -35,11 +35,12 @@ discipline: "MAG"
     </tr>
    </tbody>
 </table>
+-->
 
 
-<!--
 <table id="myTable">
-    <tr>
+<thead>
+   <tr>
       <th>Country</th>
       <th>Name</th>
       <th>D</th>
@@ -49,6 +50,8 @@ discipline: "MAG"
       <th>Event</th>
       <th>Date</th>  
     </tr>
+</thead>
+   <tbody>
     {%- for item in site.data.magph2025.scores -%}
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
@@ -61,5 +64,5 @@ discipline: "MAG"
       <td class="Date" >{{ item.Date }}</td>
     </tr>
   {%- endfor -%}
+   </tbody>
 </table>
--->
