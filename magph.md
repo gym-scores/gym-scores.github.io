@@ -8,7 +8,8 @@ discipline: "MAG"
 <table 
     style="width: 95%;"
      data-pagination="true"
-      data-search="true">
+      data-search="true"
+    class="table table-striped">
     <tr>
       <th>Country</th>
       <th>Name</th>
