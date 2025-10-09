@@ -1,4 +1,6 @@
-[
+{
+  "attribute": "MAG PH",
+  "scores": [
  {
    "Fed": "USA",
    "Name": "HOOPES Patrick",
@@ -37630,4 +37632,7 @@
    "Event": "Iceland Classic AA",
    "Date": "Feb 28, 2025"
  }
+
 ]
+
+}
