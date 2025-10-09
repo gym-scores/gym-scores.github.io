@@ -5,11 +5,11 @@ date: 2025-08-07 06:00:00 -0700
 discipline: "MAG"
 ---
 
-{%- for item in site.data.magph.scores -%}
+<!-- {%- for item in site.data.magph.scores -%}
     <p>{{ item.Fed }}</p>
 {%- endfor -%}
-
-<!-- <table style="width: 95%;">
+-->
+<table style="width: 95%;">
     <tr>
       <th>Country</th>
       <th>Name</th>
@@ -21,46 +21,18 @@ discipline: "MAG"
       <th>Event</th>
       <th>Date</th>
     </tr>
+    {% for item in site.data.magph.scores %}
     <tr>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.Fed }}
-          {%- endfor -%}
-      </td>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.Name }}
-          {%- endfor -%}
-        </td>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.D }}
-          {%- endfor -%}    
-      </td>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.E }}
-          {%- endfor -%}</td>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.ND }}
-          {%- endfor -%}</td>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.Bonus }}
-          {%- endfor -%}</td>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.Score }}
-          {%- endfor -%}</td>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.Event }}
-          {%- endfor -%}</td>
-      <td>
-          {%- for item in site.data.magph.scores -%}
-              {{ item.Date }}
-          {%- endfor -%}</td>
+      <td class="Country" >{{ item.Fed }}</td>
+      <td class="Name" >{{ item.Name }}</td>
+      <td class="D" >{{ item.D }}</td>
+      <td class="E" >{{ item.E }}</td>
+      <td class="ND" >{{ item.ND }}</td>
+      <td class="Bonus" >{{ item.Bonus }}</td>
+      <td class="Score" >{{ item.Score }}</td>
+      <td class="Event" >{{ item.Event }}</td>
+      <td class="Date" >{{ item.Date }}</td>
     </tr>
+  {% endfor %}
 </table>
--->
+
