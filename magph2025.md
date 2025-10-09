@@ -12,16 +12,16 @@ discipline: "MAG"
     class="table table-striped">
     <tr>
       <th>Country</th>
-      <th>Name</th>
+      <th><strong>Name</strong></th>
       <th>D</th>
       <th>E</th>
       <th>ND</th>
       <th>Bonus</th>
-      <th>Score</th>
+      <th><strong>Score</strong></th>
       <th>Event</th>
       <th>Date</th>
     </tr>
-    {% for item in site.data.magph2025.scores %}
+    {%- for item in site.data.magph2025.scores -%}
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
       <td class="Name" ><strong>{{ item.Name }}</strong></td>
@@ -33,6 +33,6 @@ discipline: "MAG"
       <td class="Event" >{{ item.Event }}</td>
       <td class="Date" >{{ item.Date }}</td>
     </tr>
-  {% endfor %}
+  {%- endfor -%}
 </table>
 
