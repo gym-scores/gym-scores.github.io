@@ -4,13 +4,12 @@ title: "Pommel Horse 2025"
 date: 2025-10-07 06:00:00 -0700
 discipline: "MAG"
 ---
-
-
-<table 
-    style="width: 95%;"
+   <!-- style="width: 95%;"
      data-pagination="true"
       data-search="true"
-    class="table table-striped">
+    class="table table-striped" --> 
+
+<table id="myTable">
     <tr>
       <th data-sortable="true">Country</th>
       <th>Name</th>
