@@ -17,7 +17,7 @@ discipline: "MAG"
       <th>D</th>
       <th>E</th>
       <th>ND</th>
-      <th>Bonus</th>
+      <!-- <th>Bonus</th> -->
       <th>Score</th>
       <th>Event</th>
     </tr>
@@ -28,7 +28,7 @@ discipline: "MAG"
       <td class="D" >{{ item.D }}</td>
       <td class="E" >{{ item.E }}</td>
       <td class="ND" >{{ item.ND }}</td>
-      <td class="Bonus" >{{ item.Bonus }}</td>
+     <!-- <td class="Bonus" >{{ item.Bonus }}</td> -->
       <td class="Score" >{{ item.Score }}</td>
       <td class="Event" >{{ item.Event }}</td>
     </tr>
