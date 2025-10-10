@@ -1,5 +1,5 @@
 {
-  "attribute": "MAG FX 2025",
+  "attribute": "MAG SR 2025",
   "scores": 
 [
  {
@@ -39055,25 +39055,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "AKSONOV Andrey",
+   "Name": "AKSONOV Andrey АКСЁНОВ Андрей",
    "D": "",
    "E": "",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " АКСЁНОВ Андрей",
-   "Name": "",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "9.750",
-   "Score": "Northwestern Federal District Champs EF",
-   "Event": "Russia",
-   "Date": "1"
+   "Score": "9.750",
+   "Event": "Northwestern Federal District Champs EF",
+   "Date": "Mar 11, 2025"
  },
  {
    "Fed": "JPN",
