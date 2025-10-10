@@ -5,7 +5,7 @@ date: 2025-10-07 06:00:00 -0700
 discipline: "MAG"
 ---
 
-<table id="apparatus-no-bonus"
+<table id="myTable"
    class="table table-striped">
 <thead>
    <tr>
@@ -34,3 +34,12 @@ discipline: "MAG"
   {%- endfor -%}
    </tbody>
 </table>
+<script>
+   DataTable('#myTable', {
+    order: [
+        [-3, 'desc'],
+        [-5, 'desc'],
+         [-6, 'desc']
+    ]
+});
+</script>
