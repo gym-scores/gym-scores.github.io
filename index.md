@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Welcome to gym-scores, a repository of elite gymnastics scores. Currently senior-only.
+Welcome to gym-scores, a repository of elite gymnastics scores. Currently senior-leven only. Junior scores coming soon.
 
 <h3>2025 MAG data</h3>
 
