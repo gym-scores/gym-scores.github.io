@@ -34,11 +34,8 @@
     <!-- DataTables -->
     <script src="https://cdn.datatables.net/2.3.4/js/dataTables.js"></script>
      <script>$(document).ready( function () {
-      $('#apparatus-no-bonus').DataTable( 
-        ordering: true,
-        searching: true,
-        order: [[-3, 'desc']] );
-        } );
+        $('#myTable').DataTable();
+          } );
     </script> 
     
     {%- include footer.html -%}
