@@ -36,10 +36,22 @@
      <script>$(document).ready( function () {
         $('#apparatusNoBonus').DataTable();
           } );
-       new DataTable('#example', {
-    order: [[3, 'desc']]
+       new DataTable('#apparatusNoBonus', {
+    order: [[5, 'desc']]
 });
     </script> 
+    <!-- <script src="https://cdn.datatables.net/2.3.4/js/dataTables.js"></script>
+     <script>$(document).ready( function () {
+        $('#apparatusNoBonus').DataTable();
+          } );
+       new DataTable('#apparatusNoBonus', {
+   columnDefs: [
+        { orderData: [0, 1], targets: 0 },
+        { orderData: 0, targets: 1 },
+        { orderData: [2, 3, 4], targets: 2 }
+    ]
+});
+    </script> -->
     
     {%- include footer.html -%}
     
