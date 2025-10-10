@@ -13,7 +13,7 @@ Welcome to gym-scores, a repository of elite gymnastics scores. Currently senior
 
 <h3>WAG data</h3>
 
-{%- assign wagPages = site.pages | where: "discipline", "MWAG" -%}
+{%- assign wagPages = site.pages | where: "discipline", "WAG" -%}
     {%- for page in wagPages -%}
         <p><a href="{{ page.url }}">{{ page.title }}</a></p>
     {%- endfor -%}
