@@ -5,7 +5,7 @@ date: 2025-10-07 06:00:00 -0700
 discipline: "MAG"
 ---
 
-<table id="apparatusNoBonus"
+<table id="apparatus"
    class="table table-striped">
 <thead>
    <tr>
