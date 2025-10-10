@@ -21,6 +21,14 @@ layout: post
     {%- for post in wagPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
+
+<h2>Artistic posts</h2>
+
+{%- assign wagPosts = site.posts | where: "discipline", "WAG" -%}
+    {%- for post in wagPosts or magPosts -%}
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {%- endfor -%}
+    
 <h2>Pages</h2>
     {%- for page in site.pages -%}
         {%- if page.title -%}
