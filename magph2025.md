@@ -19,8 +19,8 @@ discipline: "MAG"
       <th>Date</th>  
     </tr>
 </thead>
-    {%- for item in site.data.magph2025.scores -%}
       <tbody>
+   {%- for item in site.data.magph2025.scores -%}
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
       <td class="Name" >{{ item.Name }}</td>
@@ -31,7 +31,7 @@ discipline: "MAG"
       <td class="Event" >{{ item.Event }}</td>
       <td class="Date" >{{ item.Date }}</td>
     </tr>
-   </tbody>
          {%- endfor -%}
+</tbody>
 </table>
 
