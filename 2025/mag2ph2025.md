@@ -20,7 +20,7 @@ discipline: "MAG"
     </tr>
 </thead>
       <tbody>
-   {%- for item in site.data.2025.magph2025.scores -%}
+   {%- for item in site.data.magph2025.scores -%}
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
       <td class="Name" >{{ item.Name }}</td>
