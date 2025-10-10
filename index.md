@@ -22,14 +22,14 @@ layout: post
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
 
- <h2>Artistic posts</h2>
+<!-- <h2>Artistic posts</h2>
 
   {%- assign artisticPosts = site.posts | where: "rating", "FIG 2" -%}
   {%- assign artisticPosts = site.posts | where: "rating", "FIG 3" -%}
 {%- for post in artisticPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
-    
+   --> 
 <h2>Pages</h2>
     {%- for page in site.pages -%}
         {%- if page.title -%}
