@@ -24,8 +24,10 @@ layout: post
 
 <h2>Artistic posts</h2>
 
-{%- assign artisticPosts = site.posts | where: "discipline", "MAG" or "WAG" -%}
- {%- for post in artisticPosts -%}
+{% if discipline == "MAG" or discipline == "WAG" %}
+  {% assign artisticPosts = site.posts %}
+{% endif %}
+{% for post in artisticPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
     
