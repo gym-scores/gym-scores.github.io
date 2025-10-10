@@ -11,8 +11,8 @@ discipline: "MAG"
    <tr>
       <th>Country</th>
       <th>Name</th>
-      <th>E</th>
       <th>D</th>
+      <th>E</th>
       <th>ND</th>
       <th>Score</th>
       <th>Event</th>
@@ -24,8 +24,8 @@ discipline: "MAG"
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
       <td class="Name" >{{ item.Name }}</td>
-      <td class="E" >{{ item.E }}</td>
       <td class="D" >{{ item.D }}</td>
+      <td class="D" >{{ item.E }}</td>
       <td class="ND" >{{ item.ND }}</td>
       <td class="Score" ><strong>{{ item.Score }}</strong></td>
       <td class="Event" >{{ item.Event }}</td>
