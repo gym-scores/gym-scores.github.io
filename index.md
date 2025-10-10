@@ -24,7 +24,7 @@ layout: post
 
 <h2>Artistic posts</h2>
 
-{% if discipline == "MAG" or discipline == "WAG" %}
+{% if rating == "FIG 2" or rating == "FIG 3" %}
   {% assign artisticPosts = site.posts %}
 {% endif %}
 {% for post in artisticPosts -%}
