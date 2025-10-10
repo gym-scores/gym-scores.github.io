@@ -24,10 +24,8 @@ layout: post
 
 <h2>Artistic posts</h2>
 
-{% if rating == "FIG 2" or rating == "FIG 3" %}
-  {% assign artisticPosts = site.posts %}
-{% endif %}
-{% for post in artisticPosts -%}
+  {%- assign artisticPosts = site.posts | where: "rating", "FIG 2" or "FIG 3" -%}
+{%- for post in artisticPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
     
