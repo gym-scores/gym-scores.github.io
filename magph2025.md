@@ -34,7 +34,7 @@ discipline: "MAG"
   {%- endfor -%}
    </tbody>
 </table>
-<script>
+<!-- <script>
    DataTable('#apparatusNoBonus', {
     order: [
         [-3, 'desc'],
@@ -43,3 +43,4 @@ discipline: "MAG"
     ]
 });
 </script>
+-->
