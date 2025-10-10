@@ -22,17 +22,17 @@ layout: post
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
 
-<!--<h2>Artistic posts</h2>
+<h2>Artistic posts</h2>
 
-{% if discipline == "MAG" or discipline == "WAG" %}
-{% assign artistic = true %}
-{% endif %}
+{%- if discipline == "MAG" or discipline == "WAG" -%}
+{%- assign artisticPosts = true -%}
+{%- endif -%}
 
-  {% if artistic %}
+  {%- for post in artisticPosts -%}
      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-  {% endif %}
+  {%- endfor -%}
 
-  {%- assign artisticPosts = site.posts | where: "rating", "FIG 2" -%}
+<!--  {%- assign artisticPosts = site.posts | where: "rating", "FIG 2" -%}
   {%- assign artisticPosts = site.posts | where: "rating", "FIG 3" -%}
 {%- for post in artisticPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
