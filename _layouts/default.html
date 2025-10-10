@@ -40,15 +40,15 @@
 
    <script src="https://cdn.datatables.net/2.3.4/js/dataTables.js"></script>
      <script>$(document).ready( function () {
-        $('#apparatusNoBonus').DataTable();
-          }, 
-    new DataTable('#apparatusNoBonus', {
-       order: [[5, 'desc']],
+    $('#apparatusNoBonus').DataTable();
+} );
+
+$(document).ready(function () {
+      new DataTable('#apparatusNoBonus', {
+        layout: layout,
+        order: [[5, 'desc']],
       });
-                              );
-    
-
-
+    });
     
      </script> 
     
