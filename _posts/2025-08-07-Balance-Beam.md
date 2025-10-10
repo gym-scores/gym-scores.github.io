@@ -4,6 +4,7 @@ title: "Balance Beam"
 discipline: "WAG"
 date: 2025-08-07 06:00:00 -0700
 published: true
+rating: FIG 2
 ---
 
 testing
