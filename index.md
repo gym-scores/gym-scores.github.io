@@ -3,14 +3,14 @@ layout: post
 ---
 <h1>{{ site.title }}</h1>
 <hr>
-<h3>2025MAG data</h3>
+<h3>2025 MAG data</h3>
 
-{%- assign magPages = site.2025.pages | where: "discipline", "MAG" -%}
+{%- assign magPages = site.pages | where: "discipline", "MAG" -%}
     {%- for page in magPages -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
 
-<h2>WAG posts</h2>
+<h3>WAG posts</h3>
 
 {%- assign wagPosts = site.posts | where: "discipline", "WAG" -%}
     {%- for post in wagPosts -%}
