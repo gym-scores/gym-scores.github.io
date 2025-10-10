@@ -21499,25 +21499,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ISAYEV Stanislav",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ИСАЕВ Станислав",
+   "Name": "ISAYEV Stanislav ИСАЕВ Станислав",
    "Name": "4.4",
    "D": "8.733",
    "E": "-0.1",
    "ND": "",
    "Bonus": "13.033",
    "Score": "Russian Cup QF",
-   "Event": "Russia",
-   "Date": "2"
+   "Date": "Apr 22, 2025"
  },
  {
    "Fed": "JPN",
@@ -22775,25 +22764,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ISAYEV Stanislav",
+   "Name": "ISAYEV Stanislav ИСАЕВ Станислав",
    "D": "",
    "E": "",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ИСАЕВ Станислав",
-   "Name": "",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "12.933",
-   "Score": "Russian Cup AA",
-   "Event": "Russia",
-   "Date": "2"
+   "Score": "12.933",
+   "Event": "Russian Cup AA",
+   "Date": "Apr 24, 2025"
  },
  {
    "Fed": "RUS",
@@ -30640,25 +30618,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
    "Name": "3.6",
    "D": "8.600",
    "E": "",
    "ND": "",
    "Bonus": "12.200",
    "Score": "Russian Cup QF",
-   "Event": "Russia",
-   "Date": "2"
+   "Date": "Apr 22, 2025"
  },
  {
    "Fed": "CAY",
@@ -31124,25 +31091,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
    "D": "",
    "E": "",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
-   "Name": "",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "12.133",
-   "Score": "Russian Cup AA",
-   "Event": "Russia",
-   "Date": "2"
+   "Score": "12.133",
+   "Event": "Russian Cup AA",
+   "Date": "Apr 24, 2025"
  },
  {
    "Fed": "ITA",
@@ -34942,3 +34898,4 @@
 ]
 
 }
+
