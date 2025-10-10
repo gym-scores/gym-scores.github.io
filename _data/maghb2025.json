@@ -20551,25 +20551,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
    "D": "",
    "E": "",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
-   "Name": "",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "12.200",
-   "Score": "FE/Siberian Federal District Champs EF",
-   "Event": "Russia",
-   "Date": "1"
+   "Score": "12.200",
+   "Event": "FE/Siberian Federal District Champs EF",
+   "Date": "Mar 11, 2025"
  },
  {
    "Fed": "RUS",
@@ -21310,25 +21299,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
-   "D": "",
-   "E": "",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
+   "D": "3.8",
+   "E": "8.300",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
-   "Name": "3.8",
-   "D": "8.300",
-   "E": "",
-   "ND": "",
-   "Bonus": "12.100",
-   "Score": "Russian Cup QF",
-   "Event": "Russia",
-   "Date": "2"
+   "Score": "12.100",
+   "Event": "Russian Cup QF",
+   "Date": "Apr 22, 2025"
  },
  {
    "Fed": "SWE",
@@ -29813,25 +29791,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
    "D": "",
    "E": "",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
-   "Name": "",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "11.333",
-   "Score": "Russian Cup AA",
-   "Event": "Russia",
-   "Date": "2"
+   "Score": "11.333",
+   "Event": "Russian Cup AA",
+   "Date": "Apr 24, 2025"
  },
  {
    "Fed": "ROU",
@@ -37139,25 +37106,14 @@
  },
  {
    "Fed": "RUS",
-   "Name": "AKSONOV Andrey",
+   "Name": "AKSONOV Andrey АКСЁНОВ Андрей",
    "D": "",
    "E": "",
    "ND": "",
    "Bonus": "",
-   "Score": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " АКСЁНОВ Андрей",
-   "Name": "",
-   "D": "",
-   "E": "",
-   "ND": "",
-   "Bonus": "10.400",
-   "Score": "Northwestern Federal District Champs EF",
-   "Event": "Russia",
-   "Date": "1"
+   "Score": "10.400",
+   "Event": "Northwestern Federal District Champs EF",
+   "Date": "Mar 12, 2025"
  },
  {
    "Fed": "RUS",
