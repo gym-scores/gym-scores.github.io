@@ -25,7 +25,7 @@ layout: post
 <h2>Artistic posts</h2>
 
 <!-- {%- assign wagPosts = site.posts | where: "discipline", "WAG" -%} -->
-    {%- for post in wagPosts or magPosts -%}
+ {%- for post in wagPosts or for post in magPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {%- endfor -%}
     
