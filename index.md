@@ -4,21 +4,21 @@ layout: post
 
 Welcome to gym-scores, a repository of elite gymnastics scores. Currently senior-level only. Junior scores coming soon.
 
-<h3>2025 MAG data</h3>
+<h3>MAG data</h3>
 
 {%- assign magPages = site.pages | where: "discipline", "MAG" -%}
     {%- for page in magPages -%}
         <p><a href="{{ page.url }}">{{ page.title }}</a></p>
     {%- endfor -%}
 
-<h3>2025 WAG data</h3>
+<h3>WAG data</h3>
 
 {%- assign wagPages = site.pages | where: "discipline", "MWAG" -%}
     {%- for page in wagPages -%}
         <p><a href="{{ page.url }}">{{ page.title }}</a></p>
     {%- endfor -%}
 
-<h3>2025 RG data</h3>
+<h3>RG data</h3>
 
 {%- assign rgPages = site.pages | where: "discipline", "RG" -%}
     {%- for page in rgPages -%}
