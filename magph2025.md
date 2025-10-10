@@ -34,13 +34,4 @@ discipline: "MAG"
   {%- endfor -%}
    </tbody>
 </table>
-<!-- <script>
-   DataTable('#apparatusNoBonus', {
-    order: [
-        [-3, 'desc'],
-        [-5, 'desc'],
-         [-6, 'desc']
-    ]
-});
-</script>
--->
+
