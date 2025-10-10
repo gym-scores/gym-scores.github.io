@@ -1,21 +1,19 @@
 ---
 layout: post
 ---
-<h1>{{ site.title }}</h1>
-<hr>
 <h3>2025 MAG data</h3>
 
 {%- assign magPages = site.pages | where: "discipline", "MAG" -%}
     {%- for page in magPages -%}
-        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        <p><a href="{{ page.url }}">{{ page.title }}</a></p>
     {%- endfor -%}
 
-<h3>WAG posts</h3>
+<!-- <h3>WAG posts</h3>
 
 {%- assign wagPosts = site.posts | where: "discipline", "WAG" -%}
     {%- for post in wagPosts -%}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    {%- endfor -%}
+    {%- endfor -%} -->
 
 <!-- <h2>Artistic posts</h2>
 
