@@ -9,43 +9,6 @@ discipline: "WAG"
 
 <p>Initial sorting on these FIG-only pages is not perfect at the moment. Click on the Total column heading twice to sort correctly.</p>
 
-<!-- <table id="apparatus"
-   class="table table-striped">
-<thead>
-   <tr>
-      <th>Country</th>
-      <th>Name</th>
-      <th>VT</th>
-      <th>UB</th>
-      <th>BB</th>
-      <th>FX</th>
-      <th>ND</th>
-      <th>Total</th>
-      <th>Event</th>
-      <th>Date</th>  
-    </tr>
-</thead>
-      <tbody>
-       {%- assign scores = site.data.figwagaa2025.scores}
-            {%- for score in scores -%}
-               {&- if score.lc < 5 -%}
-             <tr>
-               <td class="Country" >{{ score.Fed }}</td>
-               <td class="Name" >{{ score.Name }}</td>
-               <td class="VT" >{{ score.VT }}</td>
-               <td class="UB" >{{ score.UB }}</td>
-               <td class="BB" >{{ score.BB }}</td>
-               <td class="FX" >{{ score.FX }}</td>
-               <td class="ND" ><I>{{ score.ND }}</I></td>
-               <td class="Total" ><strong>{{ score.Total }}</strong></td>
-               <td class="Event" >{{ score.Event }}</td>
-               <td class="Date" >{{ score.Date }}</td>
-             </tr>
-                  {%- endif -%}
-            {%- endfor -%}
-</tbody>
-</table> -->
-
 <table id="apparatus"
    class="table table-striped">
 <thead>
