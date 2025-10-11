@@ -5,11 +5,9 @@ date: 2025-10-07 06:00:00 -0700
 discipline: "WAG"
 ---
 
-{%- for score in site.data.figwagaa2025.scores -%}
-            {%- unless score.lc >5 -%}
-               <p>{{ score.Total }}</p>
-                  {%- endunless -%}
-      {%- endfor -%}
+<p>This page displays only scores from meets on the FIG calendar.</p>
+
+<p>Initial sorting on these FIG-only pages is not perfect at the moment. Click on the Total column heading twice to sort correctly.</p>
 
 <!-- <table id="apparatus"
    class="table table-striped">
@@ -48,7 +46,7 @@ discipline: "WAG"
 </tbody>
 </table> -->
 
-<!-- <table id="apparatus"
+<table id="apparatus"
    class="table table-striped">
 <thead>
    <tr>
@@ -142,4 +140,3 @@ discipline: "WAG"
             {%- endfor -%}
 </tbody>
 </table>
--->
