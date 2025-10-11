@@ -24,7 +24,7 @@ discipline: "MAG"
     </tr>
 </thead>
       <tbody>
-   {%- for item in site.data.magfx2025.scores -%}
+   {%- for item in site.data.magaa2025.scores -%}
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
       <td class="Name" >{{ item.Name }}</td>
