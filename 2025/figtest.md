@@ -22,6 +22,36 @@ discipline: "WAG"
     </tr>
 </thead>
       <tbody>
+       {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , 0 -%}
+            {%- for score in figScores -%}
+             <tr>
+               <td class="Country" >{{ score.Fed }}</td>
+               <td class="Name" >{{ score.Name }}</td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
+               <td class="VT" >{{ score.VT }}</td>
+               <td class="UB" >{{ score.UB }}</td>
+               <td class="BB" >{{ score.BB }}</td>
+               <td class="FX" >{{ score.FX }}</td>
+               <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Event" >{{ score.Event }}</td>
+               <td class="Date" >{{ score.Date }}</td>
+             </tr>
+            {%- endfor -%}
+         {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , 1 -%}
+            {%- for score in figScores -%}
+             <tr>
+               <td class="Country" >{{ score.Fed }}</td>
+               <td class="Name" >{{ score.Name }}</td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
+               <td class="VT" >{{ score.VT }}</td>
+               <td class="UB" >{{ score.UB }}</td>
+               <td class="BB" >{{ score.BB }}</td>
+               <td class="FX" >{{ score.FX }}</td>
+               <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Event" >{{ score.Event }}</td>
+               <td class="Date" >{{ score.Date }}</td>
+             </tr>
+            {%- endfor -%}
          {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , 2 -%}
             {%- for score in figScores -%}
              <tr>
@@ -51,6 +81,21 @@ discipline: "WAG"
                <td class="Event" >{{ score.Event }}</td>
                <td class="Date" >{{ score.Date }}</td>
              </tr>
+         {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , 4 -%}
+            {%- for score in figScores -%}
+             <tr>
+               <td class="Country" >{{ score.Fed }}</td>
+               <td class="Name" >{{ score.Name }}</td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
+               <td class="VT" >{{ score.VT }}</td>
+               <td class="UB" >{{ score.UB }}</td>
+               <td class="BB" >{{ score.BB }}</td>
+               <td class="FX" >{{ score.FX }}</td>
+               <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Event" >{{ score.Event }}</td>
+               <td class="Date" >{{ score.Date }}</td>
+             </tr>
+            {%- endfor -%}
             {%- endfor -%}
 </tbody>
 </table>
