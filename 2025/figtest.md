@@ -22,7 +22,7 @@ discipline: "WAG"
     </tr>
 </thead>
       <tbody>
-         {%- assign level = site.data.figwagaa2025.lc -%}
+         {%- assign level = site.data.figwagaa2025.scores.lc -%}
         {%- if level < 5 -%}
          {%- for item in site.data.figwagaa2025.scores -%}
     <tr>
