@@ -35,15 +35,15 @@ discipline: "MAG"
       <td class="D 1" >{{ item.D1 }}</td>
       <td class="E 1" >{{ item.E1 }}</td>
       <td class="ND 1" ><i>{{ item.ND1 }}</i></td>
-      <td class="Bonus 1">{{ item.Bonus1 }}</td>
+      <td class="Bonus 1" >{{ item.Bonus1 }}</td>
       <td class="Score 1" ><strong>{{ item.Score1 }}</strong></td>
       <td class="D 2" >{{ item.D2 }}</td>
       <td class="E 2" >{{ item.E2 }}</td>
       <td class="ND 2" ><i>{{ item.ND2 }}</i></td>
-      <td class="Bonus 2>{{ item.Bonus2 }}</td>
+      <td class="Bonus 2" >{{ item.Bonus2 }}</td>
       <td class="Score 2" ><strong>{{ item.Score2 }}</strong></td>
-      <td class="Average"><strong><u>{{ item.Average }}</u></strong></td>
-      <td class="Combined D">{{ item.CombinedD }}</td>
+      <td class="Average" ><strong><u>{{ item.Average }}</u></strong></td>
+      <td class="Combined D" >{{ item.CombinedD }}</td>
       <td class="Event" >{{ item.Event }}</td>
       <td class="Date" >{{ item.Date }}</td>
     </tr>
