@@ -5,10 +5,11 @@ date: 2025-10-07 06:00:00 -0700
 discipline: "WAG"
 ---
 
-{%- assign scores = site.data.figwagaa2025.scores}
+{%- for score in site.data.figwagaa2025.scores -%}
             {%- unless score.lc >5 -%}
                <p>{{ score.Total }}</p>
                   {%- endunless -%}
+      {%- endfor -%}
 
 <!-- <table id="apparatus"
    class="table table-striped">
