@@ -1,4 +1,7 @@
-[
+{
+ "attribute": "WAG VT 2025",
+ "scores":
+ [
  {
    "Fed": "USA",
    "Name": "WONG Leanne",
@@ -18134,4 +18137,6 @@
    "Event": "U18 KBS Cup EF",
    "Date": "Jul 5, 2025"
  }
+
 ]
+}
