@@ -22,7 +22,7 @@ discipline: "WAG"
     </tr>
 </thead>
       <tbody>
-        {%- if lc < 5 -%}
+        {%- if site.data.figwagaa2025.scores.lc < 5 -%}
          {%- for item in site.data.figwagaa2025.scores -%}
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
