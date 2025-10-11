@@ -5,7 +5,7 @@ date: 2025-10-07 06:00:00 -0700
 discipline: "WAG"
 ---
 
-{%- assign site.data.figwagaa2025.scores.lc = "level" -%}
+
 
 <table id="apparatus"
    class="table table-striped">
@@ -24,6 +24,7 @@ discipline: "WAG"
     </tr>
 </thead>
       <tbody>
+         {%- assign site.data.figwagaa2025.scores.lc = "level" -%}
       {%- if level < 5 -%}
          {%- for item in site.data.figwagaa2025.scores -%}
     <tr>
