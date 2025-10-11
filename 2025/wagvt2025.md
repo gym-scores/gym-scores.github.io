@@ -40,7 +40,7 @@ discipline: "WAG"
       <td class="ND 2" ><i>{{ item.ND2 }}</i></td>
       <td class="Score 2" ><strong>{{ item.Score2 }}</strong></td>
       <td class="Bonus">{{ item.Bonus }}</td>
-      <td class="Average"><strong>{{ item.Average }}</strong></td>
+      <td class="Average"><strong><u>{{ item.Average }}</u></strong></td>
       <td class="Combined D">{{ item.CombinedD }}</td>
       <td class="Event" >{{ item.Event }}</td>
       <td class="Date" >{{ item.Date }}</td>
