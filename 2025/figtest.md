@@ -6,10 +6,9 @@ discipline: "WAG"
 ---
 
 {%- assign scores = site.data.figwagaa2025.scores}
-            {%- for score in scores -%}
-               {&- if score.lc < 5 -%}
+            {%- unless score.lc >5 -%}
                <p>{{ score.Total }}</p>
-                  {%- endif -%}
+                  {%- endunless -%}
             {%- endfor -%}
 
 <!-- <table id="apparatus"
