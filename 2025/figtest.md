@@ -11,12 +11,12 @@ discipline: "WAG"
    <tr>
       <th>Country</th>
       <th>Name</th>
-      <th>Total</th>
       <th>VT</th>
       <th>UB</th>
       <th>BB</th>
       <th>FX</th>
       <th>ND</th>
+      <th>Total</th>
       <th>Event</th>
       <th>Date</th>  
     </tr>
@@ -27,12 +27,12 @@ discipline: "WAG"
              <tr>
                <td class="Country" >{{ score.Fed }}</td>
                <td class="Name" >{{ score.Name }}</td>
-               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="VT" >{{ score.VT }}</td>
                <td class="UB" >{{ score.UB }}</td>
                <td class="BB" >{{ score.BB }}</td>
                <td class="FX" >{{ score.FX }}</td>
                <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="Event" >{{ score.Event }}</td>
                <td class="Date" >{{ score.Date }}</td>
              </tr>
@@ -42,12 +42,12 @@ discipline: "WAG"
              <tr>
                <td class="Country" >{{ score.Fed }}</td>
                <td class="Name" >{{ score.Name }}</td>
-               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="VT" >{{ score.VT }}</td>
                <td class="UB" >{{ score.UB }}</td>
                <td class="BB" >{{ score.BB }}</td>
                <td class="FX" >{{ score.FX }}</td>
                <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="Event" >{{ score.Event }}</td>
                <td class="Date" >{{ score.Date }}</td>
              </tr>
@@ -57,12 +57,12 @@ discipline: "WAG"
              <tr>
                <td class="Country" >{{ score.Fed }}</td>
                <td class="Name" >{{ score.Name }}</td>
-               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="VT" >{{ score.VT }}</td>
                <td class="UB" >{{ score.UB }}</td>
                <td class="BB" >{{ score.BB }}</td>
                <td class="FX" >{{ score.FX }}</td>
                <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="Event" >{{ score.Event }}</td>
                <td class="Date" >{{ score.Date }}</td>
              </tr>
@@ -72,12 +72,12 @@ discipline: "WAG"
              <tr>
                <td class="Country" >{{ score.Fed }}</td>
                <td class="Name" >{{ score.Name }}</td>
-               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="VT" >{{ score.VT }}</td>
                <td class="UB" >{{ score.UB }}</td>
                <td class="BB" >{{ score.BB }}</td>
                <td class="FX" >{{ score.FX }}</td>
                <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="Event" >{{ score.Event }}</td>
                <td class="Date" >{{ score.Date }}</td>
              </tr>
@@ -87,12 +87,12 @@ discipline: "WAG"
              <tr>
                <td class="Country" >{{ score.Fed }}</td>
                <td class="Name" >{{ score.Name }}</td>
-               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="VT" >{{ score.VT }}</td>
                <td class="UB" >{{ score.UB }}</td>
                <td class="BB" >{{ score.BB }}</td>
                <td class="FX" >{{ score.FX }}</td>
                <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
                <td class="Event" >{{ score.Event }}</td>
                <td class="Date" >{{ score.Date }}</td>
              </tr>
