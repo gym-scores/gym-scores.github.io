@@ -1,3 +1,6 @@
+{
+ "attribute": "MAG AA",
+"scores":
 [
  {
    "Fed": "JPN",
@@ -28125,4 +28128,6 @@
    "Event": "Japan Open",
    "Date": "Sep 6, 2025"
  }
+
 ]
+}
