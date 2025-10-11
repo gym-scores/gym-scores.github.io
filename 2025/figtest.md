@@ -22,7 +22,22 @@ discipline: "WAG"
     </tr>
 </thead>
       <tbody>
-         {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , "0 or 1 or 2 or 3 or 4" -%}
+         {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , 2 -%}
+            {%- for score in figScores -%}
+             <tr>
+               <td class="Country" >{{ score.Fed }}</td>
+               <td class="Name" >{{ score.Name }}</td>
+               <td class="Total" ><strong>{{ score.Total }}</strong></td>
+               <td class="VT" >{{ score.VT }}</td>
+               <td class="UB" >{{ score.UB }}</td>
+               <td class="BB" >{{ score.BB }}</td>
+               <td class="FX" >{{ score.FX }}</td>
+               <td class="ND" ><I>{{ score.ND }}</I></td>
+               <td class="Event" >{{ score.Event }}</td>
+               <td class="Date" >{{ score.Date }}</td>
+             </tr>
+            {%- endfor -%}
+         {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , 3 -%}
             {%- for score in figScores -%}
              <tr>
                <td class="Country" >{{ score.Fed }}</td>
