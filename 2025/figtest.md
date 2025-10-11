@@ -22,7 +22,7 @@ discipline: "WAG"
     </tr>
 </thead>
       <tbody>
-         {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , 4 | where: "lc" , 3 -%}
+         {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , "0 or 1 or 2 or 3 or 4" -%}
             {%- for score in figScores -%}
              <tr>
                <td class="Country" >{{ score.Fed }}</td>
