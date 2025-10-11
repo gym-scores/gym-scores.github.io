@@ -24,16 +24,16 @@ discipline: "WAG"
       <tbody>
    {%- for score in site.data.figwagaa2025.scores -%}
     <tr>
-      <td class="Country" >{{ item.Fed }}</td>
-      <td class="Name" >{{ item.Name }}</td>
-      <td class="Total" ><strong>{{ item.Total }}</strong></td>
-      <td class="VT" >{{ item.VT }}</td>
-      <td class="UB" >{{ item.UB }}</td>
-      <td class="BB" >{{ item.BB }}</td>
-      <td class="FX" >{{ item.FX }}</td>
-      <td class="ND" ><I>{{ item.ND }}</I></td>
-      <td class="Event" >{{ item.Event }}</td>
-      <td class="Date" >{{ item.Date }}</td>
+      <td class="Country" >{{ score.Fed }}</td>
+      <td class="Name" >{{ score.Name }}</td>
+      <td class="Total" ><strong>{{ score.Total }}</strong></td>
+      <td class="VT" >{{ score.VT }}</td>
+      <td class="UB" >{{ score.UB }}</td>
+      <td class="BB" >{{ score.BB }}</td>
+      <td class="FX" >{{ score.FX }}</td>
+      <td class="ND" ><I>{{ score.ND }}</I></td>
+      <td class="Event" >{{ score.Event }}</td>
+      <td class="Date" >{{ score.Date }}</td>
     </tr>
    {%- endfor -%}
 </tbody>
