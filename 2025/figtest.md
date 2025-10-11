@@ -23,8 +23,8 @@ discipline: "WAG"
 </thead>
       <tbody>
          {%- for item in site.data.figwagaa2025.scores -%}
-                  {%- assign level = site.data.figwagaa2025.scores.lc -%}
-                 {%- if level < 5 -%}
+         <!--      {%- assign level = site.data.figwagaa2025.scores.lc -%}
+                 {%- if level < 5 -%} -->
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
       <td class="Name" >{{ item.Name }}</td>
@@ -37,7 +37,7 @@ discipline: "WAG"
       <td class="Event" >{{ item.Event }}</td>
       <td class="Date" >{{ item.Date }}</td>
     </tr>
-          {%- endif -%}
+      <!--    {%- endif -%} -->
          {%- endfor -%}
 </tbody>
 </table>
