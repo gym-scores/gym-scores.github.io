@@ -5,7 +5,14 @@ date: 2025-10-07 06:00:00 -0700
 discipline: "WAG"
 ---
 
-<table id="apparatus"
+{%- assign scores = site.data.figwagaa2025.scores}
+            {%- for score in scores -%}
+               {&- if score.lc < 5 -%}
+               <p>{{ score.Total }}</p>
+                  {%- endif -%}
+            {%- endfor -%}
+
+<!-- <table id="apparatus"
    class="table table-striped">
 <thead>
    <tr>
@@ -40,7 +47,7 @@ discipline: "WAG"
                   {%- endif -%}
             {%- endfor -%}
 </tbody>
-</table>
+</table> -->
 
 <!-- <table id="apparatus"
    class="table table-striped">
