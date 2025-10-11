@@ -1,0 +1,45 @@
+---
+layout: post
+title: "All-Around (MAG) 2025"
+date: 2025-10-07 06:00:00 -0700
+discipline: "MAG"
+---
+
+<table id="apparatus"
+   class="table table-striped">
+<thead>
+   <tr>
+      <th>Country</th>
+      <th>Name</th>
+      <th>Total</th>
+      <th>FX</th>
+      <th>PH</th>
+      <th>SR</th>
+      <th>VT</th>
+      <th>PB</th>
+      <th>HB</th>
+      <th>ND</th>
+      <th>Event</th>
+      <th>Date</th>  
+    </tr>
+</thead>
+      <tbody>
+   {%- for item in site.data.magfx2025.scores -%}
+    <tr>
+      <td class="Country" >{{ item.Fed }}</td>
+      <td class="Name" >{{ item.Name }}</td>
+      <td class="Total" ><strong>{{ item.Total }}</strong></td>
+      <td class="FX" >{{ item.FX }}</td>
+      <td class="PH" >{{ item.PH }}</td>
+      <td class="SR" ><i>{{ item.SR }}</i></td>
+      <td class="VT" >{{ item.VT }}</td>
+      <td class="PB" >{{ item.PB }}</td>
+      <td class="HB" >{{ item.HB }}</td>
+      <td class="ND" ><I>{{ item.ND }}</I></td>
+      <td class="Event" >{{ item.Event }}</td>
+      <td class="Date" >{{ item.Date }}</td>
+    </tr>
+         {%- endfor -%}
+</tbody>
+</table>
+
