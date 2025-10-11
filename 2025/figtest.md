@@ -81,6 +81,7 @@ discipline: "WAG"
                <td class="Event" >{{ score.Event }}</td>
                <td class="Date" >{{ score.Date }}</td>
              </tr>
+                     {%- endfor -%}
          {%- assign figScores = site.data.figwagaa2025.scores | where: "lc" , 4 -%}
             {%- for score in figScores -%}
              <tr>
@@ -95,7 +96,6 @@ discipline: "WAG"
                <td class="Event" >{{ score.Event }}</td>
                <td class="Date" >{{ score.Date }}</td>
              </tr>
-            {%- endfor -%}
             {%- endfor -%}
 </tbody>
 </table>
