@@ -11074,7 +11074,7 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ISAYEV Stanislav",
+   "Name": "ISAYEV Stanislav ИСАЕВ Станислав",
    "D1": "",
    "E1": "",
    "ND1": "",
@@ -11085,28 +11085,10 @@
    "ND2": "",
    "Bonus2": "",
    "Score2": "",
-   "Average": "",
+   "Average": "12.816",
    "Combined D": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ИСАЕВ Станислав",
-   "Name": "",
-   "D1": "",
-   "E1": "",
-   "ND1": "",
-   "Bonus1": "",
-   "Score1": "",
-   "D2": "",
-   "E2": "",
-   "ND2": "",
-   "Bonus2": "",
-   "Score2": "12.816",
-   "Average": "",
-   "Combined D": "Volga Federal District Championships EF",
-   "Event": "Russia",
-   "Date": ""
+   "Event": "Volga Federal District Championships EF",
+   "Date": "Mar 12, 2025"
  },
  {
    "Fed": "RUS",
@@ -14962,24 +14944,7 @@
  },
  {
    "Fed": "RUS",
-   "Name": "ZHABIN Sergey",
-   "D1": "",
-   "E1": "",
-   "ND1": "",
-   "Bonus1": "",
-   "Score1": "",
-   "D2": "",
-   "E2": "",
-   "ND2": "",
-   "Bonus2": "",
-   "Score2": "",
-   "Average": "",
-   "Combined D": "",
-   "Event": "",
-   "Date": ""
- },
- {
-   "Fed": " ЖАБИН Сергей",
+   "Name": "ZHABIN Sergey ЖАБИН Сергей",
    "Name": "",
    "D1": "",
    "E1": "",
@@ -14990,11 +14955,11 @@
    "E2": "",
    "ND2": "",
    "Bonus2": "",
-   "Score2": "11.966",
-   "Average": "",
-   "Combined D": "FE/Siberian Federal District Champs EF",
-   "Event": "Russia",
-   "Date": ""
+   "Score2": "",
+   "Average": "11.966",
+   "Combined D": "",
+   "Event": "FE/Siberian Federal District Champs EF",
+   "Date": "Mar 11, 2025"
  },
  {
    "Fed": "AUT",
@@ -16996,3 +16961,4 @@
  }
 ]
 }
+
