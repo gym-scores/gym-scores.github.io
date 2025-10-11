@@ -9,7 +9,6 @@ discipline: "WAG"
             {%- unless score.lc >5 -%}
                <p>{{ score.Total }}</p>
                   {%- endunless -%}
-            {%- endfor -%}
 
 <!-- <table id="apparatus"
    class="table table-striped">
