@@ -22,8 +22,8 @@ discipline: "WAG"
     </tr>
 </thead>
       <tbody>
-         {%- assign level = site.data.figwagaa2025.scores.lc -%}
          {%- for item in site.data.figwagaa2025.scores -%}
+                  {%- assign level = site.data.figwagaa2025.scores.lc -%}
                  {%- if level < 5 -%}
     <tr>
       <td class="Country" >{{ item.Fed }}</td>
