@@ -79,7 +79,7 @@
             </div>
         </div>
 
-<!--        <script>
+       <!-- <script>
             fetch('data/mph25.json')
                 .then(response => response.json())
                 .then(data => {
@@ -88,13 +88,38 @@
                     });
                 });
         </script>-->
-                <script>
-            fetch('data/mph25.json')
-                .then(response => response.json())
-                .then(data => {
-                    });
-                var filteredData = data.filter(item => item.lc < 5);
-                return filteredData;
+
+        <script>
+            // Define the remote URL for the JSON data.
+const remoteJsonUrl = 'data/mph25.json'; 
+// (Replace with your actual URL)
+
+// The value to compare against.
+const filterLc = 5;
+
+// Use fetch to retrieve the data from the remote URL.
+fetch(remoteJsonUrl)
+  .then(response => {
+    // Check if the request was successful.
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    // Parse the JSON data from the response.
+    return response.json();
+  })
+  .then(data => {
+    // Filter the array of products.
+    const filteredData = data.filter(item => {
+      return item.lc < filterLc;
+    });
+    
+    // Log the new, filtered array to the console.
+    console.log(filteredData);
+  })
+  .catch(error => {
+    // Handle any errors that occurred during the fetch operation.
+    console.error('There was a problem with the fetch operation:', error);
+  });
         </script>
           <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
         <!-- Bootstrap core JS-->
