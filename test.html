@@ -93,9 +93,8 @@
                 .then(response => response.json())
                 .then(data => {
                     });
-                var filteredData = jsonData.filter(function(item) {
-                    return item.lc < '5';
-                });
+                var filteredData = data.filter(item => item.lc < 5);
+                return filteredData;
         </script>
           <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
         <!-- Bootstrap core JS-->
