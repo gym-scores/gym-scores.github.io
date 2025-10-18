@@ -39,7 +39,9 @@
         <div class="container">
             <div class="text-center mt-5">
                 <h1>A Bootstrap 5 Starter Template</h1>
-                <table>
+                <table data-toggle="table"
+  data-pagination="true"
+  data-search="true">
 <thead>
 <tr>
 <th>Fed</th>
@@ -48,7 +50,7 @@
 <th>E</th>
 <th>ND</th>
 <th>Bonus</th>
-<th>Score</th>
+<th data-sortable="true" data-field="score">Score</th>
 <th>Event</th>
 <th>Organizer</th>
 <th>Event Type</th>
@@ -260,7 +262,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-        
+
         <script src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.2/dist/bootstrap-table.min.js"></script>
     </body>
 </html>
