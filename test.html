@@ -79,7 +79,7 @@
             </div>
         </div>
 
-       <!-- <script>
+       <script>
             fetch('data/mph25.json')
                 .then(response => response.json())
                 .then(data => {
@@ -87,9 +87,9 @@
                         return item.lc < 5;
                     });
                 });
-        </script>-->
+        </script>
 
-        <script>
+     <!--   <script>
             // Define the remote URL for the JSON data.
 const remoteJsonUrl = 'data/mph25.json'; 
 // (Replace with your actual URL)
@@ -120,7 +120,7 @@ fetch(remoteJsonUrl)
     // Handle any errors that occurred during the fetch operation.
     console.error('There was a problem with the fetch operation:', error);
   });
-        </script>
+        </script> -->
           <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -151,7 +151,7 @@ fetch(remoteJsonUrl)
           sortOrder: 'desc'
         }
       ],
-      data: filteredData
+      data: 'filteredData'
     })
   })
 </script>
