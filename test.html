@@ -78,49 +78,7 @@
                 </table>
             </div>
         </div>
-
-       <script>
-            fetch('data/mph25.json')
-                .then(response => response.json())
-                .then(data => {
-                    var filteredData = jsonData.filter(function(item) {
-                        return item.lc < 5;
-                    });
-                });
-        </script>
-
-     <!--   <script>
-            // Define the remote URL for the JSON data.
-const remoteJsonUrl = 'data/mph25.json'; 
-// (Replace with your actual URL)
-
-// The value to compare against.
-const filterLc = 5;
-
-// Use fetch to retrieve the data from the remote URL.
-fetch(remoteJsonUrl)
-  .then(response => {
-    // Check if the request was successful.
-    if (!response.ok) {
-      throw new Error('Network response was not ok');
-    }
-    // Parse the JSON data from the response.
-    return response.json();
-  })
-  .then(data => {
-    // Filter the array of products.
-    const filteredData = data.filter(item => {
-      return item.lc < filterLc;
-    });
-    
-    // Log the new, filtered array to the console.
-    console.log(filteredData);
-  })
-  .catch(error => {
-    // Handle any errors that occurred during the fetch operation.
-    console.error('There was a problem with the fetch operation:', error);
-  });
-        </script> -->
+        <!-- jQuery JS -->
           <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -151,7 +109,7 @@ fetch(remoteJsonUrl)
           sortOrder: 'desc'
         }
       ],
-      data: 'filteredData'
+      data: 'data/fig-mph25.json'
     })
   })
 </script>
