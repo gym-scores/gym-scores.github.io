@@ -79,7 +79,7 @@
             </div>
         </div>
 
-        <script>
+<!--        <script>
             fetch('data/mph25.json')
                 .then(response => response.json())
                 .then(data => {
@@ -87,8 +87,15 @@
                         return item.lc < 5;
                     });
                 });
-
-
+        </script>-->
+                <script>
+            fetch('data/mph25.json')
+                .then(response => response.json())
+                .then(data => {
+                    });
+                var filteredData = jsonData.filter(function(item) {
+                    return item.lc < 5;
+                });
         </script>
           <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
         <!-- Bootstrap core JS-->
