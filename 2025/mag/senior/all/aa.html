@@ -160,6 +160,7 @@
                 <table id="table" data-page-size="25" data-page-list="[10, 25, 50, 100]" class="table table-sm table-hover">
                     <thead>
                         <tr>
+                            <th data-field="index" data-formatter="rowIndexFormatter">Rank</th>
                             <th data-field="Fed" data-sortable="true">Fed</th>
                             <th data-field="Name" data-sortable="true"><strong>Name</strong></th>
                             <th data-field="Total" data-sortable="true"><strong>Total</strong></th>
@@ -185,7 +186,11 @@
         <!-- Bootstrap Tables JS -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.2/dist/bootstrap-table.min.js"></script>
         <script src="extensions/multiple-sort/bootstrap-table-multiple-sort.js"></script>
-
+<script>
+    function rowIndexFormatter(value, row, index) {
+  return index + 1;
+}
+</script>
 <script>
   $(function() {
     $('#table').bootstrapTable({
@@ -203,22 +208,6 @@
       url: '../../../../data/maa25.json'
     })
   })
-    var addNumeration = function(cl){
-  var table = document.querySelector('table.' + cl)
-  var trs = table.querySelectorAll('tr')
-  var counter = 1
-  
-  Array.prototype.forEach.call(trs, function(x,i){
-    var firstChild = x.children[0]
-    if (firstChild.tagName === 'TD') {
-      var cell = document.createElement('td')
-      cell.textContent = counter ++
-      x.insertBefore(cell,firstChild)
-    } else {
-      firstChild.setAttribute('colspan',2)
-    }
-  })
-}
 </script>
     </body>
 </html>
