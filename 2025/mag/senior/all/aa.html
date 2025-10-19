@@ -174,22 +174,6 @@
                             <th data-field="Date" data-sortable="true">Date</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <tr>
-                            <td data-field="Fed" data-sortable="true">Fed</td>
-                            <td data-field="Name" data-sortable="true"><strong>Name</strong></td>
-                            <td data-field="Total" data-sortable="true"><strong>Total</strong></td>
-                            <td data-field="FX" data-sortable="true">FX</td>
-                            <td data-field="PH" data-sortable="true">PH</td>
-                            <td data-field="SR" data-sortable="true">SR</td>
-                            <td data-field="VT" data-sortable="true">VT</td>
-                            <td data-field="PB" data-sortable="true">PB</td>
-                            <td data-field="HB" data-sortable="true">HB</td>
-                            <td data-field="ND" data-sortable="true">ND</td>
-                            <td data-field="Event" data-sortable="true">Event</td>
-                            <td data-field="Date" data-sortable="true">Date</td>
-                        </tr>
-                    </tbody>
                 </table>
             </div>
         </div>
@@ -219,8 +203,6 @@
       url: '../../../../data/maa25.json'
     })
   })
-</script>
-<script>
     var addNumeration = function(cl){
   var table = document.querySelector('table.' + cl)
   var trs = table.querySelectorAll('tr')
@@ -237,8 +219,6 @@
     }
   })
 }
-
-addNumeration("table")
 </script>
     </body>
 </html>
