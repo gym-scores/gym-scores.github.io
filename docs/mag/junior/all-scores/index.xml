@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All Scores on gym-scores</title>
+    <link>http://localhost:1313/docs/mag/junior/all-scores/</link>
+    <description>Recent content in All Scores on gym-scores</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Oct 2025 21:56:54 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/mag/junior/all-scores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Junior All-Around (MAG)</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/aa/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:08 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/aa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junior Floor Exercise (MAG)</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/magfx/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:18 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/magfx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junior Pommel Horse</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/ph/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:22 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/ph/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junior Still Rings</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/sr/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:25 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/sr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junior Single Vault (MAG)</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/magvt/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:30 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/magvt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junior Parallel Bars</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/pb/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:39 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/pb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junior Horizontal Bar</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/hb/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:43 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/hb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junior Two-Vault (MAG)</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/mag2vt/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:54 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/mag2vt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junior AA Difficulty (MAG)</title>
+      <link>http://localhost:1313/docs/mag/junior/all-scores/aad/</link>
+      <pubDate>Sun, 19 Oct 2025 21:56:11 -0500</pubDate>
+      <guid>http://localhost:1313/docs/mag/junior/all-scores/aad/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
