@@ -1,0 +1,64 @@
+<table id="myTable" class="stripe" data-order='[[ 12, "desc" ]]' data-page-length='25'>
+    <colgroup>
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 0.1%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 0.1%;">                     
+    </colgroup>
+    <thead>
+        <tr>	
+            <th>Country</th>
+            <th>Name</th>
+            <th>D</th>
+            <th>E</th>
+            <th>ND</th>
+            <th>Bonus</th>
+            <th>Score</th>
+            <th>D</th>
+            <th>E</th>
+            <th>ND</th>
+            <th>Bonus</th>
+            <th>Score</th>
+            <th>Average</th>
+            <th>Event</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ $dataFile := .Get "file" }}
+        {{ with index .Site.Data $dataFile }}
+        {{ range . }}
+                        {{ if lt .lc 5 }}
+            <tr>
+                <td class="tiny">{{ .Fed }}</td>
+                <td><strong>{{ .Name }}</strong></td>
+                <td>{{ .V1D }}</td>
+                <td>{{ .V1E }}</td>
+                <td><i>{{ .V1ND }}</i></td>
+                <td>{{ .V1Bonus }}</td>
+                <td><strong>{{ .V1Score }}</strong></td>
+                <td>{{ .V2D }}</td>
+                <td>{{ .V2E }}</td>
+                <td><i>{{ .V2ND }}</i></td>
+                <td>{{ .V2Bonus }}</td>
+                <td><strong>{{ .V2Score }}</strong></td>
+                <td><strong>{{ .Average }}</strong></td>
+                <td>{{ .Event }}</td>
+                <td>{{ .Date }}</td>
+            </tr>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </tbody>
+</table>
