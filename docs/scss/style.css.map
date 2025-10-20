@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/annajetton/Documents/GitHub/gym-scores.github.io",
+	"sourceRoot": "/Users/annajetton/Documents/GitHub/gym-scores.github.io original",
 	"sources": [
 		"assets/docs/scss/style.scss",
 		"assets/docs/scss/custom/plugins/icons/_google-material.scss",

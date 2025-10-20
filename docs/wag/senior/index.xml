@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Senior on gym-scores</title>
-    <link>http://localhost:1313/docs/wag/senior/</link>
+    <link>http://gym-scores.github.io/docs/wag/senior/</link>
     <description>Recent content in Senior on gym-scores</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/wag/senior/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gym-scores.github.io/docs/wag/senior/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
