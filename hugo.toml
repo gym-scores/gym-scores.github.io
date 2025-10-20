@@ -16,3 +16,5 @@ title = 'gym-scores'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+sectionPagesMenu = 'main'
