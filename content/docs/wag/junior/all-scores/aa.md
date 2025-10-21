@@ -9,4 +9,4 @@ draft: false
 toc: true
 ---
 
-{{< waa file="data/2025/junior/waa25" >}}
+{{< waa file="jwaa25" >}}
