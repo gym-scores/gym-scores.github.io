@@ -8,3 +8,5 @@ lastmod: "2025-10-19T22:16:46-05:00"
 draft: false
 toc: true
 ---
+
+{{< waa file="data/2025/junior/waa25" >}}
