@@ -8,3 +8,5 @@ lastmod: "2025-10-19T21:56:39-05:00"
 draft: false
 toc: true
 ---
+
+{{< fig_bonus file="jmpb25" >}}

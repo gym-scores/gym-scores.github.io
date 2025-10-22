@@ -9,3 +9,4 @@ draft: false
 toc: true
 ---
 
+{{< fig_maa file="jmaa25" >}}

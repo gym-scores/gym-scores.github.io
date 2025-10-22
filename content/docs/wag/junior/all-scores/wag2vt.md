@@ -8,3 +8,5 @@ lastmod: "2025-10-19T22:17:03-05:00"
 draft: false
 toc: true
 ---
+
+{{< wag2vt file="j2wvt25" >}}

@@ -1,0 +1,39 @@
+<table id="myTable" class="stripe" data-order='[[ 9, "desc" ],[7, "desc"],[6, "desc"] ,[3, "desc"]]' data-page-length='100'>
+    <thead>
+        <tr>
+		    <th>Rank</th>
+            <th>Country</th>
+            <th>Athlete</th>
+    		<th>D</th>
+            <th>DB</th>
+	    	<th>DA</th>
+            <th>A</th>
+		    <th>E</th>
+            <th>ND</th>
+            <th>Score</th>
+            <th>Event</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ $dataFile := .Get "file" }}
+        {{ with index .Site.Data $dataFile }}
+        {{ range . }}
+            <tr>
+                <td>{{ .Rank }}</td>
+                <td>{{ .Fed }}</td>
+                <td><strong>{{ .Name }}</strong></td>
+                <td>{{ .D }}</td>
+                <td>{{ .DB }}</td>
+                <td>{{ .DA }}</td>
+                <td>{{ .A }}</td>
+                <td>{{ .E }}</td>
+                <td><i>{{ .ND }}</i></td>
+                <td><strong>{{ .Score }}</strong></td>
+                <td>{{ .Event }}</td>
+                <td>{{ .Date }}</td>
+            </tr>
+        {{ end }}
+        {{ end }}
+    </tbody>
+</table>

@@ -1,10 +1,12 @@
 ---
-weight: 999
+weight: 100
 title: "Junior Hoop"
-description: "Individual hoop scores"
+description: "2025 individual hoop scores"
 icon: "article"
 date: "2025-10-19T21:57:51-05:00"
 lastmod: "2025-10-19T21:57:51-05:00"
 draft: false
 toc: true
 ---
+
+{{< rgapp file="jhoop25" >}}

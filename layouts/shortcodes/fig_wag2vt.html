@@ -1,6 +1,7 @@
-<table id="myTable" class="stripe" data-order='[[ 11, "desc" ]]' data-page-length='100'>
+<table id="myTable" class="stripe" data-order='[[ 12, "desc" ]]' data-page-length='100'>
     <thead>
         <tr>	
+            <th>Rank</th>
             <th>Country</th>
             <th>Name</th>
             <th>D</th>
@@ -23,6 +24,7 @@
         {{ range . }}
                         {{ if lt .lc 5 }}
             <tr>
+                <td>{{ .Rank }}</td>
                 <td>{{ .Fed }}</td>
                 <td><strong>{{ .Name }}</strong></td>
                 <td>{{ .V1D }}</td>
