@@ -11,4 +11,4 @@ toc: true
 
 The 2025 junior group routines are 5 hoops and 5 pairs of clubs.
 
-{{< rggaa file="jgaa25" >}}
+{{< jrggaa file="jgaa25" >}}
