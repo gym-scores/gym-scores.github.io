@@ -36,12 +36,12 @@ hero:
 
   ctaButton:
     icon: info
-    btnText: "Get Started"
-    url: "/about"
+    btnText: "About this site"
+    url: "/docs/about"
   cta2Button:
     icon: dataset_linked
     btnText: "See the original spreadsheets"
-    url: "/sheetlinks"
+    url: "/docs/sheetlinks"
 
 #  info: "**Open Source** MIT Licensed."
 
