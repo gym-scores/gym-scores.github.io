@@ -14,4 +14,4 @@ There's plenty more to see in the original spreadsheets. You can find them linke
 ### 2025
 
 - [Senior](https://docs.google.com/spreadsheets/d/1Lbn7KjlthiXGkLG3YKSATh4JMwpfQTYiAlr9xt5BYeI/edit?usp=sharing)
-- [Junior](https://docs.google.com/spreadsheets/d/1TV8EUc5QdE13cbBDLXR3JbJEz3FegU9Ys5NgMiAsTU8/edit?usp=sharing)
+- [Junior](https://docs.google.com/spreadsheets/d/1f9k9rIeDEkh51KJrF5nCKwqpI8mwxUOfr3O9iBC5kOE/edit?usp=sharing)
