@@ -1,5 +1,5 @@
 ---
-weight: 100
+weight: 400
 title: "About the site"
 description: ""
 icon: "article"
