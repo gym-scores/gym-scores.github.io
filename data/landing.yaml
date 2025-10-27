@@ -34,11 +34,11 @@ hero:
     #boxShadow: false # default 'false' (excludes .svg images)
     #rounded: false # round the image corners? default 'false' (excludes .svg images)
 
-  cta2Button:
+  ctaButton:
     icon: calendar_month
     btnText: "2025 calendar"
     url: "/docs/2025cal"
-  ctaButton:
+  cta2Button:
     icon: info
     btnText: "About this site"
     url: "/docs/about"
