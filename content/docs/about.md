@@ -22,7 +22,6 @@ You can find links to the original spreadsheets [here](https://gym-scores.github
 The plan for this site in the future:
 
 - MAG/WAG team finals pages. This was not a priority in a year of individual Worlds.
-- Meet calendar
 - Athlete info database
 
 *This site is built with [Hugo](https://gohugo.io) and uses the [Lotus Docs theme](https://lotusdocs.dev). Table functionality is built with [DataTables](https://datatables.net).*
