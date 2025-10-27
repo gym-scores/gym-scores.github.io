@@ -25,14 +25,14 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "last update: Worlds WAG QF"
+  subtitle: "latest update: Artistic Worlds EF"
 
-  #image:
-   # path: "images" # path to image under configured assets directory. default 'images'
-    #filename: "frontpage.png" # filename of your hero image (including file extension)
-    #alt: "the silhouette of a female gymnast on a balance beam" # Optional but recommended
-    #boxShadow: false # default 'false' (excludes .svg images)
-    #rounded: false # round the image corners? default 'false' (excludes .svg images)
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "/frontpage.png" # filename of your hero image (including file extension)
+    alt: "the silhouette of a female gymnast on a balance beam" # Optional but recommended
+    boxShadow: false # default 'false' (excludes .svg images)
+    rounded: false # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: info
