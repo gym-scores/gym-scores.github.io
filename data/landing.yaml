@@ -34,18 +34,14 @@ hero:
     #boxShadow: false # default 'false' (excludes .svg images)
     #rounded: false # round the image corners? default 'false' (excludes .svg images)
 
-  ctaButton:
-    icon: info
-    btnText: "About this site"
-    url: "/docs/about"
-  cta2Button:
-    icon: dataset_linked
-    btnText: "See the original spreadsheets"
-    url: "/docs/sheetlinks"
   cta2Button:
     icon: calendar_month
     btnText: "2025 calendar"
     url: "/docs/2025cal"
+  ctaButton:
+    icon: info
+    btnText: "About this site"
+    url: "/docs/about"
 
 #  info: "**Open Source** MIT Licensed."
 

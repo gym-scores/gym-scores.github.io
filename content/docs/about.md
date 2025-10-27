@@ -15,7 +15,7 @@ But Google Sheets has always had a big limitation. Katherine’s 2025 senior she
 
 For MAG and WAG, two versions are available for each chart, one filtered to FIG-sanctioned meets only and the other including all data. Domestic bonuses have been removed whenever they can be identified. All charts can be sorted by any column, ascending or descending, and there is a search bar on each page. (I will note that the search engine is imperfect. Searching for “ITA” brings up “Vitaliy Guimaraes” too.)
 
-You can find links to the original spreadsheets [here](https://gym-scores.github.io/docs/sheetlinks/) (also linked on the front page and in the sidebar/menu). There’s more cool things in the spreadsheets, including leaderboards for all disciplines and indicators of medal-winning routines. Be sure to check them out. And please let one of us know if there's errors or missing data! We're always happy to make corrections and additions.
+You can find links to the original spreadsheets [here](https://gym-scores.github.io/docs/sheetlinks/) (also linked in the sidebar/menu). There’s more cool things in the spreadsheets, including leaderboards for all disciplines and indicators of medal-winning routines. Be sure to check them out. And please let one of us know if there's errors or missing data! We're always happy to make corrections and additions.
 
 —bretonstripes
 
