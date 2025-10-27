@@ -42,6 +42,10 @@ hero:
     icon: dataset_linked
     btnText: "See the original spreadsheets"
     url: "/docs/sheetlinks"
+  cta2Button:
+    icon: calendar_month
+    btnText: "2025 calendar"
+    url: "/docs/2025cal"
 
 #  info: "**Open Source** MIT Licensed."
 
