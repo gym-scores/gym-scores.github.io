@@ -5,6 +5,10 @@ body {
     color: $body-color;
     background-color: $body-bg;
 }
+:root.dark {
+  --dt-html-background: rgb(51, 57, 64) !important;
+}
+
 @media (max-width: 1199px) {
     html {
         scroll-padding-top: 80px;
