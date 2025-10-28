@@ -20,3 +20,7 @@ $value in $theme-colors {
 .bg-white-color {
     background-color: $bg-white-color !important;
 }
+
+:root.dark {
+  --dt-html-background: rgb(65, 73, 83) !important;
+}

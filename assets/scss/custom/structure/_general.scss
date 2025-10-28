@@ -5,9 +5,6 @@ body {
     color: $body-color;
     background-color: $body-bg;
 }
-:root.dark {
-  --dt-html-background: rgb(41, 84, 133) !important;
-}
 
 @media (max-width: 1199px) {
     html {
