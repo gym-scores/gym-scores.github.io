@@ -13,10 +13,10 @@
             <th>Date</th>
         </tr>
     </thead>
-    <tbody>
-        {{ $dataFile := .Get "file" }}
-        {{ with index .Site.Data $dataFile }}
-        {{ range . }}
+    <tbody> 
+        {{ with .Page.Resources.Get "scores.json" }}
+            {{ $data := .Content | transform.Unmarshal }}
+            {{ range $data }}
             <tr>
                 <td>{{ .Rank }}</td>
                 <td>{{ .Fed }}</td>

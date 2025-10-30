@@ -17,9 +17,9 @@
         </tr>
     </thead>
     <tbody>
-        {{ $dataFile := .Get "file" }}
-        {{ with index .Site.Data $dataFile }}
-        {{ range . }}
+        {{ with .Page.Resources.Get "scores.json" }}
+            {{ $data := .Content | transform.Unmarshal }}
+            {{ range $data }}
                         {{ if lt .lc 5 }}
             <tr>
                 <td>{{ .Rank }}</td>
