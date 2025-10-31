@@ -9,7 +9,9 @@ draft: false
 toc: true
 ---
 
-{{< tabs tabTotal="22">}}
+### MAG
+
+{{< tabs tabTotal="8">}}
 {{% tab tabName="MAG AA" %}}
 
 | #  | Fed | Name                  | Score  | Event                                 |
@@ -186,6 +188,11 @@ toc: true
 | 16 | KOR | JEONG Kangwoo            | 13.600 | South Korean National Sports Festival U18 EF |
 
 {{% /tab %}}
+{{< /tabs >}}
+
+### WAG
+
+{{< tabs tabTotal="6">}}
 {{% tab tabName="WAG AA" %}}
 
 | #  | Fed | Name                | Score  | Event                           |
@@ -318,6 +325,11 @@ toc: true
 | 16 | USA | MOREAU Caroline      | 13.125 | Trofeo Città Di Jesolo AA             |
 
 {{% /tab %}}
+{{< /tabs >}}
+
+### RG
+
+{{< tabs tabTotal="8">}}
 {{% tab tabName="RGI AA" %}}
 
 | #  | Fed | Name                 | Score   | Event                         |

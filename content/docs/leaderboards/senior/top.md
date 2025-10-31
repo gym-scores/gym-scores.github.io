@@ -9,7 +9,9 @@ draft: false
 toc: true
 ---
 
-{{< tabs tabTotal="22">}}
+### MAG
+
+{{< tabs tabTotal="8">}}
 {{% tab tabName="MAG AA" %}}
 
 | #  | Fed | Name               | Score  | Event                                     |
@@ -186,6 +188,11 @@ toc: true
 | 16 | JPN | KAWASAKI Daichi     | 14.400 | Japanese Video Review           |
 
 {{% /tab %}}
+{{< /tabs >}}
+
+### WAG
+
+{{< tabs tabTotal="6">}}
 {{% tab tabName="WAG AA" %}}
 
 | #  | Fed | Name                | Score  | Event                         |
@@ -318,6 +325,11 @@ toc: true
 | 16 | USA | SULLIVAN Ashlee     | 13.825 | Trofeo Città Di Jesolo EF       |
 
 {{% /tab %}}
+{{< /tabs >}}
+
+### RG
+
+{{< tabs tabTotal="8">}}
 {{% tab tabName="RGI AA" %}}
 
 | #  | Fed | Name                 | Score   | Event                         |
