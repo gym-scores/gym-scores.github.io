@@ -43,12 +43,12 @@ toc: true
 | 3  | GBR | HEPWORTH Harry      | 14.750 | British Men's Team Championships        |
 | 4  | USA | HONG Asher          | 14.700 | US Championships D2                     |
 | 5  | GBR | WHITEHOUSE Luke     | 14.666 | World Championships EF                  |
-| 6  | AIN | SHARAMKOU Yahor     | 14.600 | FIG Baku World Cup - EF              |
+| 6  | AIN | SHARAMKOU Yahor     | 14.600 | FIG Baku World Cup - EF                 |
 | 7  | PHI | YULO Carlos Edriel  | 14.600 | Asian Championships EF                  |
 | 8  | JPN | SUZUKI Ichita       | 14.566 | NHK Trophy D2                           |
-| 9  | ISR | DOLGOPYAT Artem     | 14.500 | FIG Szombathely WCC - QF             |
+| 9  | ISR | DOLGOPYAT Artem     | 14.500 | FIG Szombathely WCC - QF                |
 | 10 | JPN | SUZUKI Kazuta       | 14.500 | Japanese Super Specialist Championships |
-| 11 | KAZ | KARIMI Milad        | 14.466 | FIG Doha World Cup - EF              |
+| 11 | KAZ | KARIMI Milad        | 14.466 | FIG Doha World Cup - EF                 |
 | 12 | NOR | SKOGVANG Peder      | 14.450 | Unni og Haralds Pokaler AA              |
 | 13 | ITA | CASALI Lorenzo Minh | 14.433 | European Championships QF               |
 | 14 | JPN | HASHIMOTO Daiki     | 14.366 | World University Games AA               |
@@ -60,8 +60,8 @@ toc: true
 
 | #  | Fed | Name                   | Score  | Event                                   |
 |----|-----|------------------------|--------|-----------------------------------------|
-| 1  | ITA | TARGHETTA Gabriele     | 15.166 | FIG Paris WCC - QF                   |
-| 2  | KAZ | KURBANOV Nariman       | 15.100 | FIG Paris WCC - QF                   |
+| 1  | ITA | TARGHETTA Gabriele     | 15.166 | FIG Paris WCC - QF                      |
+| 2  | KAZ | KURBANOV Nariman       | 15.100 | FIG Paris WCC - QF                      |
 | 3  | USA | HOOPES Patrick         | 14.750 | US Championships D1                     |
 | 4  | ARM | KHACHATRYAN Mamikon    | 14.700 | World University Games QF               |
 | 5  | JPN | ISHIZAWA Hiroto        | 14.666 | All Japan Championships AA              |
@@ -69,7 +69,7 @@ toc: true
 | 7  | ARM | MANUKYAN Hamlet        | 14.600 | World University Games EF               |
 | 8  | USA | DANG Brandon           | 14.566 | US Championships D2                     |
 | 9  | CHN | HONG Yanming           | 14.500 | Chinese September Internal Test         |
-| 10 | VIE | DANG Ngoc Xuan Thien   | 14.500 | FIG Varna WCC - QF                   |
+| 10 | VIE | DANG Ngoc Xuan Thien   | 14.500 | FIG Varna WCC - QF                      |
 | 11 | KOR | HUR Woong              | 14.466 | Korean WCH Trials D2                    |
 | 12 | AUS | MOORE Jesse            | 14.450 | Australian Club Championships TF        |
 | 13 | CAN | LI Aidan               | 14.433 | Canadian Championships D2               |
@@ -91,12 +91,12 @@ toc: true
 | 7  | GRE | PETROUNIAS Eleftherios | 14.700 | European Championships QF        |
 | 8  | CHN | LIU Hengyu             | 14.666 | World University Games EF        |
 | 9  | KOR | SEO Jungwon            | 14.650 | Korean WCH Trials D1             |
-| 10 | CHN | ZHANG Boheng           | 14.600 | FIG Antalya World Cup - QF    |
-| 11 | ARM | AVETISYAN Artur        | 14.600 | FIG Cottbus World Cup - QF    |
+| 10 | CHN | ZHANG Boheng           | 14.600 | FIG Antalya World Cup - QF       |
+| 11 | ARM | AVETISYAN Artur        | 14.600 | FIG Cottbus World Cup - QF       |
 | 12 | TUR | KOSAK Mehmet Ayberk    | 14.533 | Turkish Championships AA         |
-| 13 | AZE | SIMONOV Nikita         | 14.500 | FIG Osijek World Cup - EF     |
+| 13 | AZE | SIMONOV Nikita         | 14.500 | FIG Osijek World Cup - EF        |
 | 14 | JPN | TAKAHASHI Kazuya       | 14.466 | Japanese Video Review            |
-| 15 | BEL | CUYLE Glen             | 14.466 | FIG Paris WCC - EF            |
+| 15 | BEL | CUYLE Glen             | 14.466 | FIG Paris WCC - EF               |
 | 16 | GBR | FRASER Joe             | 14.450 | British WCH Trials               |
 
 {{% /tab %}}
@@ -106,7 +106,7 @@ toc: true
 |----|-----|--------------------|--------|-------------------------------------|
 | 1  | GBR | JARMAN Jake        | 15.250 | English Championships               |
 | 2  | TUR | ASIL Adem          | 14.933 | Turkish Championships AA            |
-| 3  | ARM | DAVTYAN Artur      | 14.900 | FIG Cottbus World Cup - EF       |
+| 3  | ARM | DAVTYAN Artur      | 14.900 | FIG Cottbus World Cup - EF          |
 | 4  | PHI | YULO Carlos Edriel | 14.900 | World Championships QF              |
 | 5  | CHN | HUANG Mingqi       | 14.833 | World Championships QF              |
 | 6  | JPN | ONO Suzushiro      | 14.833 | All Japan Student Championships     |
@@ -127,7 +127,7 @@ toc: true
 | #  | Fed | Name              | Score  | Event                                     |
 |----|-----|-------------------|--------|-------------------------------------------|
 | 1  | CHN | ZOU Jingyuan      | 15.566 | Chinese September Internal Test           |
-| 2  | COL | BARAJAS Angel     | 15.033 | FIG Paris WCC - QF                     |
+| 2  | COL | BARAJAS Angel     | 15.033 | FIG Paris WCC - QF                        |
 | 3  | JPN | OKA Shinnosuke    | 14.966 | World University Games QF                 |
 | 4  | TUR | ARICAN Ferhat     | 14.933 | Turkish Championships AA                  |
 | 5  | JPN | TSUNOGAI Tomoharu | 14.933 | All Japan Championships AA                |
@@ -163,7 +163,7 @@ toc: true
 | 13 | JPN | FUJIMAKI Shumpei  | 14.700 | Japanese Super Specialist Championships |
 | 14 | JPN | SUZUKI Shigeto    | 14.666 | Japanese Super Specialist Championships |
 | 15 | USA | RICHARD Frederick | 14.650 | US Championships D2                     |
-| 16 | COL | BARAJAS Angel     | 14.650 | FIG Szombathely WCC - EF             |
+| 16 | COL | BARAJAS Angel     | 14.650 | FIG Szombathely WCC - EF                |
 
 {{% /tab %}}
 {{% tab tabName="MAG 2 VT" %}}
@@ -172,7 +172,7 @@ toc: true
 |----|-----|---------------------|--------|---------------------------------|
 | 1  | CHN | HUANG Mingqi        | 15.050 | Chinese September Internal Test |
 | 2  | GBR | JARMAN Jake         | 14.975 | English Championships           |
-| 3  | ARM | DAVTYAN Artur       | 14.900 | FIG Cottbus World Cup - EF   |
+| 3  | ARM | DAVTYAN Artur       | 14.900 | FIG Cottbus World Cup - EF      |
 | 4  | PHI | YULO Carlos Edriel  | 14.866 | World Championships EF          |
 | 5  | GBR | HEPWORTH Harry      | 14.675 | English Championships           |
 | 6  | UKR | CHEPURNYI Nazar     | 14.583 | European Championships EF       |
@@ -181,10 +181,10 @@ toc: true
 | 9  | ITA | GRASSO Thomas       | 14.500 | Coppa Campioni EF               |
 | 10 | IRI | OLFATI Mahdi        | 14.500 | Asian Championships EF          |
 | 11 | BLR | SHARAMKOU Yahor     | 14.483 | Legends of Gymnastics AA        |
-| 12 | UZB | MIRVALIEV Abdulaziz | 14.475 | FIG Tashkent WCC - QF        |
+| 12 | UZB | MIRVALIEV Abdulaziz | 14.475 | FIG Tashkent WCC - QF           |
 | 13 | ITA | BRUGNAMI Tommaso    | 14.466 | World Championships EF          |
 | 14 | JPN | TANIGAWA Wataru     | 14.416 | DTB Pokal EF                    |
-| 15 | CRO | BENOVIC Aurel       | 14.400 | FIG Osijek World Cup - EF    |
+| 15 | CRO | BENOVIC Aurel       | 14.400 | FIG Osijek World Cup - EF       |
 | 16 | JPN | KAWASAKI Daichi     | 14.400 | Japanese Video Review           |
 
 {{% /tab %}}
@@ -206,7 +206,7 @@ toc: true
 | 7  | JPN | SUGIHARA Aiko       | 54.765 | Asian Championships QF        |
 | 8  | CHN | ZHANG Qingying      | 54.633 | World Championships AA        |
 | 9  | ALG | NEMOUR Kaylia       | 54.564 | World Championships AA        |
-| 10 | USA | SULLIVAN Ashlee     | 54.550 | DTB Pokal Mixed Cup        |
+| 10 | USA | SULLIVAN Ashlee     | 54.550 | DTB Pokal Mixed Cup           |
 | 11 | JPN | NAKAMURA Haruka     | 54.065 | Asian Championships QF        |
 | 12 | CAN | FONTAINE Lia-Monica | 53.966 | Pan American Championships QF |
 | 13 | ROU | BARBOSU Ana         | 53.933 | European Championships QF     |
@@ -222,7 +222,7 @@ toc: true
 | 1  | USA | WONG Leanne        | 14.960 | US World Selection Camp D1        |
 | 2  | PAN | NAVAS Karla        | 14.600 | Pan American Championships TF     |
 | 3  | GBR | EVANS Ruby         | 14.550 | British WCH Trials                |
-| 4  | USA | MOLOMO Zoey        | 14.500 | USA April Selection Camp       |
+| 4  | USA | MOLOMO Zoey        | 14.500 | USA April Selection Camp          |
 | 5  | JPN | KISHI Rina         | 14.366 | All Japan Championships AA        |
 | 6  | RUS | KALMYKOVA Anna     | 14.366 | Russian Cup QF                    |
 | 7  | ITA | ESPOSITO Manila    | 14.350 | Serie 1A Top 8 Final              |
@@ -314,11 +314,11 @@ toc: true
 | 5  | PAN | NAVAS Karla         | 14.334 | Pan American Championships EF   |
 | 6  | CAN | FONTAINE Lia-Monica | 14.200 | Pan American Championships EF   |
 | 7  | USA | HANG Jayla          | 14.150 | US World Selection Camp D2      |
-| 8  | BUL | GEORGIEVA Valentina | 14.150 | FIG Osijek World Cup - EF    |
+| 8  | BUL | GEORGIEVA Valentina | 14.150 | FIG Osijek World Cup - EF       |
 | 9  | RUS | KALMYKOVA Anna      | 14.117 | Russian Championships QF        |
-| 10 | CHN | YU Linmin           | 14.067 | FIG Osijek World Cup - EF    |
+| 10 | CHN | YU Linmin           | 14.067 | FIG Osijek World Cup - EF       |
 | 11 | GER | SCHOENMAIER Karina  | 14.050 | Bundesliga Match 1              |
-| 12 | GBR | MARTIN Abigail      | 14.050 | FIG Paris WCC - QF           |
+| 12 | GBR | MARTIN Abigail      | 14.050 | FIG Paris WCC - QF              |
 | 13 | USA | ROBERSON Joscelyn   | 13.983 | World Championships EF          |
 | 14 | BEL | VAELEN Lisa         | 13.866 | World Championships EF          |
 | 15 | JPN | MIYATA Shoko        | 13.825 | World University Games QF       |
@@ -337,14 +337,14 @@ toc: true
 | 1  | GER | VARFOLOMEEV Darja    | 122.750 | World Championships QF        |
 | 2  | UKR | ONOFRIICHUK Taisiia  | 120.300 | AEON Cup Final                |
 | 3  | BUL | NIKOLOVA Stiliana    | 119.300 | World Championships AA        |
-| 4  | ITA | RAFFAELI Sofia       | 118.250 | FIG Milan World Cup - QF   |
+| 4  | ITA | RAFFAELI Sofia       | 118.250 | FIG Milan World Cup - QF      |
 | 5  | USA | KEYS Rin             | 116.050 | Pan American Championships AA |
-| 6  | ISR | SUMKIN Meital Maayan | 115.300 | FIG Cluj-Napoca WCC - AA   |
-| 7  | AIN | HARNASKO Alina       | 115.250 | FIG Portimão WCC - AA      |
+| 6  | ISR | SUMKIN Meital Maayan | 115.300 | FIG Cluj-Napoca WCC - AA      |
+| 7  | AIN | HARNASKO Alina       | 115.250 | FIG Portimão WCC - AA         |
 | 8  | UZB | IKROMOVA Takhmina    | 114.650 | World Championships AA        |
 | 9  | GER | SIMAKOVA Anastasia   | 114.300 | World Championships AA        |
-| 10 | ITA | DRAGAS Tara          | 114.300 | FIG Cluj-Napoca WCC - AA   |
-| 11 | POL | LEWINSKA Liliana     | 113.600 | FIG Cluj-Napoca WCC - AA   |
+| 10 | ITA | DRAGAS Tara          | 114.300 | FIG Cluj-Napoca WCC - AA      |
+| 11 | POL | LEWINSKA Liliana     | 113.600 | FIG Cluj-Napoca WCC - AA      |
 | 12 | CYP | TUGOLUKOVA Vera      | 113.450 | European Championships QF     |
 | 13 | BRA | DOMINGOS Barbara     | 113.400 | Pan American Championships AA |
 | 14 | AIN | BORISOVA Mariia      | 113.300 | AEON Cup QF                   |
@@ -356,7 +356,7 @@ toc: true
 
 | #  | Fed | Name                 | Score  | Event                              |
 |----|-----|----------------------|--------|------------------------------------|
-| 1  | UKR | ONOFRIICHUK Taisiia  | 30.900 | FIG Cluj-Napoca WCC - AA        |
+| 1  | UKR | ONOFRIICHUK Taisiia  | 30.900 | FIG Cluj-Napoca WCC - AA           |
 | 2  | ITA | RAFFAELI Sofia       | 30.650 | World Championships Final          |
 | 3  | GER | VARFOLOMEEV Darja    | 30.600 | World Championships QF             |
 | 4  | BUL | NIKOLOVA Stiliana    | 30.533 | European Cup - Burgas Cross Battle |
@@ -366,34 +366,34 @@ toc: true
 | 8  | BUL | BREZALIEVA Eva       | 29.600 | Sofia International Final          |
 | 9  | GER | SIMAKOVA Anastasia   | 29.550 | World Championships AA             |
 | 10 | USA | KEYS Rin             | 29.500 | Pan American Championships AA      |
-| 11 | AIN | HARNASKO Alina       | 29.500 | FIG Portimão WCC - AA           |
+| 11 | AIN | HARNASKO Alina       | 29.500 | FIG Portimão WCC - AA              |
 | 12 | UKR | KARIKA Polina        | 29.350 | Grand Prix Brno Final              |
-| 13 | AIN | SALOS Anastasiia     | 29.250 | FIG Portimão WCC - Final        |
-| 14 | CYP | TUGOLUKOVA Vera      | 29.200 | FIG Baku World Cup - Final      |
+| 13 | AIN | SALOS Anastasiia     | 29.250 | FIG Portimão WCC - Final           |
+| 14 | CYP | TUGOLUKOVA Vera      | 29.200 | FIG Baku World Cup - Final         |
 | 15 | ROU | LICA Amalia          | 29.200 | AEON Cup Final                     |
-| 16 | POL | LEWINSKA Liliana     | 29.100 | Marbella Grand Prix AA          |
+| 16 | POL | LEWINSKA Liliana     | 29.100 | Marbella Grand Prix AA             |
 
 {{% /tab %}}
 {{% tab tabName="Ball" %}}
 
 | #  | Fed | Name                  | Score  | Event                          |
 |----|-----|-----------------------|--------|--------------------------------|
-| 1  | GER | VARFOLOMEEV Darja     | 30.750 | FIG Cluj-Napoca WCC - AA    |
+| 1  | GER | VARFOLOMEEV Darja     | 30.750 | FIG Cluj-Napoca WCC - AA       |
 | 2  | UKR | ONOFRIICHUK Taisiia   | 30.350 | AEON Cup Final                 |
 | 3  | BUL | NIKOLOVA Stiliana     | 30.100 | Sofia International Final      |
-| 4  | ITA | DRAGAS Tara           | 29.400 | FIG Milan World Cup - Final |
-| 5  | ITA | RAFFAELI Sofia        | 29.350 | Marbella Grand Prix AA      |
+| 4  | ITA | DRAGAS Tara           | 29.400 | FIG Milan World Cup - Final    |
+| 5  | ITA | RAFFAELI Sofia        | 29.350 | Marbella Grand Prix AA         |
 | 6  | ISR | SUMKIN Meital Maayan  | 29.100 | World Championships AA         |
 | 7  | UZB | SARANTSEVA Anastasiya | 29.050 | Asian Championships Final      |
 | 8  | USA | KEYS Rin              | 29.050 | World Championships Final      |
 | 9  | AIN | HARNASKO Alina        | 29.000 | University Games AA            |
 | 10 | GER | SIMAKOVA Anastasia    | 28.850 | Gymnastik International AA     |
-| 11 | POL | LEWINSKA Liliana      | 28.750 | Marbella Grand Prix AA      |
+| 11 | POL | LEWINSKA Liliana      | 28.750 | Marbella Grand Prix AA         |
 | 12 | UZB | IKROMOVA Takhmina     | 28.700 | World Championships Final      |
 | 13 | AIN | BORISOVA Mariia       | 28.650 | AEON Cup QF                    |
 | 14 | BUL | MALINOVA Dara         | 28.600 | Sofia International AA         |
-| 15 | UKR | KARIKA Polina         | 28.550 | FIG Cluj-Napoca WCC - AA    |
-| 16 | AIN | SALOS Anastasiia      | 28.500 | Marbella Grand Prix AA      |
+| 15 | UKR | KARIKA Polina         | 28.550 | FIG Cluj-Napoca WCC - AA       |
+| 16 | AIN | SALOS Anastasiia      | 28.500 | Marbella Grand Prix AA         |
 
 {{% /tab %}}
 {{% tab tabName="Clubs" %}}
@@ -406,7 +406,7 @@ toc: true
 | 4  | ITA | RAFFAELI Sofia       | 30.300 | World Championships QF           |
 | 5  | ITA | DRAGAS Tara          | 29.850 | European Championships QF        |
 | 6  | ROU | LICA Amalia          | 29.850 | AEON Cup QF                      |
-| 7  | ISR | SUMKIN Meital Maayan | 29.650 | FIG Cluj-Napoca WCC - AA      |
+| 7  | ISR | SUMKIN Meital Maayan | 29.650 | FIG Cluj-Napoca WCC - AA         |
 | 8  | UZB | IKROMOVA Takhmina    | 29.650 | World Championships AA           |
 | 9  | UKR | KARIKA Polina        | 29.600 | Grand Prix Brno AA               |
 | 10 | AIN | HARNASKO Alina       | 29.550 | University Games Final           |
@@ -415,7 +415,7 @@ toc: true
 | 13 | GER | PUSCH Lada           | 29.350 | European Championships QF        |
 | 14 | UZB | DJURAEVA Lola        | 29.250 | European Cup - Baku Cross Battle |
 | 15 | BRA | DOMINGOS Barbara     | 29.100 | World Championships AA           |
-| 16 | CHN | WANG Zilu            | 29.100 | FIG Milan World Cup - QF      |
+| 16 | CHN | WANG Zilu            | 29.100 | FIG Milan World Cup - QF         |
 
 {{% /tab %}}
 {{% tab tabName="Ribbon" %}}
@@ -430,7 +430,7 @@ toc: true
 | 6  | ITA | RAFFAELI Sofia       | 29.300 | World Championships AA             |
 | 7  | USA | KEYS Rin             | 28.800 | Pan American Championships AA      |
 | 8  | UZB | IKROMOVA Takhmina    | 28.700 | University Games Final             |
-| 9  | AIN | HARNASKO Alina       | 28.600 | FIG Portimão WCC - AA           |
+| 9  | AIN | HARNASKO Alina       | 28.600 | FIG Portimão WCC - AA              |
 | 10 | GER | SIMAKOVA Anastasia   | 28.550 | Gymnastik International Final      |
 | 11 | BUL | STOYANOVA Dara       | 28.366 | European Cup - Burgas Cross Battle |
 | 12 | USA | CHU Megan            | 28.350 | Pan American Championships Final   |
@@ -448,18 +448,18 @@ toc: true
 | 2  | Brazil            | 55.250 | World Championships AA      |
 | 3  | Spain             | 55.550 | World Championships AA      |
 | 4  | Bulgaria          | 53.700 | World Championships AA      |
-| 5  | China             | 53.400 | FIG Baku World Cup - QF  |
+| 5  | China             | 53.400 | FIG Baku World Cup - QF     |
 | 6  | Israel            | 54.750 | World Championships AA      |
 | 7  | Poland            | 53.150 | World Championships AA      |
 | 8  | Germany           | 48.150 | European Championships AA   |
 | 9  | Ukraine           | 52.700 | World Championships AA      |
-| 10 | Azerbaijan        | 49.950 | FIG Milan World Cup - QF |
+| 10 | Azerbaijan        | 49.950 | FIG Milan World Cup - QF    |
 | 11 | France            | 48.450 | Asian Championships AA      |
 | 12 | Uzbekistan        | 50.300 | World Championships AA      |
 | 13 | Italy             | 50.500 | University Games AA         |
 | 14 | Mexico            | 51.800 | World Championships AA      |
 | 15 | Kazakhstan        | 48.850 | World Championships AA      |
-| 16 | Republic of Korea | 44.500 | FIG Cluj-Napoca WCC - AA |
+| 16 | Republic of Korea | 44.500 | FIG Cluj-Napoca WCC - AA.   |
 
 {{% /tab %}}
 {{% tab tabName="5 Ribbons" %}}
@@ -470,13 +470,13 @@ toc: true
 | 2  | China      | 27.550 | World Championships Final          |
 | 3  | Brazil     | 27.400 | World Championships AA             |
 | 4  | Japan      | 27.200 | World Championships AA             |
-| 5  | Spain      | 27.200 | FIG Cluj-Napoca WCC - Final     |
-| 6  | Poland     | 26.950 | FIG Cluj-Napoca WCC - Final     |
+| 5  | Spain      | 27.200 | FIG Cluj-Napoca WCC - Final        |
+| 6  | Poland     | 26.950 | FIG Cluj-Napoca WCC - Final        |
 | 7  | Israel     | 26.900 | European Cup - Burgas Cross Battle |
 | 8  | Uzbekistan | 26.050 | World Championships AA             |
 | 9  | Italy      | 25.600 | European Championships AA          |
 | 10 | Germany    | 25.450 | World Championships AA             |
-| 11 | Türki̇ye   | 24.800 | Bosphorus Cup Final                |
+| 11 | Türki̇ye    | 24.800 | Bosphorus Cup Final                |
 | 12 | France     | 24.650 | European Championships Final       |
 | 13 | Estonia    | 24.300 | World Championships AA             |
 | 14 | Azerbaijan | 24.150 | University Games AA                |
@@ -492,14 +492,14 @@ toc: true
 | 2  | Brazil        | 28.550 | World Championships Final        |
 | 3  | Japan         | 28.350 | World Championships AA           |
 | 4  | China         | 28.350 | World Championships Final        |
-| 5  | Bulgaria      | 28.250 | FIG Baku World Cup - QF       |
+| 5  | Bulgaria      | 28.250 | FIG Baku World Cup - QF          |
 | 6  | Spain         | 28.250 | World Championships AA           |
 | 7  | Israel        | 27.250 | World Championships Final        |
 | 8  | Hungary       | 27.050 | World Championships AA           |
-| 9  | Poland        | 26.800 | FIG Milan World Cup - Final   |
+| 9  | Poland        | 26.800 | FIG Milan World Cup - Final      |
 | 10 | Uzbekistan    | 26.650 | Asian Championships AA           |
 | 11 | Kazakhstan    | 26.650 | Asian Championships Final        |
-| 12 | France        | 26.600 | FIG Milan World Cup - QF      |
+| 12 | France        | 26.600 | FIG Milan World Cup - QF         |
 | 13 | Azerbaijan    | 26.350 | University Games AA              |
 | 14 | Germany       | 26.350 | World Championships AA           |
 | 15 | Mexico        | 26.100 | World Championships AA           |
