@@ -13,12 +13,12 @@ toc: true
 
 {{< tabs tabTotal="2">}}
 
-{{% tab tabName="MAG FX" %}}
+{{% tab tabName="All Meets" %}}
 
 {{< maa >}}
 
 {{% /tab %}}
-{{% tab tabName="MAG FX" %}}
+{{% tab tabName="FIG-Sanctioned Meets" %}}
 
 {{< fig_maa >}}
 
