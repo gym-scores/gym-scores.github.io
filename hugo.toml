@@ -34,3 +34,8 @@ sectionPagesMenu = 'main'
         prism           = true                                # enable syntax highlighting via Prism
 
         prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

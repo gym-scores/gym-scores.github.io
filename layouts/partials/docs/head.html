@@ -75,6 +75,15 @@
                 fixedHeader: true;
                 autoFill: true
         </script>
+<script>
+    $(document).ready( function() {
+        $('table').DataTable();
+    } );
+</script>
+        <script>
+            new DataTable('table');
+                ordering: false
+        </script>
 
    {{- $options := dict "enableSourceMap" true }}
     {{- if hugo.IsProduction}}
