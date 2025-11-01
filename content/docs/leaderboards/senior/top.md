@@ -9,9 +9,10 @@ draft: false
 toc: true
 ---
 
+{{< tabs tabTotal="8">}}
+
 ### MAG
 
-{{< tabs tabTotal="8">}}
 {{% tab tabName="MAG AA" %}}
 
 <table id="magaa" class="display stripe" data-sorting='false' data-page-length='25'>
@@ -5754,7 +5755,720 @@ toc: true
 
 {{< tabs tabTotal="6">}}
 {{% tab tabName="WAG AA" %}}
+
 <table id="wagaa" class="display stripe" data-sorting='false' data-page-length='25'>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Fed</th>
+            <th>Name</th>
+            <th>Score</th>
+            <th>Event</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>ITA</td>
+            <td>ESPOSITO Manila</td>
+            <td>56.050</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>USA</td>
+            <td>HANG Jayla</td>
+            <td>55.666</td>
+            <td>Pan American Championships TF</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>JPN</td>
+            <td>MIYATA Shoko</td>
+            <td>55.150</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>AIN</td>
+            <td>MELNIKOVA Angelina</td>
+            <td>55.066</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>USA</td>
+            <td>WONG Leanne</td>
+            <td>54.966</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>USA</td>
+            <td>RIVERA Hezly</td>
+            <td>54.766</td>
+            <td>Pan American Championships TF</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>JPN</td>
+            <td>SUGIHARA Aiko</td>
+            <td>54.765</td>
+            <td>Asian Championships QF</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>CHN</td>
+            <td>ZHANG Qingying</td>
+            <td>54.633</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>ALG</td>
+            <td>NEMOUR Kaylia</td>
+            <td>54.564</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>USA</td>
+            <td>SULLIVAN Ashlee</td>
+            <td>54.550</td>
+            <td>DTB Pokal<br>Mixed Cup</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>JPN</td>
+            <td>NAKAMURA Haruka</td>
+            <td>54.065</td>
+            <td>Asian Championships QF</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>CAN</td>
+            <td>FONTAINE Lia-Monica</td>
+            <td>53.966</td>
+            <td>Pan American Championships QF</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>ROU</td>
+            <td>BARBOSU Ana</td>
+            <td>53.933</td>
+            <td>European Championships QF</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>GER</td>
+            <td>KEVRIC Helen</td>
+            <td>53.932</td>
+            <td>European Championships QF</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>USA</td>
+            <td>PEASE Claire</td>
+            <td>53.900</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>CHN</td>
+            <td>QIN Xinyi</td>
+            <td>53.599</td>
+            <td>Asian Championships QF</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>ITA</td>
+            <td>D&#39;AMATO Asia</td>
+            <td>53.532</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>USA</td>
+            <td>ROSE Simone</td>
+            <td>53.500</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>ITA</td>
+            <td>TONELLI Sofia</td>
+            <td>53.332</td>
+            <td>European Championships QF</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>ESP</td>
+            <td>PETISCO Alba</td>
+            <td>53.265</td>
+            <td>European Championships AA</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>JPN</td>
+            <td>KISHI Rina</td>
+            <td>53.232</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>USA</td>
+            <td>CAYLOR Dulcy</td>
+            <td>53.000</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>GBR</td>
+            <td>MARTIN Abigail</td>
+            <td>52.998</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>JPN</td>
+            <td>OKAMURA Mana</td>
+            <td>52.866</td>
+            <td>World University Games AA</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>CZE</td>
+            <td>MASOVA Vanesa</td>
+            <td>52.767</td>
+            <td>Friendly Match Prievidza SVK</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>ITA</td>
+            <td>FIORAVANTI Emma</td>
+            <td>52.750</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>TPE</td>
+            <td>PAULSSON Tonya Helene</td>
+            <td>52.499</td>
+            <td>Asian Championships QF</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>ITA</td>
+            <td>MARANO July</td>
+            <td>52.350</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>NED</td>
+            <td>VISSER Naomi</td>
+            <td>52.299</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>JPN</td>
+            <td>KAWAKAMI Saki</td>
+            <td>52.198</td>
+            <td>Asian Championships QF</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>GER</td>
+            <td>SCHOENMAIER Karina</td>
+            <td>52.131</td>
+            <td>World Championships QF</td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>CAN</td>
+            <td>GUERRIER-CALIXTE Alyssa</td>
+            <td>52.100</td>
+            <td>International Gymnix Senior Cup</td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>GBR</td>
+            <td>ROPER Emily</td>
+            <td>52.100</td>
+            <td>Rushmoor Rose Bowl AA</td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>GBR</td>
+            <td>EVANS Ruby</td>
+            <td>52.066</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>FRA</td>
+            <td>CHARPY Lorette</td>
+            <td>52.065</td>
+            <td>European Championships QF</td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>AIN</td>
+            <td>ROSHCHINA Liudmila</td>
+            <td>52.065</td>
+            <td>World Championships QF</td>
+        </tr>
+        <tr>
+            <td>37</td>
+            <td>ITA</td>
+            <td>BARZASI Chiara</td>
+            <td>52.050</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>FRA</td>
+            <td>SERBER Celia</td>
+            <td>52.032</td>
+            <td>World University Games AA</td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>FRA</td>
+            <td>OSYSSEK-REIMER Morgane</td>
+            <td>52.000</td>
+            <td>European Championships AA</td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>ITA</td>
+            <td>AIELLO Rebecca</td>
+            <td>52.000</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>CHN</td>
+            <td>ZHANG Xinyi</td>
+            <td>51.999</td>
+            <td>Asian Championships QF</td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>ROU</td>
+            <td>COSMAN Lilia</td>
+            <td>51.950</td>
+            <td>Friendly Match FRA-ROU</td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>JPN</td>
+            <td>NAKAHAMA Shiori</td>
+            <td>51.850</td>
+            <td>International Gymnix Senior Cup</td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>AUS</td>
+            <td>SCOTT Breanna</td>
+            <td>51.798</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>BEL</td>
+            <td>VANSTEENKISTE Jade</td>
+            <td>51.766</td>
+            <td>World University Games AA</td>
+        </tr>
+        <tr>
+            <td>46</td>
+            <td>ROU</td>
+            <td>GOLGOTA Denisa</td>
+            <td>51.732</td>
+            <td>European Championships AA</td>
+        </tr>
+        <tr>
+            <td>47</td>
+            <td>CAN</td>
+            <td>BLACK Gabrielle</td>
+            <td>51.433</td>
+            <td>Pan American Championships QF</td>
+        </tr>
+        <tr>
+            <td>48</td>
+            <td>ISR</td>
+            <td>RAZ Lihie</td>
+            <td>51.432</td>
+            <td>European Championships QF</td>
+        </tr>
+        <tr>
+            <td>49</td>
+            <td>USA</td>
+            <td>DRUSCH Tatum</td>
+            <td>51.400</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>50</td>
+            <td>KOR</td>
+            <td>SHIN Solyi</td>
+            <td>51.400</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>51</td>
+            <td>AUT</td>
+            <td>KICKINGER Selina</td>
+            <td>51.350</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>52</td>
+            <td>ESP</td>
+            <td>ESCUDERO Marina</td>
+            <td>51.300</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>53</td>
+            <td>FIN</td>
+            <td>TANSKANEN Kaia</td>
+            <td>51.266</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>54</td>
+            <td>GBR</td>
+            <td>LAKE Crystelle</td>
+            <td>51.250</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>55</td>
+            <td>ITA</td>
+            <td>FINIGUERRA Angelica</td>
+            <td>51.250</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>56</td>
+            <td>HUN</td>
+            <td>MAYER Greta</td>
+            <td>51.232</td>
+            <td>European Championships QF</td>
+        </tr>
+        <tr>
+            <td>57</td>
+            <td>KOR</td>
+            <td>PARK Nayoung</td>
+            <td>51.166</td>
+            <td>Asian Championships QF</td>
+        </tr>
+        <tr>
+            <td>58</td>
+            <td>SUI</td>
+            <td>BICKEL Lena</td>
+            <td>51.064</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>59</td>
+            <td>MEX</td>
+            <td>ESCALERA Natalia</td>
+            <td>51.032</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>60</td>
+            <td>CHN</td>
+            <td>XIANG Lulu</td>
+            <td>51.000</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>61</td>
+            <td>ARG</td>
+            <td>AJALLA Isabella Ayelen</td>
+            <td>51.000</td>
+            <td>Pan American Championships TF</td>
+        </tr>
+        <tr>
+            <td>62</td>
+            <td>KOR</td>
+            <td>EOM Dohyun</td>
+            <td>50.865</td>
+            <td>Asian Championships QF</td>
+        </tr>
+        <tr>
+            <td>63</td>
+            <td>FRA</td>
+            <td>LETRANGE Alizee</td>
+            <td>50.850</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>64</td>
+            <td>GER</td>
+            <td>STOEHR Silja</td>
+            <td>50.850</td>
+            <td>DTB Pokal<br>Mixed Cup</td>
+        </tr>
+        <tr>
+            <td>65</td>
+            <td>ESP</td>
+            <td>MEDINA Lorena</td>
+            <td>50.750</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>66</td>
+            <td>ISR</td>
+            <td>SHOSHANI Yali</td>
+            <td>50.732</td>
+            <td>European Championships AA</td>
+        </tr>
+        <tr>
+            <td>67</td>
+            <td>LUX</td>
+            <td>MORDENTI Celeste</td>
+            <td>50.700</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>68</td>
+            <td>ESP</td>
+            <td>FONT Laia</td>
+            <td>50.665</td>
+            <td>World Championships QF</td>
+        </tr>
+        <tr>
+            <td>69</td>
+            <td>HUN</td>
+            <td>SZEKELY Zoja</td>
+            <td>50.632</td>
+            <td>World Championships QF</td>
+        </tr>
+        <tr>
+            <td>70</td>
+            <td>CAN</td>
+            <td>REDICK Lia Grace</td>
+            <td>50.600</td>
+            <td>International Gymnix Senior Cup</td>
+        </tr>
+        <tr>
+            <td>71</td>
+            <td>FIN</td>
+            <td>KUUSIKKO Maisa</td>
+            <td>50.598</td>
+            <td>European Championships QF</td>
+        </tr>
+        <tr>
+            <td>72</td>
+            <td>FIN</td>
+            <td>HAUTALA Ada</td>
+            <td>50.550</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>73</td>
+            <td>SUI</td>
+            <td>WU Anny</td>
+            <td>50.550</td>
+            <td>Friendly Match BEL-SUI</td>
+        </tr>
+        <tr>
+            <td>74</td>
+            <td>GBR</td>
+            <td>ROPER Abigail</td>
+            <td>50.550</td>
+            <td>Rushmoor Rose Bowl AA</td>
+        </tr>
+        <tr>
+            <td>75</td>
+            <td>CZE</td>
+            <td>ARTAMONOVA Sona</td>
+            <td>50.531</td>
+            <td>World Championships QF</td>
+        </tr>
+        <tr>
+            <td>76</td>
+            <td>CAN</td>
+            <td>LAWSON Kahlyn</td>
+            <td>50.500</td>
+            <td>International Gymnix Challenge</td>
+        </tr>
+        <tr>
+            <td>77</td>
+            <td>NOR</td>
+            <td>LOCKERT Keisha</td>
+            <td>50.500</td>
+            <td>Unni og Haralds Pokaler AA</td>
+        </tr>
+        <tr>
+            <td>78</td>
+            <td>SLO</td>
+            <td>HRIBAR Lucija</td>
+            <td>50.499</td>
+            <td>World Championships AA</td>
+        </tr>
+        <tr>
+            <td>79</td>
+            <td>CAN</td>
+            <td>CADRIN Zoe</td>
+            <td>50.450</td>
+            <td>International Gymnix Senior Cup</td>
+        </tr>
+        <tr>
+            <td>80</td>
+            <td>SUI</td>
+            <td>WILDI Anina</td>
+            <td>50.400</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>81</td>
+            <td>CAN</td>
+            <td>ZLOBEC Evandra</td>
+            <td>50.399</td>
+            <td>World University Games AA</td>
+        </tr>
+        <tr>
+            <td>82</td>
+            <td>ITA</td>
+            <td>MANDRIOTA Veronica</td>
+            <td>50.350</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>83</td>
+            <td>GER</td>
+            <td>MUELLER Janoah</td>
+            <td>50.266</td>
+            <td>European Championships QF</td>
+        </tr>
+        <tr>
+            <td>84</td>
+            <td>MEX</td>
+            <td>GUERRA Paulina</td>
+            <td>50.234</td>
+            <td>Pan American Championships TF</td>
+        </tr>
+        <tr>
+            <td>85</td>
+            <td>AUS</td>
+            <td>Mc DONALD Kate</td>
+            <td>50.200</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>86</td>
+            <td>BRA</td>
+            <td>FIDELIS Thais</td>
+            <td>50.200</td>
+            <td>Pan American Championships TF</td>
+        </tr>
+        <tr>
+            <td>87</td>
+            <td>GBR</td>
+            <td>STONE Frances</td>
+            <td>50.150</td>
+            <td>DTB Pokal<br>Team Challenge</td>
+        </tr>
+        <tr>
+            <td>88</td>
+            <td>CAN</td>
+            <td>HAJJAR Maddison</td>
+            <td>50.100</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>89</td>
+            <td>KOR</td>
+            <td>AN Yeonjeong</td>
+            <td>50.050</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>90</td>
+            <td>ITA</td>
+            <td>IORFINO Artemisia</td>
+            <td>50.000</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>91</td>
+            <td>ARG</td>
+            <td>ACOSTA Emilia</td>
+            <td>49.966</td>
+            <td>Pan American Championships QF</td>
+        </tr>
+        <tr>
+            <td>92</td>
+            <td>GER</td>
+            <td>QUAAS Lea Marie</td>
+            <td>49.850</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>93</td>
+            <td>SUI</td>
+            <td>PENNISI Angela</td>
+            <td>49.850</td>
+            <td>International Gymnix Senior Cup</td>
+        </tr>
+        <tr>
+            <td>94</td>
+            <td>TUR</td>
+            <td>SAVRANBASI Nazli</td>
+            <td>49.850</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>95</td>
+            <td>BRA</td>
+            <td>RODRIGUES BARBOSA Gabriela</td>
+            <td>49.850</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>96</td>
+            <td>SUI</td>
+            <td>EISENEGGER Martina</td>
+            <td>49.750</td>
+            <td>World University Games QF</td>
+        </tr>
+        <tr>
+            <td>97</td>
+            <td>ESP</td>
+            <td>CASABUENA Laura</td>
+            <td>49.750</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+        <tr>
+            <td>98</td>
+            <td>ITA</td>
+            <td>PEROTTI Giulia</td>
+            <td>49.732</td>
+            <td>World Championships QF</td>
+        </tr>
+        <tr>
+            <td>99</td>
+            <td>CAN</td>
+            <td>CHARRON Victoriane</td>
+            <td>49.700</td>
+            <td>International Gymnix Senior Cup</td>
+        </tr>
+        <tr>
+            <td>100</td>
+            <td>ITA</td>
+            <td>DERCENNO Nunzia</td>
+            <td>49.700</td>
+            <td>Trofeo Città Di Jesolo AA</td>
+        </tr>
+    </tbody>
+</table>
 
 {{% /tab %}}
 {{% tab tabName="WAG VT" %}}

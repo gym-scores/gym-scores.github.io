@@ -9,9 +9,10 @@ draft: false
 toc: true
 ---
 
+{{< tabs tabTotal="8">}}
+
 ### MAG
 
-{{< tabs tabTotal="8">}}
 {{% tab tabName="MAG AA" %}}
 
 <table id="magaa" class="display stripe" data-sorting='false' data-page-length='25'>
