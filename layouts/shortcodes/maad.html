@@ -1,39 +1,94 @@
-<table id="myTable" class="stripe" data-order='[[ 3, "desc" ]]' data-page-length='100'>
-    <thead>
-        <tr>
-            <th>Meet Rank</th>
-            <th>Country</th>
-            <th>Athlete</th>
-            <th>Total</th>
-            <th>FX</th>
-            <th>PH</th>
-            <th>SR</th>
-            <th>VT</th>
-            <th>PB</th>
-            <th>HB</th>
-            <th>Event</th>
-            <th>Date</th>
-        </tr>
-    </thead>
-    <tbody>
-        {{ with .Page.Resources.Get "scores.json" }}
-            {{ $data := .Content | transform.Unmarshal }}
-            {{ range $data }}
-            <tr>
-                <td>{{ .Rank }}</td>
-                <td>{{ .Fed }}</td>
-                <td><strong>{{ .Name }}</strong></td>
-                <td><strong>{{ .Total }}</strong></td>
-                <td>{{ .fxD }}</td>
-                <td>{{ .phD }}</td>
-                <td>{{ .srD }}</td>
-                <td>{{ .vtD }}</td>
-                <td>{{ .pbD }}</td>
-                <td>{{ .hbD }}</td>
-                <td>{{ .Event }}</td>
-                <td>{{ .Date }}</td>
-            </tr>
-        {{ end }}
-        {{ end }}
-    </tbody>
-</table>
+<div class="container mt-4">
+    <nav>
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <button class="nav-link active" id="all-tab" data-bs-toggle="tab" data-bs-target="#all" type="button" role="tab" aria-controls="all" aria-selected="true"><strong>All Meets</strong></button>
+            <button class="nav-link" id="fig-tab" data-bs-toggle="tab" data-bs-target="#fig" type="button" role="tab" aria-controls="fig" aria-selected="false"><strong>FIG-Sanctioned Meets</strong></button>
+        </div>
+    </nav>
+<div class="tab-content" id="nav-tabContent">
+    <div class="tab-pane fade show active" id="all" role="tabpanel" aria-labelledby="all-tab">
+        <table id="all" class="stripe" data-order='[[ 3, "desc" ]]' data-page-length='100'>
+            <thead>
+                <tr>
+                    <th>Meet Rank</th>
+                    <th>Country</th>
+                    <th>Athlete</th>
+                    <th>Total</th>
+                    <th>FX</th>
+                    <th>PH</th>
+                    <th>SR</th>
+                    <th>VT</th>
+                    <th>PB</th>
+                    <th>HB</th>
+                    <th>Event</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{ with .Page.Resources.Get "scores.json" }}
+                    {{ $data := .Content | transform.Unmarshal }}
+                    {{ range $data }}
+                    <tr>
+                        <td>{{ .Rank }}</td>
+                        <td>{{ .Fed }}</td>
+                        <td><strong>{{ .Name }}</strong></td>
+                        <td><strong>{{ .Total }}</strong></td>
+                        <td>{{ .fxD }}</td>
+                        <td>{{ .phD }}</td>
+                        <td>{{ .srD }}</td>
+                        <td>{{ .vtD }}</td>
+                        <td>{{ .pbD }}</td>
+                        <td>{{ .hbD }}</td>
+                        <td>{{ .Event }}</td>
+                        <td>{{ .Date }}</td>
+                    </tr>
+                {{ end }}
+                {{ end }}
+            </tbody>
+        </table>
+    </div>
+    <div class="tab-pane fade" id="fig" role="tabpanel" aria-labelledby="fig-tab">
+        <table id="fig" class="stripe" data-order='[[ 3, "desc" ]]' data-page-length='100'>
+            <thead>
+                <tr>
+                    <th>Meet Rank</th>
+                    <th>Country</th>
+                    <th>Athlete</th>
+                    <th>Total</th>
+                    <th>FX</th>
+                    <th>PH</th>
+                    <th>SR</th>
+                    <th>VT</th>
+                    <th>PB</th>
+                    <th>HB</th>
+                    <th>Event</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{ with .Page.Resources.Get "scores.json" }}
+                    {{ $data := .Content | transform.Unmarshal }}
+                    {{ range $data }}
+                                {{ if lt .lc 5 }}
+                    <tr>
+                        <td>{{ .Rank }}</td>
+                        <td>{{ .Fed }}</td>
+                        <td><strong>{{ .Name }}</strong></td>
+                        <td><strong>{{ .Total }}</strong></td>
+                        <td>{{ .fxD }}</td>
+                        <td>{{ .phD }}</td>
+                        <td>{{ .srD }}</td>
+                        <td>{{ .vtD }}</td>
+                        <td>{{ .pbD }}</td>
+                        <td>{{ .hbD }}</td>
+                        <td>{{ .Event }}</td>
+                        <td>{{ .Date }}</td>
+                    </tr>
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </tbody>
+        </table>
+        </div>
+    </div>
+</div>
