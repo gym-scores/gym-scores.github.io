@@ -1463,8 +1463,8 @@ toc: true
             <td>1</td>
             <td>ITA</td>
             <td>TARGHETTA Gabriele</td>
-            <td>15.166</td>
-            <td>FIG Paris<br>WCC - QF</td>
+            <td>15.200</td>
+            <td>Bundesliga Match 4</td>
         </tr>
         <tr>
             <td>2</td>
