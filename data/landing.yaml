@@ -25,8 +25,7 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest update: Artistic Worlds EF"
-
+  subtitle: "latest updates: <ul><li>Lausitz Cup</li><li>eG Wohnen Juniors Trophy</li><li>Deutschland Pokal</li><li>Rushmoor Rose Bowl</li><li>British Team Champs</li><li>Northern European Champs</li><li>Bundesliga Match 4 (MAG)</li><li>Dutch MAG/WAG Junior Worlds Trials</li><li>Tournoi International Combs-la-Ville</li>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
     #filename: "/frontpage.png" # filename of your hero image (including file extension)

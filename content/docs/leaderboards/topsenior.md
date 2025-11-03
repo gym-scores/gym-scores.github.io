@@ -9,10 +9,9 @@ draft: false
 toc: true
 ---
 
-{{< tabs tabTotal="8">}}
-
 ### MAG
 
+{{< tabs tabTotal="8">}}
 {{% tab tabName="MAG AA" %}}
 
 <table id="magaa" class="display stripe" data-sorting='false' data-page-length='25'>
@@ -733,7 +732,7 @@ toc: true
 {{% tab tabName="MAG FX" %}}
 
 <table id="magfx" class="display stripe" data-sorting='false' data-page-length='10'>
-<thead>
+    <thead>
         <tr>
             <th>#</th>
             <th>Fed</th>

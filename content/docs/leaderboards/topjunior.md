@@ -1,5 +1,5 @@
 ---
-weight: 100
+weight: 200
 title: "Top Juniors"
 description: ""
 icon: "article"
@@ -9,10 +9,9 @@ draft: false
 toc: true
 ---
 
-{{< tabs tabTotal="8">}}
-
 ### MAG
 
+{{< tabs tabTotal="8">}}
 {{% tab tabName="MAG AA" %}}
 
 <table id="magaa" class="display stripe" data-sorting='false' data-page-length='25'>
@@ -5869,8 +5868,8 @@ toc: true
             <td>15</td>
             <td>FRA</td>
             <td>PRAT Maiana</td>
-            <td>52.550</td>
-            <td>French Championships AA</td>
+            <td>52.565</td>
+            <td>Tournoi International Combs-La-Ville AA</td>
         </tr>
         <tr>
             <td>16</td>
@@ -6287,185 +6286,185 @@ toc: true
         </tr>
         <tr>
             <td>75</td>
+            <td>FRA</td>
+            <td>MARLIAC Lilou</td>
+            <td>49.950</td>
+            <td>Tournoi International Combs-La-Ville AA</td>
+        </tr>
+        <tr>
+            <td>76</td>
             <td>GBR</td>
             <td>HOLMES Lexi</td>
             <td>49.850</td>
             <td>British Championships AA</td>
         </tr>
         <tr>
-            <td>76</td>
+            <td>77</td>
             <td>USA</td>
             <td>CHANG Espy</td>
             <td>49.800</td>
             <td>US Championships Day 2</td>
         </tr>
         <tr>
-            <td>77</td>
+            <td>78</td>
+            <td>FRA</td>
+            <td>MARTIN Sophia</td>
+            <td>49.800</td>
+            <td>Tournoi International Combs-La-Ville AA</td>
+        </tr>
+        <tr>
+            <td>79</td>
             <td>GER</td>
             <td>FUNK Aliya-Jolie</td>
             <td>49.800</td>
             <td>European Youth<br>Olympic Festival AA</td>
         </tr>
         <tr>
-            <td>78</td>
+            <td>80</td>
             <td>USA</td>
             <td>STRONG Sydney</td>
             <td>49.750</td>
             <td>GAGE Elite National Qualifier</td>
         </tr>
         <tr>
-            <td>79</td>
+            <td>81</td>
             <td>BEL</td>
             <td>GALAND Camille</td>
             <td>49.750</td>
             <td>European Youth<br>Olympic Festival AA</td>
         </tr>
         <tr>
-            <td>80</td>
+            <td>82</td>
             <td>CAN</td>
             <td>COUTURE Samantha</td>
             <td>49.732</td>
             <td>Canadian Championships D2</td>
         </tr>
         <tr>
-            <td>81</td>
+            <td>83</td>
             <td>RUS</td>
             <td>BUTORINA Kseniya</td>
             <td>49.716</td>
             <td>Belarus Open</td>
         </tr>
         <tr>
-            <td>82</td>
+            <td>84</td>
             <td>GER</td>
             <td>GABRIEL Lara</td>
             <td>49.668</td>
             <td>German Junior Championships AA</td>
         </tr>
         <tr>
-            <td>83</td>
+            <td>85</td>
             <td>GER</td>
             <td>PACH Charleen</td>
             <td>49.568</td>
             <td>Deutschland-Pokal</td>
         </tr>
         <tr>
-            <td>84</td>
+            <td>86</td>
             <td>TUR</td>
             <td>KALKAN Inci</td>
             <td>49.531</td>
             <td>Turkish Championships AA</td>
         </tr>
         <tr>
-            <td>85</td>
+            <td>87</td>
             <td>GER</td>
             <td>FENIUK Maha</td>
             <td>49.518</td>
             <td>Deutschland-Pokal</td>
         </tr>
         <tr>
-            <td>86</td>
+            <td>88</td>
             <td>USA</td>
             <td>KROB Greta</td>
             <td>49.500</td>
             <td>US Classic</td>
         </tr>
         <tr>
-            <td>87</td>
+            <td>89</td>
             <td>GER</td>
             <td>BRACKA Lucia</td>
             <td>49.451</td>
             <td>Deutschland-Pokal</td>
         </tr>
         <tr>
-            <td>88</td>
+            <td>90</td>
             <td>GER</td>
             <td>GABRIEL Lara Francesca</td>
             <td>49.451</td>
             <td>Deutschland-Pokal</td>
         </tr>
         <tr>
-            <td>89</td>
+            <td>91</td>
             <td>SCO</td>
             <td>GOW Jessica</td>
             <td>49.450</td>
             <td>International GymSport AA</td>
         </tr>
         <tr>
-            <td>90</td>
+            <td>92</td>
             <td>CHN</td>
             <td>LI Anqi</td>
             <td>49.432</td>
             <td>Chinese Youth National Games AA</td>
         </tr>
         <tr>
-            <td>91</td>
+            <td>93</td>
             <td>USA</td>
             <td>HAINES Avery</td>
             <td>49.400</td>
             <td>US Jr WCH/C-l-V Selection Day 1</td>
         </tr>
         <tr>
-            <td>92</td>
+            <td>94</td>
             <td>TUR</td>
             <td>AKAN Yasamsugra</td>
             <td>49.366</td>
             <td>Turkish Championships AA</td>
         </tr>
         <tr>
-            <td>93</td>
+            <td>95</td>
             <td>GER</td>
             <td>OEZGUEL Yonca</td>
             <td>49.350</td>
             <td>European Youth<br>Olympic Festival AA</td>
         </tr>
         <tr>
-            <td>94</td>
+            <td>96</td>
             <td>CHN</td>
             <td>MA Yueqi</td>
             <td>49.349</td>
             <td>Chinese Youth National Games QF</td>
         </tr>
         <tr>
-            <td>95</td>
+            <td>97</td>
             <td>CHN</td>
             <td>LIAN Xiyan</td>
             <td>49.281</td>
             <td>Chinese Youth National Games QF</td>
         </tr>
         <tr>
-            <td>96</td>
+            <td>98</td>
             <td>ITA</td>
             <td>CLERICI Lara</td>
             <td>49.250</td>
             <td>Coppa Campioni AA</td>
         </tr>
         <tr>
-            <td>97</td>
+            <td>99</td>
             <td>CHN</td>
             <td>SHI Siqi</td>
             <td>49.232</td>
             <td>Chinese Championships QF</td>
         </tr>
         <tr>
-            <td>98</td>
+            <td>100</td>
             <td>CAN</td>
             <td>SABER Maryam</td>
             <td>49.200</td>
             <td>Canadian Championships D1</td>
-        </tr>
-        <tr>
-            <td>99</td>
-            <td>USA</td>
-            <td>BUECHLER Sophia</td>
-            <td>49.200</td>
-            <td>US Championships Day 2</td>
-        </tr>
-        <tr>
-            <td>100</td>
-            <td>CHN</td>
-            <td>ZHONG Jiatong</td>
-            <td>49.199</td>
-            <td>Chinese Junior Championships TF</td>
         </tr>
     </tbody>
 </table>
@@ -8749,591 +8748,591 @@ toc: true
         </tr>
         <tr>
             <td>17</td>
+            <td>GER</td>
+            <td>GABRIEL Lara Francesca</td>
+            <td>13.267</td>
+            <td>Deutschland-Pokal</td>
+        </tr>
+        <tr>
+            <td>18</td>
             <td>TUR</td>
             <td>AKAN Yasamsugra</td>
             <td>13.266</td>
             <td>Turkish Championships AA</td>
         </tr>
         <tr>
-            <td>18</td>
+            <td>19</td>
             <td>CHN</td>
             <td>QIN Ziyue</td>
             <td>13.250</td>
             <td>DTB Pokal<br>Team Challenge</td>
         </tr>
         <tr>
-            <td>19</td>
+            <td>20</td>
             <td>BLR</td>
             <td>SHTYKHETSKAYA Sofia</td>
             <td>13.166</td>
             <td>Cup of the Strongest Athletes EF</td>
         </tr>
         <tr>
-            <td>20</td>
+            <td>21</td>
             <td>USA</td>
             <td>SMITH Kylie</td>
             <td>13.150</td>
             <td>US Championships Day 1</td>
         </tr>
         <tr>
-            <td>21</td>
+            <td>22</td>
+            <td>FRA</td>
+            <td>MARTIN Sophia</td>
+            <td>13.150</td>
+            <td>Tournoi International Combs-La-Ville AA</td>
+        </tr>
+        <tr>
+            <td>23</td>
             <td>USA</td>
             <td>CRAIN Lavienna</td>
             <td>13.100</td>
             <td>US Jr WCH/C-l-V Selection Day 1</td>
         </tr>
         <tr>
-            <td>22</td>
+            <td>24</td>
             <td>USA</td>
             <td>ANZOLA Isabella</td>
             <td>13.100</td>
             <td>US Jr WCH/C-l-V Selection Day 1</td>
         </tr>
         <tr>
-            <td>23</td>
+            <td>25</td>
             <td>USA</td>
             <td>KLAUSER Brooklyn</td>
             <td>13.100</td>
             <td>US Jr WCH/C-l-V Selection Day 1</td>
         </tr>
         <tr>
-            <td>24</td>
+            <td>26</td>
             <td>USA</td>
             <td>PUGH-BANKS Amia</td>
             <td>13.100</td>
             <td>US Championships Day 1</td>
         </tr>
         <tr>
-            <td>25</td>
+            <td>27</td>
             <td>RUS</td>
             <td>VAKHRUSHEVA Vera</td>
             <td>13.100</td>
             <td>Russian Junior Championships QF</td>
         </tr>
         <tr>
-            <td>26</td>
+            <td>28</td>
             <td>RUS</td>
             <td>BUTORINA Kseniya</td>
             <td>13.100</td>
             <td>Belarus Open</td>
         </tr>
         <tr>
-            <td>27</td>
+            <td>29</td>
             <td>ITA</td>
             <td>UBERTINI Londra</td>
             <td>13.100</td>
             <td>Coppa Campioni AA</td>
         </tr>
         <tr>
-            <td>28</td>
+            <td>30</td>
             <td>TUR</td>
             <td>AKAN Yasam Sugra</td>
             <td>13.066</td>
             <td>European Youth<br>Olympic Festival EF</td>
         </tr>
         <tr>
-            <td>29</td>
+            <td>31</td>
             <td>ITA</td>
             <td>PROIETTI Mia</td>
             <td>13.050</td>
             <td>European Youth<br>Olympic Festival AA</td>
         </tr>
         <tr>
-            <td>30</td>
+            <td>32</td>
             <td>GER</td>
             <td>MAYR Madita</td>
             <td>13.050</td>
             <td>Bundesliga Match 3</td>
         </tr>
         <tr>
-            <td>31</td>
+            <td>33</td>
             <td>ITA</td>
             <td>CALACIURA Eleonora</td>
             <td>13.050</td>
             <td>Trofeo Città Di Jesolo AA</td>
         </tr>
         <tr>
-            <td>32</td>
+            <td>34</td>
             <td>FRA</td>
             <td>CHASSAT Lola</td>
             <td>13.050</td>
             <td>French National Review</td>
         </tr>
         <tr>
-            <td>33</td>
+            <td>35</td>
             <td>SCO</td>
             <td>GOW Jessica</td>
             <td>13.050</td>
             <td>International GymSport EF</td>
         </tr>
         <tr>
-            <td>34</td>
+            <td>36</td>
             <td>ITA</td>
             <td>SANTINATO Giulia</td>
             <td>13.000</td>
             <td>Coppa Campioni AA</td>
         </tr>
         <tr>
-            <td>35</td>
+            <td>37</td>
             <td>CHN</td>
             <td>KE Qinqin</td>
             <td>13.000</td>
             <td>Chinese Youth National Games QF</td>
         </tr>
         <tr>
-            <td>36</td>
+            <td>38</td>
             <td>JPN</td>
             <td>MUNETA Rinon</td>
             <td>13.000</td>
             <td>All Japan Championships QF</td>
         </tr>
         <tr>
-            <td>37</td>
+            <td>39</td>
             <td>JPN</td>
             <td>OKUBO Moka</td>
             <td>13.000</td>
             <td>WOGA Classic</td>
         </tr>
         <tr>
-            <td>38</td>
+            <td>40</td>
+            <td>CHN</td>
+            <td>YU Wenjing</td>
+            <td>12.966</td>
+            <td>Chinese Championships AA</td>
+        </tr>
+        <tr>
+            <td>41</td>
             <td>CHN</td>
             <td>HUANG Ziyi</td>
             <td>12.966</td>
             <td>Chinese Youth National Games TF</td>
         </tr>
         <tr>
-            <td>39</td>
-            <td>CHN</td>
-            <td>YU Wenjing</td>
-            <td>12.966</td>
-            <td>Chinese Junior Championships QF</td>
-        </tr>
-        <tr>
-            <td>40</td>
+            <td>42</td>
             <td>ROU</td>
             <td>BLANARU Alexia</td>
             <td>12.950</td>
             <td>European Youth<br>Olympic Festival AA</td>
         </tr>
         <tr>
-            <td>41</td>
+            <td>43</td>
             <td>USA</td>
             <td>DANIELS Aulya</td>
             <td>12.950</td>
             <td>US Championships Day 1</td>
         </tr>
         <tr>
-            <td>42</td>
+            <td>44</td>
             <td>USA</td>
             <td>FULCHER Addyson</td>
             <td>12.950</td>
             <td>US Jr WCH/C-l-V Selection Day 1</td>
         </tr>
         <tr>
-            <td>43</td>
+            <td>45</td>
             <td>JPN</td>
             <td>TOGO Nanami</td>
             <td>12.933</td>
             <td>Asian Championships QF</td>
         </tr>
         <tr>
-            <td>44</td>
+            <td>46</td>
             <td>RUS</td>
             <td>KANASHKINA Ekaterina</td>
             <td>12.900</td>
             <td>Belarus Open</td>
         </tr>
         <tr>
-            <td>45</td>
+            <td>47</td>
             <td>GBR</td>
             <td>ASHURST Evie</td>
             <td>12.900</td>
             <td>British Championships EF</td>
         </tr>
         <tr>
-            <td>46</td>
+            <td>48</td>
+            <td>GER</td>
+            <td>SUHL Frederika</td>
+            <td>12.900</td>
+            <td>Deutschland-Pokal</td>
+        </tr>
+        <tr>
+            <td>49</td>
+            <td>NED</td>
+            <td>UBBINK Vera</td>
+            <td>12.900</td>
+            <td>Dutch JWCH Trial</td>
+        </tr>
+        <tr>
+            <td>50</td>
             <td>JPN</td>
             <td>NISHIYAMA Misa</td>
             <td>12.900</td>
             <td>NHK Trophy</td>
         </tr>
         <tr>
-            <td>47</td>
+            <td>51</td>
             <td>MLT</td>
             <td>ST. JOHN Sophie</td>
             <td>12.900</td>
             <td>Maltese Championships</td>
         </tr>
         <tr>
-            <td>48</td>
+            <td>52</td>
             <td>JPN</td>
             <td>TOBI Minami</td>
             <td>12.900</td>
             <td>Asian Championships QF</td>
         </tr>
         <tr>
-            <td>49</td>
+            <td>53</td>
             <td>GER</td>
             <td>GABRIEL Lara</td>
             <td>12.867</td>
             <td>German Junior Championships AA</td>
         </tr>
         <tr>
-            <td>50</td>
+            <td>54</td>
             <td>CHN</td>
             <td>SHI Siqi</td>
             <td>12.866</td>
             <td>Chinese Junior Championships QF</td>
         </tr>
         <tr>
-            <td>51</td>
+            <td>55</td>
             <td>CHN</td>
             <td>QIN Kuoyue</td>
             <td>12.866</td>
             <td>Chinese Youth National Games TF</td>
         </tr>
         <tr>
-            <td>52</td>
+            <td>56</td>
             <td>USA</td>
             <td>WOOD Trinity</td>
             <td>12.850</td>
             <td>US Championships Day 1</td>
         </tr>
         <tr>
-            <td>53</td>
+            <td>57</td>
             <td>USA</td>
             <td>CHANG Espy</td>
             <td>12.850</td>
             <td>US Classic</td>
         </tr>
         <tr>
-            <td>54</td>
+            <td>58</td>
             <td>JPN</td>
             <td>SARADA Ayu</td>
             <td>12.833</td>
-            <td>Asian Championships QF</td>
+            <td>All Japan Championships QF</td>
         </tr>
         <tr>
-            <td>55</td>
+            <td>59</td>
             <td>ITA</td>
             <td>CLERICI Lara</td>
             <td>12.800</td>
             <td>Coppa Campioni AA</td>
         </tr>
         <tr>
-            <td>56</td>
+            <td>60</td>
             <td>ITA</td>
             <td>CEPPARULO Alessia</td>
             <td>12.800</td>
             <td>Mediterranean Championships EF</td>
         </tr>
         <tr>
-            <td>57</td>
+            <td>61</td>
             <td>USA</td>
             <td>TAN Cassandra</td>
             <td>12.800</td>
             <td>Hopes Championships</td>
         </tr>
         <tr>
-            <td>58</td>
+            <td>62</td>
             <td>TUR</td>
             <td>CALISKAN Inci</td>
             <td>12.800</td>
             <td>Mediterranean Championships EF</td>
         </tr>
         <tr>
-            <td>59</td>
+            <td>63</td>
             <td>USA</td>
             <td>CRAIN Vivi</td>
             <td>12.800</td>
             <td>US Classic</td>
         </tr>
         <tr>
-            <td>60</td>
+            <td>64</td>
             <td>CAN</td>
             <td>THEODAT Nikita</td>
             <td>12.767</td>
             <td>Canadian Championships D1</td>
         </tr>
         <tr>
-            <td>61</td>
-            <td>GER</td>
-            <td>SUHL Frederika</td>
-            <td>12.767</td>
-            <td>German Junior Championships AA</td>
-        </tr>
-        <tr>
-            <td>62</td>
+            <td>65</td>
             <td>JPN</td>
             <td>MINAMINO Yume</td>
             <td>12.766</td>
             <td>All Japan Championships AA</td>
         </tr>
         <tr>
-            <td>63</td>
+            <td>66</td>
             <td>BEL</td>
             <td>GALAND Camille</td>
             <td>12.750</td>
             <td>European Youth<br>Olympic Festival AA</td>
         </tr>
         <tr>
-            <td>64</td>
+            <td>67</td>
+            <td>FRA</td>
+            <td>MARLIAC Lilou</td>
+            <td>12.750</td>
+            <td>Tournoi International Combs-La-Ville AA</td>
+        </tr>
+        <tr>
+            <td>68</td>
             <td>USA</td>
             <td>HIGGINS Leah</td>
             <td>12.750</td>
             <td>GAGE Elite National Qualifier</td>
         </tr>
         <tr>
-            <td>65</td>
+            <td>69</td>
             <td>RUS</td>
             <td>BASOVA Elizaveta</td>
             <td>12.750</td>
             <td>Belarus Open</td>
         </tr>
         <tr>
-            <td>66</td>
+            <td>70</td>
             <td>RUS</td>
             <td>SHUKUROVA Sevda</td>
             <td>12.733</td>
             <td>Cup of the Strongest Athletes AA</td>
         </tr>
         <tr>
-            <td>67</td>
+            <td>71</td>
             <td>RUS</td>
             <td>BALASHOVA Anastasia</td>
             <td>12.733</td>
             <td>Russian Junior Championships QF</td>
         </tr>
         <tr>
-            <td>68</td>
+            <td>72</td>
             <td>RUS</td>
             <td>SPIRYAKINA Taisiya</td>
             <td>12.733</td>
             <td>Russian Junior Championships AA</td>
         </tr>
         <tr>
-            <td>69</td>
+            <td>73</td>
             <td>CHN</td>
             <td>CHEN Ziyan</td>
             <td>12.700</td>
             <td>DTB Pokal<br>Team Challenge</td>
         </tr>
         <tr>
-            <td>70</td>
+            <td>74</td>
             <td>SVK</td>
             <td>OSTRIHONOVA Nela</td>
             <td>12.700</td>
             <td>Friendly Match Prievidza SVK</td>
         </tr>
         <tr>
-            <td>71</td>
+            <td>75</td>
             <td>FRA</td>
             <td>LEGRAND Melayna</td>
             <td>12.700</td>
             <td>Les 4 Moteurs pour l&#39;Europe</td>
         </tr>
         <tr>
-            <td>72</td>
+            <td>76</td>
             <td>ITA</td>
             <td>PICCARI Emma</td>
             <td>12.700</td>
             <td>Mediterranean Championships QF</td>
         </tr>
         <tr>
-            <td>73</td>
+            <td>77</td>
             <td>CHN</td>
             <td>HU Linglong</td>
             <td>12.700</td>
             <td>Chinese Junior Championships TF</td>
         </tr>
         <tr>
-            <td>74</td>
+            <td>78</td>
             <td>FRA</td>
             <td>CHAYANI Caly</td>
             <td>12.700</td>
             <td>French Championships AA</td>
         </tr>
         <tr>
-            <td>75</td>
+            <td>79</td>
             <td>RUS</td>
             <td>DMITRIEVA Polina</td>
             <td>12.700</td>
             <td>Russian Junior Championships QF</td>
         </tr>
         <tr>
-            <td>76</td>
+            <td>80</td>
             <td>USA</td>
             <td>RICHARDSON Lila</td>
             <td>12.700</td>
             <td>Vegas Cup National Qualifier</td>
         </tr>
         <tr>
-            <td>77</td>
+            <td>81</td>
             <td>USA</td>
             <td>SLINEY Elaina</td>
             <td>12.700</td>
             <td>Buckeye National Qualifier</td>
         </tr>
         <tr>
-            <td>78</td>
+            <td>82</td>
             <td>USA</td>
             <td>STIGGERS Sage</td>
             <td>12.700</td>
             <td>US Classic</td>
         </tr>
         <tr>
-            <td>79</td>
+            <td>83</td>
             <td>RUS</td>
             <td>BELOVA Varvara</td>
             <td>12.700</td>
             <td>Russian Junior Championships QF</td>
         </tr>
         <tr>
-            <td>80</td>
+            <td>84</td>
             <td>RUS</td>
             <td>KAMESHKOVA Darina</td>
             <td>12.666</td>
             <td>Russian Junior Championships QF</td>
         </tr>
         <tr>
-            <td>81</td>
+            <td>85</td>
             <td>SVK</td>
             <td>PILIAROVA Lucia</td>
             <td>12.650</td>
             <td>European Youth<br>Olympic Festival AA</td>
         </tr>
         <tr>
-            <td>82</td>
+            <td>86</td>
             <td>GER</td>
             <td>FUNK Aliya-Jolie</td>
             <td>12.650</td>
             <td>European Youth<br>Olympic Festival AA</td>
         </tr>
         <tr>
-            <td>83</td>
+            <td>87</td>
             <td>FRA</td>
-            <td>JURADO Chloé</td>
+            <td>JURADO Chloe</td>
             <td>12.650</td>
             <td>French National Review</td>
         </tr>
         <tr>
-            <td>84</td>
+            <td>88</td>
             <td>BRA</td>
             <td>OLIVEIRA Francine</td>
             <td>12.633</td>
             <td>Brazilian Championships AA</td>
         </tr>
         <tr>
-            <td>85</td>
-            <td>FRA</td>
-            <td>MARLIAC Lilou</td>
+            <td>89</td>
+            <td>BEL</td>
+            <td>DE WILDE Mie</td>
             <td>12.633</td>
-            <td>Top 12 Match 4<br>Classification 1</td>
+            <td>Tournoi International Combs-La-Ville AA</td>
         </tr>
         <tr>
-            <td>86</td>
+            <td>90</td>
             <td>CHN</td>
             <td>XIE Guying</td>
             <td>12.633</td>
             <td>Chinese Junior Championships AA</td>
         </tr>
         <tr>
-            <td>87</td>
+            <td>91</td>
             <td>USA</td>
             <td>STRONG Sydney</td>
             <td>12.600</td>
             <td>GAGE Elite National Qualifier</td>
         </tr>
         <tr>
-            <td>88</td>
+            <td>92</td>
             <td>USA</td>
             <td>STEVENS Ansley</td>
             <td>12.600</td>
             <td>US Classic</td>
         </tr>
         <tr>
-            <td>89</td>
-            <td>BEL</td>
-            <td>DE WILDE Mie</td>
-            <td>12.600</td>
-            <td>European Youth<br>Olympic Festival AA</td>
-        </tr>
-        <tr>
-            <td>90</td>
+            <td>93</td>
             <td>BLR</td>
             <td>GALKOVSKAYA Kristina</td>
             <td>12.600</td>
             <td>Belarus Open</td>
         </tr>
         <tr>
-            <td>91</td>
+            <td>94</td>
             <td>NOR</td>
             <td>SOLLI Ameli-Mari</td>
             <td>12.600</td>
             <td>Norwegian FIG Meet</td>
         </tr>
         <tr>
-            <td>92</td>
+            <td>95</td>
+            <td>GER</td>
+            <td>PACH Charleen</td>
+            <td>12.567</td>
+            <td>Deutschland-Pokal</td>
+        </tr>
+        <tr>
+            <td>96</td>
             <td>CAN</td>
             <td>LETENDRE Stella</td>
             <td>12.567</td>
             <td>Canadian Championships D1</td>
         </tr>
         <tr>
-            <td>93</td>
+            <td>97</td>
             <td>CHN</td>
             <td>TANG Huijun</td>
             <td>12.566</td>
             <td>Chinese Junior Championships TF</td>
         </tr>
         <tr>
-            <td>94</td>
+            <td>98</td>
             <td>RUS</td>
             <td>IVANCHUK Vitalina</td>
             <td>12.566</td>
             <td>Russian Junior Championships AA</td>
         </tr>
         <tr>
-            <td>95</td>
+            <td>99</td>
+            <td>ITA</td>
+            <td>CORTELLINO Alessia Carol</td>
+            <td>12.566</td>
+            <td>Tournoi International Combs-La-Ville AA</td>
+        </tr>
+        <tr>
+            <td>100</td>
             <td>CHN</td>
             <td>LI Jiaying</td>
             <td>12.566</td>
             <td>Chinese Junior Championships QF</td>
-        </tr>
-        <tr>
-            <td>96</td>
-            <td>GBR</td>
-            <td>CARDELLI Elisabetta</td>
-            <td>12.550</td>
-            <td>British Championships EF</td>
-        </tr>
-        <tr>
-            <td>97</td>
-            <td>FRA</td>
-            <td>JVANIA Maria</td>
-            <td>12.550</td>
-            <td>French National Review</td>
-        </tr>
-        <tr>
-            <td>98</td>
-            <td>ITA</td>
-            <td>CORTELLINO Alessia Carol</td>
-            <td>12.550</td>
-            <td>Les 4 Moteurs pour l&#39;Europe</td>
-        </tr>
-        <tr>
-            <td>99</td>
-            <td>GBR</td>
-            <td>HOLMES Lexi</td>
-            <td>12.550</td>
-            <td>Welsh Championships</td>
-        </tr>
-        <tr>
-            <td>100</td>
-            <td>ROU</td>
-            <td>IORDACHE Iris</td>
-            <td>12.550</td>
-            <td>European Youth<br>Olympic Festival AA</td>
         </tr>
     </tbody>
 </table>
