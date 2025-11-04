@@ -20,10 +20,10 @@ title = 'gym-scores'
 sectionPagesMenu = 'main'
 
     [params.flexsearch] # Parameters for FlexSearch
-        enabled             = false
+        enabled             = true
 
     [params.docs] # Parameters for the /docs 'template'
-        # title           = "Lotus Docs Example Site"           # default html title for documentation pages/sections
+         title           = "The Scores"           # default html title for documentation pages/sections
 
         # pathName        = "docs"                            # path name for documentation site | default "docs"
 
