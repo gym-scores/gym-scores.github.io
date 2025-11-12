@@ -26,11 +26,11 @@ hero:
 
   title: "gym-scores"
   subtitle: "latest updates (6 Nov 2025): <ul>
-                              <li>Tournoi International Combs-la-Ville (WAG)</li>
-                              <li>Danish Championships (MAG/WAG)</li>
-                              <li>Irish National Series (MAG/WAG)</li>
-                              <li>Balkan Championships (MAG/WAG)</li>
-                              <li>Memorial Arturo Gander (MAG/WAG)</li>
+                              <li>Guimagym Cup (RG)</li>
+                              <li>Happy Cup (RG)</li>
+                              <li>Gymnova Cup (WAG)</li>
+                              <li>South American Championships (MAG/WAG)</li>
+                              <li>Chinese National Games QF (MAG/WAG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
