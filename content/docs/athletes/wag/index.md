@@ -13,7 +13,7 @@ toc: true
 
 This database is a long-term project. By its nature, it may never be complete. But my hope is that you can at least verify alternate names of athletes, whether they are non-Latin alphabets, nicknames, or former names.
 
-The search bar below will filter by (license/Latin alphabet) name and country code only. Use your browser's find/search function to search for nicknames, non-Latin alphabet names, or other things like league team affiliation.
+The search bar below will filter by things that appear in the entries. You can filter by country code, name, league teams, birth year, etc. (Enter "champion" and you'll get a list of individual event gold medalists for Worlds and the Olympics.)
 
 ---
 
