@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 50
 title: "Athlete Database"
 description: ""
 icon: "article"
