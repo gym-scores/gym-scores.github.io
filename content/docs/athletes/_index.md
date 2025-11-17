@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "Score Database"
+title: "Athlete Database"
 description: ""
 icon: "article"
 date: "2025-10-19T21:33:12-05:00"
