@@ -26,13 +26,11 @@ hero:
 
   title: "gym-scores"
   subtitle: "latest updates (17 Nov 2025): <ul>
-                              <li>Guimagym Cup (RG)</li>
-                              <li>Happy Cup (RG)</li>
-                              <li>Gymnova Cup (WAG)</li>
-                              <li>South American Championships (MAG/WAG)</li>
-                              <li>Chinese National Games QF/TF/AA (MAG/WAG)</li>
+                              <li>Chinese National Games QF/TF/AA/EF (MAG/WAG)</li>
                               <li>Bundesliga Match 4 (WAG)</li>
                               <li>All Japan Team Championships (MAG/WAG)</li>
+                              <li>New Look Cup (RG)</li>
+                              <li>Athlete databases added for MAG and WAG</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
