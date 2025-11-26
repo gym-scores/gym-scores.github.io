@@ -26,11 +26,11 @@ hero:
 
   title: "gym-scores"
   subtitle: "latest updates (17 Nov 2025): <ul>
-                              <li>Chinese National Games QF/TF/AA/EF (MAG/WAG)</li>
-                              <li>Bundesliga Match 4 (WAG)</li>
-                              <li>All Japan Team Championships (MAG/WAG)</li>
-                              <li>New Look Cup (RG)</li>
-                              <li>Athlete databases added for MAG and WAG</li>
+                              <li>Bundesliga Match 7 (MAG)</li>
+                              <li>Junior Artistic World Championships (MAG/WAG)</li>
+                              <li>Swiss Team Championships (MAG/WAG)</li>
+                              <li>Voronin Cup (MAG/WAG)</li>
+                              <li>Wild Beauty Cup (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
