@@ -25,12 +25,15 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest updates (25 Nov 2025): <ul>
-                              <li>Bundesliga Match 7 (MAG)</li>
-                              <li>Junior Artistic World Championships (MAG/WAG)</li>
-                              <li>Swiss Team Championships (MAG/WAG)</li>
-                              <li>Voronin Cup (MAG/WAG)</li>
-                              <li>Wild Beauty Cup (RG)</li>
+  subtitle: "latest updates (27 Dec 2025): <ul>
+                              <li>Bundesliga Final (MAG/WAG)</li>
+                              <li>Bolivarian Games (MAG/WAG/RG)</li>
+                              <li>NED-FRA-BEL Friendly (MAG/WAG)</li>
+                              <li>Top Gym (WAG)</li>
+                              <li>Věra Čáslavská Sokol Olympic Hopes Cup (MAG/WAG)</li>
+                              <li>Věra Čáslavská Sokol Grand Prix Mixed Team(MAG/WAG)</li>
+                              <li>SEA Games (MAG/WAG)</li>
+                              <li>Luxembourg Cup (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'

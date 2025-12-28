@@ -1,7 +1,7 @@
 ---
 weight: 999
-title: "Junior Group All-Around (RG)"
-description: "2025 group AA scores"
+title: "Junior Group All-Around Difficulty(RG)"
+description: "2025 group AA difficulty scores"
 icon: "article"
 date: "2025-10-19T22:16:46-05:00"
 lastmod: "2025-10-19T22:16:46-05:00"

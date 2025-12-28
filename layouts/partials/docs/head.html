@@ -64,27 +64,37 @@
 <script src="https://cdn.datatables.net/2.3.4/js/dataTables.js"></script>
 <script src="https://cdn.datatables.net/autofill/2.7.1/js/dataTables.autoFill.min.js"></script>
 <script src="https://cdn.datatables.net/fixedheader/4.0.4/js/dataTables.fixedHeader.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js"></script>
+<script src="https://cdn.datatables.net/2.3.5/js/dataTables.js"></script>
+<script src="https://cdn.datatables.net/fixedcolumns/5.0.5/js/dataTables.fixedColumns.js"></script>
+<script src="https://cdn.datatables.net/fixedcolumns/5.0.5/js/fixedColumns.dataTables.js"></script>
 <script>
     $(document).ready( function() {
         $('#myTable').DataTable();
+        $('fig').DataTable();
+        $('all').DataTable();
     } );
+     // Listen for the Bootstrap tab shown event
+    $('button[data-bs-toggle="tab"], a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        // Use the DataTables API to adjust the columns of the table in the newly active tab
+        // The following lines will work for all DataTables on the page
+        $($.fn.dataTable.tables(true)).DataTable()
+            .columns.adjust()
+    });
+
+
 </script>
         <script>
+            DataTable.datetime('MMM D, YYYY');
             new DataTable('#myTable');
                 fixedHeader: true;
                 autoFill: true
         </script>
-<script>
+        <script>
     $(document).ready( function() {
         $('table').DataTable();
     } );
-</script>
-        <script>
-            new DataTable('table');
-                ordering: false
-        </script>
+</script> 
 
    {{- $options := dict "enableSourceMap" true }}
     {{- if hugo.IsProduction}}
