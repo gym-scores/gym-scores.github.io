@@ -2,12 +2,13 @@
       <nav>
         <div class="nav nav-tabs" id="nav-tab" role="tablist">
         <button class="nav-link active" id="leaderboard-tab" data-bs-toggle="tab" data-bs-target="#leaderboard"  type="button" role="tab" aria-controls="all" aria-selected="true"><strong>Leaderboard</strong></button>
+        <button class="nav-link" id="all-tab" data-bs-toggle="tab" data-bs-target="#all" type="button" role="tab" aria-controls="all" aria-selected="false"><strong>All Meets</strong></button>
         <button class="nav-link" id="fig-tab" data-bs-toggle="tab" data-bs-target="#fig" type="button" role="tab" aria-controls="fig" aria-selected="false"><strong>FIG-Sanctioned Meets</strong></button>
-        </div>
+    </div>
       </nav>
 <div class="tab-content" id="nav-tabContent">
     <div class="tab-pane fade show active" id="leaderboard" role="tabpanel" aria-labelledby="leaderboard">
-<p><i>This tab displays each athlete's highest score. See the following tab for complete records of the year's scores at FIG-sanctioned meets.</i></p>
+<p><i>This tab displays each athlete's highest score. See the following tabs for complete records of the year's scores.</i></p>
         <table class="lead-table stripe" data-ordering="false" data-paging="true" data-searching="false">
             <thead>
                 <tr>
@@ -40,11 +41,11 @@
             </tbody>
         </table>
     </div>
-    <div class="tab-pane fade" id="fig" role="tabpanel" aria-labelledby="fig-tab">
-<table id="myTable" class="stripe" data-order='[[ 3, "desc" ]]' data-page-length='100'>
+    <div class="tab-pane fade" id="all" role="tabpanel" aria-labelledby="all-tab">
+<table id="myTable" class="stripe" data-order='[[ 4, "desc" ]]' data-page-length='100'>
     <thead>
         <tr>
-            <th>Meet Rank</th>
+            <th>Rank</th>
             <th>Country</th>
             <th>Athlete</th>
             <th>Total</th>
@@ -57,11 +58,13 @@
         </tr>
     </thead>
     <tbody>
-        {{ with .Page.Resources.Get "scores.json" }}
-            {{ $data := .Content | transform.Unmarshal }}
-            {{ range $data }}
-            <tr>
-                <td>{{ .Rank }}</td>
+                {{ $counter := 0 }}
+                {{ with .Page.Resources.Get "scores.json" }}
+                    {{ $data := .Content | transform.Unmarshal }}
+                    {{ range $data }}
+                    {{ $counter = add $counter 1 }}
+                    <tr>
+                        <td>{{ $counter }}</td>
                 <td>{{ .Fed }}</td>
                 <td><strong>{{ .Name }}</strong></td>
                 <td><strong>{{ .Total }}</strong></td>
@@ -72,6 +75,47 @@
                         <td><small>{{ .Event }}</small></td>
                         <td><small>{{ .Date }}</small></td>
             </tr>
+        {{ end }}
+        {{ end }}
+    </tbody>
+</table>
+        </div>
+            <div class="tab-pane fade" id="fig" role="tabpanel" aria-labelledby="fig-tab">
+<table id="myTable" class="stripe" data-order='[[ 4, "desc" ]]' data-page-length='100'>
+    <thead>
+        <tr>
+            <th>Rank</th>
+            <th>Country</th>
+            <th>Athlete</th>
+            <th>Total</th>
+            <th>Hoop D</th>
+            <th>Ball D</th>
+            <th>Clubs D</th>
+            <th>Ribbon D</th>
+            <th>Event</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+                {{ $counter := 0 }}
+                {{ with .Page.Resources.Get "scores.json" }}
+                    {{ $data := .Content | transform.Unmarshal }}
+                    {{ range $data }}
+                    {{ if lt .lc 5 }}
+                    {{ $counter = add $counter 1 }}
+                    <tr>
+                        <td>{{ $counter }}</td>
+                <td>{{ .Fed }}</td>
+                <td><strong>{{ .Name }}</strong></td>
+                <td><strong>{{ .Total }}</strong></td>
+                <td>{{ .HoopD }}</td>
+                <td>{{ .BallD }}</td>
+                <td>{{ .ClubsD }}</td>
+                <td>{{ .RibbonD }}</td>
+                        <td><small>{{ .Event }}</small></td>
+                        <td><small>{{ .Date }}</small></td>
+            </tr>
+            {{ end }}
         {{ end }}
         {{ end }}
     </tbody>

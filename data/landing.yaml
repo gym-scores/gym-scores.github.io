@@ -25,15 +25,12 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest updates (27 Dec 2025): <ul>
-                              <li>Bundesliga Final (MAG/WAG)</li>
-                              <li>Bolivarian Games (MAG/WAG/RG)</li>
-                              <li>NED-FRA-BEL Friendly (MAG/WAG)</li>
-                              <li>Top Gym (WAG)</li>
-                              <li>Věra Čáslavská Sokol Olympic Hopes Cup (MAG/WAG)</li>
-                              <li>Věra Čáslavská Sokol Grand Prix Mixed Team(MAG/WAG)</li>
-                              <li>SEA Games (MAG/WAG)</li>
-                              <li>Luxembourg Cup (RG)</li>
+  subtitle: "latest updates (20 Jan 2026): <ul>
+                              <li>All 2025 data archived</li>
+                              <li>NCAA Week 1-2 (MAG)</li>
+                              <li>French National Review</li>
+                              <li>Top 12 Matches 1-3 (WAG)</li>
+                              <li><i>no rhythmic meets yet this year</i></li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
@@ -44,8 +41,8 @@ hero:
 
   ctaButton:
     icon: calendar_month
-    btnText: "2025 calendar"
-    url: "/docs/2025cal"
+    btnText: "2026 calendar"
+    url: "/docs/2026"
   cta2Button:
     icon: info
     btnText: "About this site"

@@ -8,7 +8,7 @@
     </nav>
 <div class="tab-content" id="nav-tabContent">
     <div class="tab-pane fade show active" id="leaderboard" role="tabpanel" aria-labelledby="leaderboard">
-<p><i>This tab displays each athlete's highest score. See the following tabs for complete records of the year's scores at FIG-sanctioned meets.</i></p>
+<p><i>This tab displays each athlete's highest score. See the following tabs for complete records of the year's scores.</i></p>
         <table class="lead-table stripe" data-ordering="false" data-paging="true" data-searching="false">            <thead>
                 <tr>
                     <th></th>
@@ -41,10 +41,10 @@
         </table>
     </div>
     <div class="tab-pane fade" id="all" role="tabpanel" aria-labelledby="all-tab">
-        <table id="all" class="stripe" data-order='[[ 3, "desc" ]]' data-page-length='100'>
+        <table id="all" class="stripe" data-order='[[ 4, "desc" ]]' data-page-length='100'>
             <thead>
                 <tr>
-                    <th>Meet Rank</th>
+                    <th></th>
                     <th>Country</th>
                     <th>Athlete</th>
                     <th>Total</th>
@@ -59,20 +59,22 @@
                 </tr>
             </thead>
             <tbody>
+                {{ $counter := 0 }}
                 {{ with .Page.Resources.Get "scores.json" }}
                     {{ $data := .Content | transform.Unmarshal }}
                     {{ range $data }}
+                    {{ $counter = add $counter 1 }}
                     <tr>
-                        <td>{{ .Rank }}</td>
+                        <td>{{ $counter }}</td>
                         <td>{{ .Fed }}</td>
                         <td><strong>{{ .Name }}</strong></td>
                         <td><strong>{{ .Total }}</strong></td>
-                        <td>{{ .fxD }}</td>
-                        <td>{{ .phD }}</td>
-                        <td>{{ .srD }}</td>
-                        <td>{{ .vtD }}</td>
-                        <td>{{ .pbD }}</td>
-                        <td>{{ .hbD }}</td>
+                        <td>{{ .FXD }}</td>
+                        <td>{{ .PHD }}</td>
+                        <td>{{ .SRD }}</td>
+                        <td>{{ .VTD }}</td>
+                        <td>{{ .PBD }}</td>
+                        <td>{{ .HBD }}</td>
                         <td><small>{{ .Event }}</small></td>
                         <td><small>{{ .Date }}</small></td>
                     </tr>
@@ -82,10 +84,10 @@
         </table>
     </div>
     <div class="tab-pane fade" id="fig" role="tabpanel" aria-labelledby="fig-tab">
-        <table id="fig" class="stripe" data-order='[[ 3, "desc" ]]' data-page-length='100'>
+        <table id="fig" class="stripe" data-order='[[ 4, "desc" ]]' data-page-length='100'>
             <thead>
                 <tr>
-                    <th>Meet Rank</th>
+                    <th></th>
                     <th>Country</th>
                     <th>Athlete</th>
                     <th>Total</th>
@@ -100,21 +102,23 @@
                 </tr>
             </thead>
             <tbody>
+                {{ $counter := 0 }}
                 {{ with .Page.Resources.Get "scores.json" }}
                     {{ $data := .Content | transform.Unmarshal }}
                     {{ range $data }}
                                 {{ if lt .lc 5 }}
+                    {{ $counter = add $counter 1 }}
                     <tr>
-                        <td>{{ .Rank }}</td>
+                        <td>{{ $counter }}</td>
                         <td>{{ .Fed }}</td>
                         <td><strong>{{ .Name }}</strong></td>
                         <td><strong>{{ .Total }}</strong></td>
-                        <td>{{ .fxD }}</td>
-                        <td>{{ .phD }}</td>
-                        <td>{{ .srD }}</td>
-                        <td>{{ .vtD }}</td>
-                        <td>{{ .pbD }}</td>
-                        <td>{{ .hbD }}</td>
+                        <td>{{ .FXD }}</td>
+                        <td>{{ .PHD }}</td>
+                        <td>{{ .SRD }}</td>
+                        <td>{{ .VTD }}</td>
+                        <td>{{ .PBD }}</td>
+                        <td>{{ .HBD }}</td>
                         <td><small>{{ .Event }}</small></td>
                         <td><small>{{ .Date }}</small></td>
                     </tr>

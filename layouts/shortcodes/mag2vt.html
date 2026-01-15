@@ -42,9 +42,10 @@
         </table>
     </div>
     <div class="tab-pane fade" id="all" role="tabpanel" aria-labelledby="all-tab">
-        <table id="all" class="stripe" data-order='[[ 13, "desc" ]]' data-page-length='100'>
+        <table id="all" class="stripe" data-order='[[ 14, "desc" ]]' data-page-length='100'>
             <thead>
                 <tr>	
+                    <th>Rank</th>
                     <th>Meet Rank</th>
                     <th>Country</th>
                     <th>Name</th>
@@ -64,10 +65,13 @@
                 </tr>
             </thead>
             <tbody>
+                {{ $counter := 0 }}
                 {{ with .Page.Resources.Get "scores.json" }}
                     {{ $data := .Content | transform.Unmarshal }}
                     {{ range $data }}
+                    {{ $counter = add $counter 1 }}
                     <tr>
+                        <td>{{ $counter }}</td>
                         <td>{{ .Rank }}</td>
                         <td>{{ .Fed }}</td>
                         <td><strong>{{ .Name }}</strong></td>
@@ -91,9 +95,10 @@
         </table>
     </div>
     <div class="tab-pane fade" id="fig" role="tabpanel" aria-labelledby="fig-tab">
-        <table id="fig" class="stripe" data-order='[[ 13, "desc" ]]' data-page-length='100'>
+        <table id="fig" class="stripe" data-order='[[ 14, "desc" ]]' data-page-length='100'>
             <thead>
                 <tr>	
+                    <th>Rank</th>
                     <th>Meet Rank</th>
                     <th>Country</th>
                     <th>Name</th>
@@ -113,11 +118,14 @@
                 </tr>
             </thead>
             <tbody>
+                {{ $counter := 0 }}
                 {{ with .Page.Resources.Get "scores.json" }}
                     {{ $data := .Content | transform.Unmarshal }}
                     {{ range $data }}
                                 {{ if lt .lc 5 }}
+                    {{ $counter = add $counter 1 }}
                     <tr>
+                        <td>{{ $counter }}</td>
                         <td>{{ .Rank }}</td>
                         <td>{{ .Fed }}</td>
                         <td><strong>{{ .Name }}</strong></td>

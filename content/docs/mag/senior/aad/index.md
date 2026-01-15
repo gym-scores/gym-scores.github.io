@@ -1,10 +1,10 @@
 ---
 weight: 900
 title: "Senior AA Difficulty (MAG)"
-description: "2025 AA difficulty for all meets"
+description: "2026 men's all-around difficulty"
 icon: "article"
 date: "2025-10-19T21:56:11-05:00"
-lastmod: "2025-10-19T21:56:11-05:00"
+lastmod: "2026-01-11T21:56:08-05:00"
 draft: false
 toc: true
 ---

@@ -1,0 +1,169 @@
+A few meets are from the previous calendar year. Top 12's WAG season begins in November of the previous year, and some late-year domestic meets classify athletes by their ages for the next season.
+      <nav>
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+        <button class="nav-link active" id="all-tab" data-bs-toggle="tab" data-bs-target="#all"  type="button" role="tab" aria-controls="all" aria-selected="true"><strong>All Meets</strong></button>
+        <button class="nav-link" id="mag-tab" data-bs-toggle="tab" data-bs-target="#mag" type="button" role="tab" aria-controls="mag" aria-selected="false"><strong>MAG</strong></button>
+        <button class="nav-link" id="wag-tab" data-bs-toggle="tab" data-bs-target="#wag" type="button" role="tab" aria-controls="wag" aria-selected="false"><strong>WAG</strong></button>
+        <button class="nav-link" id="rg-tab" data-bs-toggle="tab" data-bs-target="#rg" type="button" role="tab" aria-controls="rg" aria-selected="false"><strong>RG</strong></button>
+        </div>
+    </nav>
+<div class="tab-content" id="nav-tabContent">
+    <div class="tab-pane fade show active" id="all" role="tabpanel" aria-labelledby="all">
+<table id="#myTable" class="stripe" data-order='[[ 2, "asc" ]]' data-paging="false">
+    <thead>
+        <tr>
+            <th>Event</th>
+            <th>Location</th>
+            <th>Date</th>
+            <th>Format</th>
+            <th>Participants</th>
+            <th><small>Organizer</small></th>
+            <th><small>Event Type</small></th>
+            <th><small>FIG Group</small></th>
+        </tr>
+    </thead>
+    <tbody>
+                {{ with .Page.Resources.Get "meets.json" }}
+                    {{ $data := .Content | transform.Unmarshal }}
+                    {{ range $data }}
+                        <tr>
+                        <td><strong>{{ .Event }}</strong></td>
+                <td>{{ .Location }}</td>
+                <td>{{ .Date }}</td>
+                <td>{{ .Format }}</td>
+                <td><ul>
+                    {{ if or .MAGsr .MAGjr }}<li>{{ with .MAGsr }}MAG Sr{{ end }}{{ if and .MAGsr .MAGjr }}, {{ end }}{{ with .MAGjr }}MAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .WAGsr .WAGjr }}<li>{{ with .WAGsr }}WAG Sr{{ end }}{{ if and .WAGsr .WAGjr }}, {{ end }}{{ with .WAGjr }}WAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGIsr .RGIjr }}<li>{{ with .RGIsr }}RGI Sr{{ end }}{{ if and .RGIsr .RGIjr }}, {{ end }}{{ with .RGIjr }}RGI Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGGsr .RGGjr }}<li>{{ with .RGGsr }}RGG Sr{{ end }}{{ if and .RGGsr .RGGjr }}, {{ end }}{{ with .RGGjr }}RGG Jr{{ end }}</li>{{ end }}
+                    </ul></td>
+                <td><small>{{ .Organizer }}</small></td>
+                        <td><small>{{ .Type }}</small></td>
+                        <td><small>{{ .FIGGroup }}</small></td>
+            </tr>
+        {{ end }}
+        {{ end }}
+    </tbody>
+</table>
+        </div>
+    <div class="tab-pane fade" id="mag" role="tabpanel" aria-labelledby="mag">
+<table id="#myTable" class="stripe" data-order='[[ 2, "asc" ]]' data-paging="false">
+    <thead>
+        <tr>
+            <th>Event</th>
+            <th>Location</th>
+            <th>Date</th>
+            <th>Format</th>
+            <th>Participants</th>
+            <th><small>Organizer</small></th>
+            <th><small>Event Type</small></th>
+            <th><small>FIG Group</small></th>
+        </tr>
+    </thead>
+    <tbody>
+                {{ with .Page.Resources.Get "meets.json" }}
+                    {{ $data := .Content | transform.Unmarshal }}
+                    {{ range $data }}
+                    {{ if or .MAGsr .MAGjr }}
+                        <tr>
+                        <td><strong>{{ .Event }}</strong></td>
+                <td>{{ .Location }}</td>
+                <td>{{ .Date }}</td>
+                <td>{{ .Format }}</td>
+                <td><ul>
+                    {{ if or .MAGsr .MAGjr }}<li>{{ with .MAGsr }}MAG Sr{{ end }}{{ if and .MAGsr .MAGjr }}, {{ end }}{{ with .MAGjr }}MAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .WAGsr .WAGjr }}<li>{{ with .WAGsr }}WAG Sr{{ end }}{{ if and .WAGsr .WAGjr }}, {{ end }}{{ with .WAGjr }}WAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGIsr .RGIjr }}<li>{{ with .RGIsr }}RGI Sr{{ end }}{{ if and .RGIsr .RGIjr }}, {{ end }}{{ with .RGIjr }}RGI Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGGsr .RGGjr }}<li>{{ with .RGGsr }}RGG Sr{{ end }}{{ if and .RGGsr .RGGjr }}, {{ end }}{{ with .RGGjr }}RGG Jr{{ end }}</li>{{ end }}
+                    </ul></td>
+                <td><small>{{ .Organizer }}</small></td>
+                        <td><small>{{ .Type }}</small></td>
+                        <td><small>{{ .FIGGroup }}</small></td>
+            </tr>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </tbody>
+</table>
+  </div>
+      <div class="tab-pane fade" id="wag" role="tabpanel" aria-labelledby="wag">
+<table id="#myTable" class="stripe" data-order='[[ 2, "asc" ]]' data-paging="false">
+    <thead>
+        <tr>
+            <th>Event</th>
+            <th>Location</th>
+            <th>Date</th>
+            <th>Format</th>
+            <th>Participants</th>
+            <th><small>Organizer</small></th>
+            <th><small>Event Type</small></th>
+            <th><small>FIG Group</small></th>
+        </tr>
+    </thead>
+    <tbody>
+                {{ with .Page.Resources.Get "meets.json" }}
+                    {{ $data := .Content | transform.Unmarshal }}
+                    {{ range $data }}
+                    {{ if or .WAGsr .WAGjr }}
+                        <tr>
+                        <td><strong>{{ .Event }}</strong></td>
+                <td>{{ .Location }}</td>
+                <td>{{ .Date }}</td>
+                <td>{{ .Format }}</td>
+                <td><ul>
+                    {{ if or .MAGsr .MAGjr }}<li>{{ with .MAGsr }}MAG Sr{{ end }}{{ if and .MAGsr .MAGjr }}, {{ end }}{{ with .MAGjr }}MAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .WAGsr .WAGjr }}<li>{{ with .WAGsr }}WAG Sr{{ end }}{{ if and .WAGsr .WAGjr }}, {{ end }}{{ with .WAGjr }}WAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGIsr .RGIjr }}<li>{{ with .RGIsr }}RGI Sr{{ end }}{{ if and .RGIsr .RGIjr }}, {{ end }}{{ with .RGIjr }}RGI Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGGsr .RGGjr }}<li>{{ with .RGGsr }}RGG Sr{{ end }}{{ if and .RGGsr .RGGjr }}, {{ end }}{{ with .RGGjr }}RGG Jr{{ end }}</li>{{ end }}
+                    </ul></td>
+                <td><small>{{ .Organizer }}</small></td>
+                        <td><small>{{ .Type }}</small></td>
+                        <td><small>{{ .FIGGroup }}</small></td>
+            </tr>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </tbody>
+</table>
+  </div>
+      <div class="tab-pane fade" id="rg" role="tabpanel" aria-labelledby="rg">
+<table id="#myTable" class="stripe" data-order='[[ 2, "asc" ]]' data-paging="false">
+    <thead>
+        <tr>
+            <th>Event</th>
+            <th>Location</th>
+            <th>Date</th>
+            <th>Format</th>
+            <th>Participants</th>
+            <th><small>Organizer</small></th>
+            <th><small>Event Type</small></th>
+            <th><small>FIG Group</small></th>
+        </tr>
+    </thead>
+    <tbody>
+                {{ with .Page.Resources.Get "meets.json" }}
+                    {{ $data := .Content | transform.Unmarshal }}
+                    {{ range $data }}
+                    {{ if or .RGIsr .RGIjr .RGGsr .RGGjr }}
+                        <tr>
+                        <td><strong>{{ .Event }}</strong></td>
+                <td>{{ .Location }}</td>
+                <td>{{ .Date }}</td>
+                <td>{{ .Format }}</td>
+                <td><ul>
+                    {{ if or .MAGsr .MAGjr }}<li>{{ with .MAGsr }}MAG Sr{{ end }}{{ if and .MAGsr .MAGjr }}, {{ end }}{{ with .MAGjr }}MAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .WAGsr .WAGjr }}<li>{{ with .WAGsr }}WAG Sr{{ end }}{{ if and .WAGsr .WAGjr }}, {{ end }}{{ with .WAGjr }}WAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGIsr .RGIjr }}<li>{{ with .RGIsr }}RGI Sr{{ end }}{{ if and .RGIsr .RGIjr }}, {{ end }}{{ with .RGIjr }}RGI Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGGsr .RGGjr }}<li>{{ with .RGGsr }}RGG Sr{{ end }}{{ if and .RGGsr .RGGjr }}, {{ end }}{{ with .RGGjr }}RGG Jr{{ end }}</li>{{ end }}
+                    </ul></td>
+                <td><small>{{ .Organizer }}</small></td>
+                        <td><small>{{ .Type }}</small></td>
+                        <td><small>{{ .FIGGroup }}</small></td>
+            </tr>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </tbody>
+</table>
+  </div>
+</div>
