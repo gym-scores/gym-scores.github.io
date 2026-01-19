@@ -5,7 +5,6 @@ A few meets are from the previous calendar year. Top 12's WAG season begins in N
         <button class="nav-link" id="mag-tab" data-bs-toggle="tab" data-bs-target="#mag" type="button" role="tab" aria-controls="mag" aria-selected="false"><strong>MAG</strong></button>
         <button class="nav-link" id="wag-tab" data-bs-toggle="tab" data-bs-target="#wag" type="button" role="tab" aria-controls="wag" aria-selected="false"><strong>WAG</strong></button>
         <button class="nav-link" id="rg-tab" data-bs-toggle="tab" data-bs-target="#rg" type="button" role="tab" aria-controls="rg" aria-selected="false"><strong>RG</strong></button>
-        <button class="nav-link" id="admin-tab" data-bs-toggle="tab" data-bs-target="#admin" type="button" role="tab" aria-controls="admin" aria-selected="false"><strong>Admin</strong></button>
         </div>
     </nav>
 <div class="tab-content" id="nav-tabContent">
@@ -27,22 +26,21 @@ A few meets are from the previous calendar year. Top 12's WAG season begins in N
                 {{ with .Page.Resources.Get "meets.json" }}
                     {{ $data := .Content | transform.Unmarshal }}
                     {{ range $data }}
-                    {{ if or .MAG .WAG .RG }}
                         <tr>
                         <td><strong>{{ .Event }}</strong></td>
                 <td>{{ .Location }}</td>
                 <td>{{ .Date }}</td>
                 <td>{{ .Format }}</td>
-                <td>
-                    {{ with .MAG }}<p>{{ . }}</p>{{ end }}
-                    {{ with .WAG }}<p>{{ . }}</p>{{ end }}
-                    {{ with .RG }}<p>{{ . }}</p>{{ end }}
-                </td>
+                <td><ul>
+                    {{ if or .MAGsr .MAGjr }}<li>{{ with .MAGsr }}MAG Sr{{ end }}{{ if and .MAGsr .MAGjr }}, {{ end }}{{ with .MAGjr }}MAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .WAGsr .WAGjr }}<li>{{ with .WAGsr }}WAG Sr{{ end }}{{ if and .WAGsr .WAGjr }}, {{ end }}{{ with .WAGjr }}WAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGIsr .RGIjr }}<li>{{ with .RGIsr }}RGI Sr{{ end }}{{ if and .RGIsr .RGIjr }}, {{ end }}{{ with .RGIjr }}RGI Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGGsr .RGGjr }}<li>{{ with .RGGsr }}RGG Sr{{ end }}{{ if and .RGGsr .RGGjr }}, {{ end }}{{ with .RGGjr }}RGG Jr{{ end }}</li>{{ end }}
+                    </ul></td>
                 <td><small>{{ .Organizer }}</small></td>
                         <td><small>{{ .Type }}</small></td>
                         <td><small>{{ .FIGGroup }}</small></td>
             </tr>
-        {{ end }}
         {{ end }}
         {{ end }}
     </tbody>
@@ -66,17 +64,18 @@ A few meets are from the previous calendar year. Top 12's WAG season begins in N
                 {{ with .Page.Resources.Get "meets.json" }}
                     {{ $data := .Content | transform.Unmarshal }}
                     {{ range $data }}
-                    {{ if .MAG }}
+                    {{ if or .MAGsr .MAGjr }}
                         <tr>
                         <td><strong>{{ .Event }}</strong></td>
                 <td>{{ .Location }}</td>
                 <td>{{ .Date }}</td>
                 <td>{{ .Format }}</td>
-                <td>
-                    {{ with .MAG }}<p>{{ . }}</p>{{ end }}
-                    {{ with .WAG }}<p>{{ . }}</p>{{ end }}
-                    {{ with .RG }}<p>{{ . }}</p>{{ end }}
-                 </td>
+                <td><ul>
+                    {{ if or .MAGsr .MAGjr }}<li>{{ with .MAGsr }}MAG Sr{{ end }}{{ if and .MAGsr .MAGjr }}, {{ end }}{{ with .MAGjr }}MAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .WAGsr .WAGjr }}<li>{{ with .WAGsr }}WAG Sr{{ end }}{{ if and .WAGsr .WAGjr }}, {{ end }}{{ with .WAGjr }}WAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGIsr .RGIjr }}<li>{{ with .RGIsr }}RGI Sr{{ end }}{{ if and .RGIsr .RGIjr }}, {{ end }}{{ with .RGIjr }}RGI Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGGsr .RGGjr }}<li>{{ with .RGGsr }}RGG Sr{{ end }}{{ if and .RGGsr .RGGjr }}, {{ end }}{{ with .RGGjr }}RGG Jr{{ end }}</li>{{ end }}
+                    </ul></td>
                 <td><small>{{ .Organizer }}</small></td>
                         <td><small>{{ .Type }}</small></td>
                         <td><small>{{ .FIGGroup }}</small></td>
@@ -105,17 +104,18 @@ A few meets are from the previous calendar year. Top 12's WAG season begins in N
                 {{ with .Page.Resources.Get "meets.json" }}
                     {{ $data := .Content | transform.Unmarshal }}
                     {{ range $data }}
-                    {{ if .WAG }}
+                    {{ if or .WAGsr .WAGjr }}
                         <tr>
                         <td><strong>{{ .Event }}</strong></td>
                 <td>{{ .Location }}</td>
                 <td>{{ .Date }}</td>
                 <td>{{ .Format }}</td>
-                <td>
-                    {{ with .MAG }}<p>{{ . }}</p>{{ end }}
-                    {{ with .WAG }}<p>{{ . }}</p>{{ end }}
-                    {{ with .RG }}<p>{{ . }}</p>{{ end }}
-                </td>
+                <td><ul>
+                    {{ if or .MAGsr .MAGjr }}<li>{{ with .MAGsr }}MAG Sr{{ end }}{{ if and .MAGsr .MAGjr }}, {{ end }}{{ with .MAGjr }}MAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .WAGsr .WAGjr }}<li>{{ with .WAGsr }}WAG Sr{{ end }}{{ if and .WAGsr .WAGjr }}, {{ end }}{{ with .WAGjr }}WAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGIsr .RGIjr }}<li>{{ with .RGIsr }}RGI Sr{{ end }}{{ if and .RGIsr .RGIjr }}, {{ end }}{{ with .RGIjr }}RGI Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGGsr .RGGjr }}<li>{{ with .RGGsr }}RGG Sr{{ end }}{{ if and .RGGsr .RGGjr }}, {{ end }}{{ with .RGGjr }}RGG Jr{{ end }}</li>{{ end }}
+                    </ul></td>
                 <td><small>{{ .Organizer }}</small></td>
                         <td><small>{{ .Type }}</small></td>
                         <td><small>{{ .FIGGroup }}</small></td>
@@ -144,44 +144,21 @@ A few meets are from the previous calendar year. Top 12's WAG season begins in N
                 {{ with .Page.Resources.Get "meets.json" }}
                     {{ $data := .Content | transform.Unmarshal }}
                     {{ range $data }}
-                    {{ if .RG }}
+                    {{ if or .RGIsr .RGIjr .RGGsr .RGGjr }}
                         <tr>
                         <td><strong>{{ .Event }}</strong></td>
                 <td>{{ .Location }}</td>
                 <td>{{ .Date }}</td>
                 <td>{{ .Format }}</td>
-                <td>
-                    {{ with .MAG }}<p>{{ . }}</p>{{ end }}
-                    {{ with .WAG }}<p>{{ . }}</p>{{ end }}
-                    {{ with .RG }}<p>{{ . }}</p>{{ end }}
-                </td>
+                <td><ul>
+                    {{ if or .MAGsr .MAGjr }}<li>{{ with .MAGsr }}MAG Sr{{ end }}{{ if and .MAGsr .MAGjr }}, {{ end }}{{ with .MAGjr }}MAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .WAGsr .WAGjr }}<li>{{ with .WAGsr }}WAG Sr{{ end }}{{ if and .WAGsr .WAGjr }}, {{ end }}{{ with .WAGjr }}WAG Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGIsr .RGIjr }}<li>{{ with .RGIsr }}RGI Sr{{ end }}{{ if and .RGIsr .RGIjr }}, {{ end }}{{ with .RGIjr }}RGI Jr{{ end }}</li>{{ end }}
+                    {{ if or .RGGsr .RGGjr }}<li>{{ with .RGGsr }}RGG Sr{{ end }}{{ if and .RGGsr .RGGjr }}, {{ end }}{{ with .RGGjr }}RGG Jr{{ end }}</li>{{ end }}
+                    </ul></td>
                 <td><small>{{ .Organizer }}</small></td>
                         <td><small>{{ .Type }}</small></td>
                         <td><small>{{ .FIGGroup }}</small></td>
-            </tr>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-    </tbody>
-</table>
-  </div>
-  <div class="tab-pane fade" id="admin" role="tabpanel" aria-labelledby="admin">
-    <p>The following chart lists meetings of the FIG Executive Committee. Among other things, this committee approves all nationality changes for athletes and judges. Such changes are sometimes approved via phone conferences, but they are generally not announced until after the next in-person meeting.</p>
-<table id="#myTable" class="stripe" data-order='[[ 0, "asc" ]]' data-paging="false">
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Location</th>
-        </tr>
-    </thead>
-    <tbody>
-                {{ with .Page.Resources.Get "meets.json" }}
-                    {{ $data := .Content | transform.Unmarshal }}
-                    {{ range $data }}
-                    {{ if eq .Type "FIG Administrative" }}
-                        <tr>
-                        <td><strong>{{ .Date }}</strong></td>
-                <td>{{ .Location }}</td>
             </tr>
         {{ end }}
         {{ end }}

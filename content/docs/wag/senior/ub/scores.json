@@ -136,6 +136,23 @@
     "lc": "10"
   },
   {
+    "Fed": "USA",
+    "Name": "BUECHLER Sophia",
+    "Rank": "1",
+    "D": "",
+    "E": "",
+    "ND": "",
+    "Score": "12.650",
+    "Event": "Vegas Cup National Qualifier",
+    "Organizer": "United States",
+    "Event Type": "USAG National Qualifier",
+    "Date": "Jan 16, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "9"
+  },
+  {
     "Fed": "FRA",
     "Name": "NELO Astria Diana",
     "Rank": "",
@@ -270,6 +287,23 @@
     "ic": "1",
     "rc": "0",
     "lc": "10"
+  },
+  {
+    "Fed": "USA",
+    "Name": "DAMELIO Allyn",
+    "Rank": "2",
+    "D": "",
+    "E": "",
+    "ND": "",
+    "Score": "12.400",
+    "Event": "Vegas Cup National Qualifier",
+    "Organizer": "United States",
+    "Event Type": "USAG National Qualifier",
+    "Date": "Jan 16, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "9"
   },
   {
     "Fed": "FRA",
@@ -510,6 +544,23 @@
     "lc": "10"
   },
   {
+    "Fed": "USA",
+    "Name": "WESTERMAN Camie",
+    "Rank": "3",
+    "D": "",
+    "E": "",
+    "ND": "",
+    "Score": "11.700",
+    "Event": "Vegas Cup National Qualifier",
+    "Organizer": "United States",
+    "Event Type": "USAG National Qualifier",
+    "Date": "Jan 16, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "9"
+  },
+  {
     "Fed": "FRA",
     "Name": "PORTE Loicia",
     "Rank": "8",
@@ -697,6 +748,23 @@
     "lc": "10"
   },
   {
+    "Fed": "USA",
+    "Name": "RICHARDSON Lila",
+    "Rank": "4",
+    "D": "",
+    "E": "",
+    "ND": "",
+    "Score": "11.300",
+    "Event": "Vegas Cup National Qualifier",
+    "Organizer": "United States",
+    "Event Type": "USAG National Qualifier",
+    "Date": "Jan 16, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "9"
+  },
+  {
     "Fed": "FRA",
     "Name": "HAVARD Lilly",
     "Rank": "",
@@ -760,6 +828,23 @@
     "Event Type": "National Team Test",
     "Date": "Oct 17, 2025",
     "Q": "-1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "9"
+  },
+  {
+    "Fed": "USA",
+    "Name": "LAZZARI Isla",
+    "Rank": "5",
+    "D": "",
+    "E": "",
+    "ND": "",
+    "Score": "11.100",
+    "Event": "Vegas Cup National Qualifier",
+    "Organizer": "United States",
+    "Event Type": "USAG National Qualifier",
+    "Date": "Jan 16, 2026",
+    "Q": "1",
     "ic": "1",
     "rc": "0",
     "lc": "9"
@@ -1224,6 +1309,23 @@
     "lc": "10"
   },
   {
+    "Fed": "USA",
+    "Name": "GOLDBERG Sadie",
+    "Rank": "6",
+    "D": "",
+    "E": "",
+    "ND": "",
+    "Score": "9.200",
+    "Event": "Vegas Cup National Qualifier",
+    "Organizer": "United States",
+    "Event Type": "USAG National Qualifier",
+    "Date": "Jan 16, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "9"
+  },
+  {
     "Fed": "FRA",
     "Name": "YEGBE Annalie",
     "Rank": "",
@@ -1253,6 +1355,23 @@
     "Event Type": "National Team Test",
     "Date": "Oct 17, 2025",
     "Q": "-1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "9"
+  },
+  {
+    "Fed": "USA",
+    "Name": "ADKINS Iyla",
+    "Rank": "7",
+    "D": "",
+    "E": "",
+    "ND": "",
+    "Score": "8.350",
+    "Event": "Vegas Cup National Qualifier",
+    "Organizer": "United States",
+    "Event Type": "USAG National Qualifier",
+    "Date": "Jan 16, 2026",
+    "Q": "1",
     "ic": "1",
     "rc": "0",
     "lc": "9"
