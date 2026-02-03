@@ -195,19 +195,6 @@
     "RG": ""
   },
   {
-    "Event": "NCAA Week 3: Army @ Simpson",
-    "Organizer": "NCAA",
-    "Location": "Indianola, IA, USA",
-    "Type": "Club League",
-    "FIGGroup": "N/A",
-    "Date": "Jan 24, 2026",
-    "Enddate": "",
-    "Format": "Team",
-    "MAG": "MAG Sr",
-    "WAG": "",
-    "RG": ""
-  },
-  {
     "Event": "NCAA Week 3: Oklahoma @ Michigan",
     "Organizer": "NCAA",
     "Location": "Ann Arbor, MI, USA",
@@ -247,16 +234,68 @@
     "RG": ""
   },
   {
-    "Event": "Houston National Invitational",
-    "Organizer": "United States",
-    "Location": "Houston, TX, USA",
-    "Type": "Domestic Meet",
+    "Event": "1st Junior Bulgarian Control",
+    "Organizer": "Bulgaria",
+    "Location": "Sofia, BUL",
+    "Type": "Internal Test",
+    "FIGGroup": "N/A",
+    "Date": "Jan 24, 2026",
+    "Enddate": "",
+    "Format": "All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Jr"
+  },
+  {
+    "Event": "FIG Rhythmic Technical Committee Meeting",
+    "Organizer": "FIG",
+    "Location": "Lausanne, SUI",
+    "Type": "FIG Administrative",
+    "FIGGroup": "N/A",
+    "Date": "Jan 25, 2026",
+    "Enddate": "Jan 28, 2026",
+    "Format": "",
+    "MAG": "",
+    "WAG": "",
+    "RG": ""
+  },
+  {
+    "Event": "1st Senior Bulgarian Control",
+    "Organizer": "Bulgaria",
+    "Location": "Sofia, BUL",
+    "Type": "Internal Test",
     "FIGGroup": "N/A",
     "Date": "Jan 28, 2026",
+    "Enddate": "",
+    "Format": "All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Swirl and Twirl International",
+    "Organizer": "Italy",
+    "Location": "Udine, Friuli, ITA",
+    "Type": "International Invitational",
+    "FIGGroup": "N/A",
+    "Date": "Jan 30, 2026",
+    "Enddate": "Jan 31, 2026",
+    "Format": "All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr, RGI Jr"
+  },
+  {
+    "Event": "Houston National Invitational",
+    "Organizer": "United States",
+    "Location": "Galveston, TX, USA",
+    "Type": "Domestic Meet",
+    "FIGGroup": "N/A",
+    "Date": "Jan 30, 2026",
     "Enddate": "Feb 1, 2026",
     "Format": "All Around",
-    "MAG": "MAG Sr, MAG Jr",
-    "WAG": "WAG Sr, WAG Jr",
+    "MAG": "MAG Sr",
+    "WAG": "",
     "RG": ""
   },
   {
@@ -299,19 +338,6 @@
     "RG": ""
   },
   {
-    "Event": "NCAA Week 4: Greenville @ Oklahoma",
-    "Organizer": "NCAA",
-    "Location": "Norman, OK, USA",
-    "Type": "Club League",
-    "FIGGroup": "N/A",
-    "Date": "Feb 1, 2026",
-    "Enddate": "",
-    "Format": "Team",
-    "MAG": "MAG Sr",
-    "WAG": "",
-    "RG": ""
-  },
-  {
     "Event": "NCAA Week 4: Illinois @ Penn State",
     "Organizer": "NCAA",
     "Location": "State College, PA, USA",
@@ -338,6 +364,19 @@
     "RG": ""
   },
   {
+    "Event": "NCAA Week 4: Greenville @ Oklahoma",
+    "Organizer": "NCAA",
+    "Location": "Norman, OK, USA",
+    "Type": "Club League",
+    "FIGGroup": "N/A",
+    "Date": "Feb 1, 2026",
+    "Enddate": "",
+    "Format": "Team",
+    "MAG": "MAG Sr",
+    "WAG": "",
+    "RG": ""
+  },
+  {
     "Event": "February US National Team Camp",
     "Organizer": "United States",
     "Location": "Crossville, TN, USA",
@@ -353,7 +392,7 @@
   {
     "Event": "Elite Canada",
     "Organizer": "Canada",
-    "Location": "CAN",
+    "Location": "Calgary, Alberta, CAN",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
     "Date": "Feb 5, 2026",
@@ -438,6 +477,32 @@
     "Enddate": "",
     "Format": "Team",
     "MAG": "MAG Sr",
+    "WAG": "",
+    "RG": ""
+  },
+  {
+    "Event": "FIG Women's Technical Committee Meeting",
+    "Organizer": "FIG",
+    "Location": "Doha, QAT",
+    "Type": "FIG Administrative",
+    "FIGGroup": "N/A",
+    "Date": "Feb 7, 2026",
+    "Enddate": "Feb 10, 2026",
+    "Format": "",
+    "MAG": "",
+    "WAG": "",
+    "RG": ""
+  },
+  {
+    "Event": "FIG Men's Technical Committee Meeting",
+    "Organizer": "FIG",
+    "Location": "Doha, QAT",
+    "Type": "FIG Administrative",
+    "FIGGroup": "N/A",
+    "Date": "Feb 7, 2026",
+    "Enddate": "Feb 10, 2026",
+    "Format": "",
+    "MAG": "",
     "WAG": "",
     "RG": ""
   },
@@ -756,7 +821,7 @@
   {
     "Event": "Winter Cup",
     "Organizer": "United States",
-    "Location": "TBD",
+    "Location": "Louisville, KY, USA",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
     "Date": "Feb 20, 2026",
@@ -777,6 +842,19 @@
     "Format": "All Around",
     "MAG": "",
     "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
+  },
+  {
+    "Event": "NCAA Week 7: Army @ Simpson",
+    "Organizer": "NCAA",
+    "Location": "Indianola, IA, USA",
+    "Type": "Club League",
+    "FIGGroup": "N/A",
+    "Date": "Feb 21, 2026",
+    "Enddate": "",
+    "Format": "Team",
+    "MAG": "MAG Sr",
+    "WAG": "",
     "RG": ""
   },
   {
@@ -951,7 +1029,7 @@
   {
     "Event": "Liga Iberdrola Match 1 [Rhythmic]",
     "Organizer": "Spain",
-    "Location": "TBD, ITA",
+    "Location": "TBD, ESP",
     "Type": "Club League",
     "FIGGroup": "N/A",
     "Date": "Mar 6, 2026",
@@ -960,6 +1038,19 @@
     "MAG": "",
     "WAG": "",
     "RG": "RGI Sr, RGI Jr"
+  },
+  {
+    "Event": "Bigser Cup",
+    "Organizer": "Kyrgyzstan",
+    "Location": "Bishkek, KGZ",
+    "Type": "International Invitational",
+    "FIGGroup": "Group 4",
+    "Date": "Mar 6, 2026",
+    "Enddate": "Mar 8, 2026",
+    "Format": "All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr, RGG Sr"
   },
   {
     "Event": "Singapore Championships",
@@ -1064,6 +1155,19 @@
     "MAG": "MAG Sr",
     "WAG": "",
     "RG": ""
+  },
+  {
+    "Event": "Alem Cup",
+    "Organizer": "Kazakhstan",
+    "Location": "Astana, KAZ",
+    "Type": "Intenrational Invitaitional",
+    "FIGGroup": "Group 4",
+    "Date": "Mar 8, 2026",
+    "Enddate": "Mar 10, 2026",
+    "Format": "All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr, RGI Jr, RGG Sr"
   },
   {
     "Event": "FIG Executive Committee Meeting",
@@ -1180,6 +1284,19 @@
     "Format": "All Around, Apparatus Finals",
     "MAG": "",
     "WAG": "WAG Jr",
+    "RG": ""
+  },
+  {
+    "Event": "Chinese Teipei MAG Asian Championships Trials",
+    "Organizer": "Chinese Teipei",
+    "Location": "Kaohsiung City, TPE",
+    "Type": "Asian Championships Selection",
+    "FIGGroup": "N/A",
+    "Date": "Mar 16, 2026",
+    "Enddate": "",
+    "Format": "All Around",
+    "MAG": "MAG Sr",
+    "WAG": "",
     "RG": ""
   },
   {
@@ -1421,7 +1538,7 @@
     "Organizer": "Georgia",
     "Location": "Tbilisi, GEO",
     "Type": "International Invitational",
-    "FIGGroup": "N/A",
+    "FIGGroup": "Group 4",
     "Date": "Apr 3, 2026",
     "Enddate": "Apr 5, 2026",
     "Format": "All Around",
@@ -1581,6 +1698,19 @@
     "Date": "Apr 10, 2026",
     "Enddate": "Apr 12, 2026",
     "Format": "All Around, Apparatus Finals",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr, RGG Sr"
+  },
+  {
+    "Event": "USAG Rhythmic Senior Classic",
+    "Organizer": "United States",
+    "Location": "Morton Grove, IL, USA",
+    "Type": "Domestic Meet",
+    "FIGGroup": "N/A",
+    "Date": "Apr 10, 2026",
+    "Enddate": "Apr 12, 2026",
+    "Format": "All Around",
     "MAG": "",
     "WAG": "",
     "RG": "RGI Sr, RGG Sr"
@@ -1768,6 +1898,19 @@
     "RG": ""
   },
   {
+    "Event": "Koop Cup",
+    "Organizer": "Canada",
+    "Location": "Markham, CAN",
+    "Type": "International Invitational",
+    "FIGGroup": "Group 4",
+    "Date": "Apr 22, 2026",
+    "Enddate": "Apr 26, 2026",
+    "Format": "All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr, RGI Jr, RGG Sr, RGG Jr"
+  },
+  {
     "Event": "1st Bundesliga\nMatch 4 [MAG]",
     "Organizer": "Germany",
     "Location": "[Multiple Locations], GER",
@@ -1807,7 +1950,7 @@
     "RG": "RGI Sr, RGG Sr"
   },
   {
-    "Event": "Finnish Championships ",
+    "Event": "Finnish Artistic Championships ",
     "Organizer": "Finland",
     "Location": "Helsinki, FIN",
     "Type": "National Championships",
@@ -1817,6 +1960,32 @@
     "Format": "All Around",
     "MAG": "MAG Sr, MAG Jr",
     "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
+  },
+  {
+    "Event": "Hungarian Artistic Championships",
+    "Organizer": "Hungary",
+    "Location": "TBD, HUN",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "May 3, 2026",
+    "Enddate": "",
+    "Format": "All Around",
+    "MAG": "MAG Sr, MAG Jr",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
+  },
+  {
+    "Event": "Mexican Artistic Championships",
+    "Organizer": "Mexico",
+    "Location": "Aguascalientes, MEX",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "May 6, 2026",
+    "Enddate": "May 15, 2026",
+    "Format": "All Around",
+    "MAG": "MAG Sr",
+    "WAG": "WAG Sr",
     "RG": ""
   },
   {
@@ -1950,6 +2119,32 @@
     "RG": ""
   },
   {
+    "Event": "Pazhava Cup",
+    "Organizer": "Georgia",
+    "Location": "Tbilisi, GEO",
+    "Type": "International Invitational",
+    "FIGGroup": "Group 4",
+    "Date": "May 15, 2026",
+    "Enddate": "May 17, 2026",
+    "Format": "All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr, RGI Jr, RGG Sr, RGG Jr"
+  },
+  {
+    "Event": "1st Bundestliga\nMatch 1 [WAG]",
+    "Organizer": "Germany",
+    "Location": "TBD, GER",
+    "Type": "Club League",
+    "FIGGroup": "N/A",
+    "Date": "May 16, 2026",
+    "Enddate": "",
+    "Format": "Team",
+    "MAG": "",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
+  },
+  {
     "Event": "Liga Iberdrola Match 2 [WAG]",
     "Organizer": "Spain",
     "Location": "TBD, ESP",
@@ -2054,6 +2249,19 @@
     "RG": ""
   },
   {
+    "Event": "Rhythmic Pan American Championships",
+    "Organizer": "Unión Panamericana de Gimnasia",
+    "Location": "Rio de Janeiro, BRA",
+    "Type": "Continental Championships",
+    "FIGGroup": "Group 2",
+    "Date": "Jun 1, 2026",
+    "Enddate": "Jun 7, 2026",
+    "Format": "All Around, Apparatus Finals",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr. RGI Jr, RGG Sr, RGG Jr"
+  },
+  {
     "Event": "Singapore Open",
     "Organizer": "Singapore",
     "Location": "Singapore, SGP",
@@ -2106,6 +2314,19 @@
     "RG": "RGI Sr"
   },
   {
+    "Event": "Czech MAG Championships",
+    "Organizer": "Czechia",
+    "Location": "Trinec, CZE",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "Jun 12, 2026",
+    "Enddate": "Jun 14, 2026",
+    "Format": "All Around",
+    "MAG": "MAG Sr, MAG Jr",
+    "WAG": "",
+    "RG": ""
+  },
+  {
     "Event": "Unnamed USAG National Qualifier",
     "Organizer": "United States",
     "Location": "TBD, USA",
@@ -2116,6 +2337,19 @@
     "Format": "All Around",
     "MAG": "",
     "WAG": "WAG Sr, WAG Jr, WAG Espoir",
+    "RG": ""
+  },
+  {
+    "Event": "Artistic Pan American Championships",
+    "Organizer": "Unión Panamericana de Gimnasia",
+    "Location": "Rio de Janeiro, BRA",
+    "Type": "Continental Championships",
+    "FIGGroup": "Group 2",
+    "Date": "Jun 14, 2026",
+    "Enddate": "Jun 21, 2026",
+    "Format": "Team, All Around, Apparatus Finals",
+    "MAG": "MAG Sr, MAG Jr",
+    "WAG": "WAG Sr, WAG Jr",
     "RG": ""
   },
   {
@@ -2132,12 +2366,38 @@
     "RG": ""
   },
   {
+    "Event": "FIG Rhythmic Technical Committee Meeting",
+    "Organizer": "FIG",
+    "Location": "Lausanne, SUI",
+    "Type": "FIG Administrative",
+    "FIGGroup": "N/A",
+    "Date": "Jun 18, 2026",
+    "Enddate": "Jun 22, 2026",
+    "Format": "",
+    "MAG": "",
+    "WAG": "",
+    "RG": ""
+  },
+  {
+    "Event": "Czech WAG Championships",
+    "Organizer": "Czechia",
+    "Location": "Prague, CZE",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "Jun 20, 2026",
+    "Enddate": "Jun 22, 2026",
+    "Format": "All Around",
+    "MAG": "",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
+  },
+  {
     "Event": "Elek Matolay Memorial",
     "Organizer": "Hungary",
     "Location": "Budapest, HUN",
     "Type": "International Invitational",
     "FIGGroup": "N/A",
-    "Date": "Jun 20, 2026",
+    "Date": "Jun 19, 2026",
     "Enddate": "Jun 21, 2026",
     "Format": "All Around",
     "MAG": "MAG Sr, MAG Jr",
@@ -2312,6 +2572,19 @@
     "MAG": "",
     "WAG": "",
     "RG": "RGI Sr, RGG Sr"
+  },
+  {
+    "Event": "1st Bundestliga\nMatch 2 [WAG]",
+    "Organizer": "Germany",
+    "Location": "TBD, GER",
+    "Type": "Club League",
+    "FIGGroup": "N/A",
+    "Date": "Jul 11, 2026",
+    "Enddate": "",
+    "Format": "Team",
+    "MAG": "",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
   },
   {
     "Event": "Spanish Artistic Championships",
@@ -2561,6 +2834,32 @@
     "RG": "RGI Sr, RGG Sr"
   },
   {
+    "Event": "Hungarian Masters Championships",
+    "Organizer": "Hungary",
+    "Location": "Gyor, HUN",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "Sep 26, 2026",
+    "Enddate": "Sep 27, 2026",
+    "Format": "All Around, Apparatus Finals",
+    "MAG": "MAG Sr",
+    "WAG": "WAG Sr",
+    "RG": ""
+  },
+  {
+    "Event": "1st Bundestliga\nMatch 3 [WAG]",
+    "Organizer": "Germany",
+    "Location": "TBD, GER",
+    "Type": "Club League",
+    "FIGGroup": "N/A",
+    "Date": "Sep 26, 2026",
+    "Enddate": "",
+    "Format": "Team",
+    "MAG": "",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
+  },
+  {
     "Event": "FIG Paris\nArtistic WCC",
     "Organizer": "FIG",
     "Location": "Paris, FRA",
@@ -2596,6 +2895,32 @@
     "Enddate": "Oct 3, 2026",
     "Format": "",
     "MAG": "",
+    "WAG": "",
+    "RG": ""
+  },
+  {
+    "Event": "European Gymnastics League",
+    "Organizer": "Czechia",
+    "Location": "CZE",
+    "Type": "International Invitational",
+    "FIGGroup": "N/A",
+    "Date": "Oct 3, 2026",
+    "Enddate": "Oct 4, 2026",
+    "Format": "All Around",
+    "MAG": "MAG Sr",
+    "WAG": "",
+    "RG": ""
+  },
+  {
+    "Event": "Jiri Matucha Grand Prix",
+    "Organizer": "Czechia",
+    "Location": "CZE",
+    "Type": "International Invitational",
+    "FIGGroup": "N/A",
+    "Date": "Oct 3, 2026",
+    "Enddate": "Oct 4, 2026",
+    "Format": "All Around",
+    "MAG": "MAG Sr",
     "WAG": "",
     "RG": ""
   },
@@ -2795,6 +3120,19 @@
     "RG": ""
   },
   {
+    "Event": "Chinese Teipei Artistic Championships",
+    "Organizer": "Chinese Teipei",
+    "Location": "New Teipei City, TPE",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "Nov 5, 2026",
+    "Enddate": "Nov 9, 2026",
+    "Format": "All Around",
+    "MAG": "MAG Sr",
+    "WAG": "WAG Sr",
+    "RG": ""
+  },
+  {
     "Event": "Northern European Championships",
     "Organizer": "Denmark",
     "Location": "Aalborg, DEN",
@@ -2805,6 +3143,19 @@
     "Format": "Team, All Around, Apparatus Finals",
     "MAG": "MAG Sr",
     "WAG": "WAG Sr",
+    "RG": ""
+  },
+  {
+    "Event": "1st Bundestliga\nMatch 4 [WAG]",
+    "Organizer": "Germany",
+    "Location": "TBD, GER",
+    "Type": "Club League",
+    "FIGGroup": "N/A",
+    "Date": "Nov 14, 2026",
+    "Enddate": "",
+    "Format": "Team",
+    "MAG": "",
+    "WAG": "WAG Sr, WAG Jr",
     "RG": ""
   },
   {
@@ -2873,6 +3224,19 @@
     "RG": ""
   },
   {
+    "Event": "Irish National Series",
+    "Organizer": "Ireland",
+    "Location": "IRL",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "Nov 21, 2026",
+    "Enddate": "Nov 22, 2026",
+    "Format": "All Around, Apparatus Finals",
+    "MAG": "MAG Sr, MAG Jr",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": "RGI Sr, RGI Jr"
+  },
+  {
     "Event": "Voronin Cup",
     "Organizer": "Russia",
     "Location": "Krasnoyarsk, RUS",
@@ -2883,6 +3247,19 @@
     "Format": "All Around, Apparatus Finals",
     "MAG": "MAG Sr",
     "WAG": "WAG Sr",
+    "RG": ""
+  },
+  {
+    "Event": "Věra Čáslavská Olympic Hopes Cup",
+    "Organizer": "Czechia",
+    "Location": "Brno, CZE",
+    "Type": "International Invitational",
+    "FIGGroup": "N/A",
+    "Date": "Nov 27, 2026",
+    "Enddate": "Nov 29, 2026",
+    "Format": "All Around",
+    "MAG": "MAG Sr, MAG Jr",
+    "WAG": "WAG Sr, WAG Jr",
     "RG": ""
   },
   {
@@ -2897,6 +3274,19 @@
     "MAG": "",
     "WAG": "",
     "RG": "RGI Sr, RGI Jr"
+  },
+  {
+    "Event": "Věra Čáslavská\nSokol Grand Prix",
+    "Organizer": "Czechia",
+    "Location": "Brno, CZE",
+    "Type": "International Invitational",
+    "FIGGroup": "N/A",
+    "Date": "Nov 28, 2026",
+    "Enddate": "",
+    "Format": "All Around",
+    "MAG": "MAG Sr, MAG Jr",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
   },
   {
     "Event": "1st Bundesliga\nFinal [RSG]",
