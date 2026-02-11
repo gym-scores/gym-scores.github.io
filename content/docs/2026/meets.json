@@ -312,6 +312,19 @@
     "RG": ""
   },
   {
+    "Event": "Mexican Internal Selection",
+    "Organizer": "Mexico",
+    "Location": "Tijuana, Baja California, MEX",
+    "Type": "Internal Test",
+    "FIGGroup": "N/A",
+    "Date": "Jan 31, 2026",
+    "Enddate": "",
+    "Format": "All Around",
+    "MAG": "MAG Sr, MAG Jr",
+    "WAG": "",
+    "RG": ""
+  },
+  {
     "Event": "NCAA Week 4: Nebraska @ Ohio State",
     "Organizer": "NCAA",
     "Location": "Columbus, OH, USA",
@@ -395,7 +408,7 @@
     "Location": "Calgary, Alberta, CAN",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
-    "Date": "Feb 5, 2026",
+    "Date": "Feb 6, 2026",
     "Enddate": "Feb 8, 2026",
     "Format": "All Around",
     "MAG": "MAG Sr, MAG Jr",
@@ -405,10 +418,10 @@
   {
     "Event": "USAG Rhythmic Challenge",
     "Organizer": "United States",
-    "Location": "Indianapolis, IN, USA",
+    "Location": "Noblesville, IN, USA",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
-    "Date": "Feb 6, 2026",
+    "Date": "Feb 7, 2026",
     "Enddate": "Feb 8, 2026",
     "Format": "All Around",
     "MAG": "",
@@ -416,17 +429,17 @@
     "RG": "RGI Sr, RGI Jr"
   },
   {
-    "Event": "NCAA Week 5: Air Force, Ohio State @ Oklahoma",
-    "Organizer": "NCAA",
-    "Location": "Norman, OK, USA",
-    "Type": "Club League",
+    "Event": "USAG Rhythmic Invitiational",
+    "Organizer": "United States",
+    "Location": "Noblesville, IN, USA",
+    "Type": "Domestic Meet",
     "FIGGroup": "N/A",
     "Date": "Feb 7, 2026",
-    "Enddate": "",
-    "Format": "Team",
-    "MAG": "MAG Sr",
+    "Enddate": "Feb 8, 2026",
+    "Format": "All Around",
+    "MAG": "",
     "WAG": "",
-    "RG": ""
+    "RG": "RGI Sr, RGI Jr"
   },
   {
     "Event": "NCAA Week 5: Army @ Navy",
@@ -455,9 +468,9 @@
     "RG": ""
   },
   {
-    "Event": "NCAA Week 5: Michigan @ Illinois",
+    "Event": "NCAA Week 5: Penn State @ Nebraska",
     "Organizer": "NCAA",
-    "Location": "Urbana, IL, USA",
+    "Location": "Lincoln, NE, USA",
     "Type": "Club League",
     "FIGGroup": "N/A",
     "Date": "Feb 7, 2026",
@@ -468,9 +481,22 @@
     "RG": ""
   },
   {
-    "Event": "NCAA Week 5: Penn State @ Nebraska",
+    "Event": "NCAA Week 5: Air Force, Ohio State @ Oklahoma",
     "Organizer": "NCAA",
-    "Location": "Lincoln, NE, USA",
+    "Location": "Norman, OK, USA",
+    "Type": "Club League",
+    "FIGGroup": "N/A",
+    "Date": "Feb 7, 2026",
+    "Enddate": "",
+    "Format": "Team",
+    "MAG": "MAG Sr",
+    "WAG": "",
+    "RG": ""
+  },
+  {
+    "Event": "NCAA Week 5: Michigan @ Illinois",
+    "Organizer": "NCAA",
+    "Location": "Urbana, IL, USA",
     "Type": "Club League",
     "FIGGroup": "N/A",
     "Date": "Feb 7, 2026",
@@ -689,6 +715,19 @@
     "RG": ""
   },
   {
+    "Event": "Saint Petersburg Championships",
+    "Organizer": "Russia",
+    "Location": "Saint Petersburg, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 15, 2026",
+    "Enddate": "",
+    "Format": "All Around, Apparatus Finals",
+    "MAG": "MAG Sr",
+    "WAG": "WAG Sr",
+    "RG": ""
+  },
+  {
     "Event": "Siberian Federal District Championships",
     "Organizer": "Russia",
     "Location": "Chelyabinsk, RUS",
@@ -885,6 +924,19 @@
   },
   {
     "Event": "Miss Valentine",
+    "Organizer": "Estonia",
+    "Location": "Tartu, EST",
+    "Type": "Grand Prix",
+    "FIGGroup": "Group 4",
+    "Date": "Feb 25, 2026",
+    "Enddate": "Mar 1, 2026",
+    "Format": "Team, All Around, Apparatus Finals",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr, RGI Jr, RGG Sr, RGG Jr"
+  },
+  {
+    "Event": "Miss Valentine [Non-FIG]",
     "Organizer": "Estonia",
     "Location": "Tartu, EST",
     "Type": "Grand Prix",
@@ -2379,19 +2431,6 @@
     "RG": ""
   },
   {
-    "Event": "Czech WAG Championships",
-    "Organizer": "Czechia",
-    "Location": "Prague, CZE",
-    "Type": "National Championships",
-    "FIGGroup": "N/A",
-    "Date": "Jun 20, 2026",
-    "Enddate": "Jun 22, 2026",
-    "Format": "All Around",
-    "MAG": "",
-    "WAG": "WAG Sr, WAG Jr",
-    "RG": ""
-  },
-  {
     "Event": "Elek Matolay Memorial",
     "Organizer": "Hungary",
     "Location": "Budapest, HUN",
@@ -2401,6 +2440,19 @@
     "Enddate": "Jun 21, 2026",
     "Format": "All Around",
     "MAG": "MAG Sr, MAG Jr",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
+  },
+  {
+    "Event": "Czech WAG Championships",
+    "Organizer": "Czechia",
+    "Location": "Prague, CZE",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "Jun 20, 2026",
+    "Enddate": "Jun 22, 2026",
+    "Format": "All Around",
+    "MAG": "",
     "WAG": "WAG Sr, WAG Jr",
     "RG": ""
   },
@@ -3068,6 +3120,19 @@
     "RG": ""
   },
   {
+    "Event": "Chinese Teipei Artistic Championships",
+    "Organizer": "Chinese Teipei",
+    "Location": "New Teipei City, TPE",
+    "Type": "National Championships",
+    "FIGGroup": "N/A",
+    "Date": "Nov 5, 2026",
+    "Enddate": "Nov 9, 2026",
+    "Format": "All Around",
+    "MAG": "MAG Sr",
+    "WAG": "WAG Sr",
+    "RG": ""
+  },
+  {
     "Event": "Tournoi International Combs-La-Ville",
     "Organizer": "France",
     "Location": "Combs-La-Ville, FRA",
@@ -3115,19 +3180,6 @@
     "Date": "Nov 7, 2026",
     "Enddate": "",
     "Format": "Mixed Pairs",
-    "MAG": "MAG Sr",
-    "WAG": "WAG Sr",
-    "RG": ""
-  },
-  {
-    "Event": "Chinese Teipei Artistic Championships",
-    "Organizer": "Chinese Teipei",
-    "Location": "New Teipei City, TPE",
-    "Type": "National Championships",
-    "FIGGroup": "N/A",
-    "Date": "Nov 5, 2026",
-    "Enddate": "Nov 9, 2026",
-    "Format": "All Around",
     "MAG": "MAG Sr",
     "WAG": "WAG Sr",
     "RG": ""

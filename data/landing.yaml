@@ -26,16 +26,9 @@ hero:
 
   title: "gym-scores"
   subtitle: "latest updates (1 Feb 2026): <ul>
-                              <li>Added administrative events to calendar</li>
-                              <li>NCAA Week 3-4 (MAG)</li>
-                              <li>Navy Open (MAG)</li>
-                              <li>Stanford Open (MAG)</li>
-                              <li>Sam Mikulak Invitational (MAG)</li>
-                              <li>Houston National Invitational (MAG)</li>
-                              <li>Vegas Cup (WAG)</li>
-                              <li>Next Era (WAG)</li>
-                              <li>1st Bulgarian control (RG)</li>
-                              <li>Swirl and Twirl International (RG)</li>
+                              <li>NCAA Week 5 (MAG)</li>
+                              <li>Elite Canada (MAG/WAG)</li>
+                              <li>USAG Rhythmic Challenge and Invitational (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
