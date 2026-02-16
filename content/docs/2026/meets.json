@@ -131,7 +131,7 @@
   },
   {
     "Event": "West Point Open [NCAA Week 2]",
-    "Organizer": "NCAA/United States",
+    "Organizer": "United States",
     "Location": "West Point, NY, USA",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
@@ -144,7 +144,7 @@
   },
   {
     "Event": "Rocky Mountain Open [NCAA Week 2]",
-    "Organizer": "NCAA/United States",
+    "Organizer": "United States",
     "Location": "Colorado Springs, CO, USA",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
@@ -157,7 +157,7 @@
   },
   {
     "Event": "Ohio State Open [NCAA Week 2]",
-    "Organizer": "NCAA/United States",
+    "Organizer": "United States",
     "Location": "Columbus, OH, USA",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
@@ -209,7 +209,7 @@
   },
   {
     "Event": "Sam Mikulak Invitational [NCAA Week 3]",
-    "Organizer": "NCAA/United States",
+    "Organizer": "United States",
     "Location": "Sarasota, FL, USA",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
@@ -222,7 +222,7 @@
   },
   {
     "Event": "Stanford Open\n[NCAA Week 3]",
-    "Organizer": "NCAA/United States",
+    "Organizer": "United States",
     "Location": "Stanford, CA, USA",
     "Type": "Domestic Meet",
     "FIGGroup": "N/A",
@@ -390,6 +390,32 @@
     "RG": ""
   },
   {
+    "Event": "North Caucasus Federal District Championships",
+    "Organizer": "Russia",
+    "Location": "Kaspiysk, Dagestan, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 1, 2026",
+    "Enddate": "Feb 5, 2026",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Moscow Championships",
+    "Organizer": "Russia",
+    "Location": "Moscow, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 1, 2026",
+    "Enddate": "Feb 4, 2026",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
     "Event": "February US National Team Camp",
     "Organizer": "United States",
     "Location": "Crossville, TN, USA",
@@ -401,6 +427,110 @@
     "MAG": "",
     "WAG": "WAG Sr, WAG Jr, WAG Espoir",
     "RG": ""
+  },
+  {
+    "Event": "Northwestern Federal District Championships",
+    "Organizer": "Russia",
+    "Location": "Veliky Novgorod, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 2, 2026",
+    "Enddate": "",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Siberian Federal District Championships",
+    "Organizer": "Russia",
+    "Location": "Omsk, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 2, 2026",
+    "Enddate": "Feb 5, 2026",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Ural Federal District Championships",
+    "Organizer": "Russia",
+    "Location": "Yekaterinburg, Sverdlovsk, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 2, 2026",
+    "Enddate": "",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Far Eastern Federal District Championships",
+    "Organizer": "Russia",
+    "Location": "Ulan-Ude, Buryatia, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 2, 2026",
+    "Enddate": "Feb 3, 2026",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Saint Petersburg Championships",
+    "Organizer": "Russia",
+    "Location": "Saint Petersburg RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 2, 2026",
+    "Enddate": "Feb 5, 2026",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Central Federal District Championships",
+    "Organizer": "Russia",
+    "Location": "Ryazan, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 3, 2026",
+    "Enddate": "Feb 5, 2026",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Volga Federal District Championships",
+    "Organizer": "Russia",
+    "Location": "Ulyanovsk, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 3, 2026",
+    "Enddate": "Feb 8, 2026",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
+  },
+  {
+    "Event": "Southern Federal District & FT Sirius Championships",
+    "Organizer": "Russia",
+    "Location": "Sirius, RUS",
+    "Type": "Federal District Championships",
+    "FIGGroup": "N/A",
+    "Date": "Feb 3, 2026",
+    "Enddate": "Feb 8, 2026",
+    "Format": "Team, All Around",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
   },
   {
     "Event": "Elite Canada",
@@ -440,6 +570,19 @@
     "MAG": "",
     "WAG": "",
     "RG": "RGI Sr, RGI Jr"
+  },
+  {
+    "Event": "Tokushukai Apparatus Championships",
+    "Organizer": "Japan",
+    "Location": "Kamakura, Kanagawa Prefecture, JPN",
+    "Type": "Domestic Meet",
+    "FIGGroup": "NA",
+    "Date": "Feb 7, 2026",
+    "Enddate": "",
+    "Format": "Apparatus Finals",
+    "MAG": "MAG Sr",
+    "WAG": "",
+    "RG": ""
   },
   {
     "Event": "NCAA Week 5: Army @ Navy",
@@ -585,6 +728,19 @@
     "RG": "RGI Sr, RGI Jr"
   },
   {
+    "Event": "Japanese Video Review",
+    "Organizer": "Japan",
+    "Location": "Online Competition",
+    "Type": "Internal Test",
+    "FIGGroup": "N/A",
+    "Date": "Feb 14, 2026",
+    "Enddate": "",
+    "Format": "All Around",
+    "MAG": "MAG Sr",
+    "WAG": "WAG Sr",
+    "RG": ""
+  },
+  {
     "Event": "NCAA Week 6: Greenville, Simpson, William & Mary @ Nebraska",
     "Organizer": "NCAA",
     "Location": "Lincoln, NE, USA",
@@ -652,7 +808,7 @@
   {
     "Event": "Far Eastern Federal District Championships",
     "Organizer": "Russia",
-    "Location": "Chita, RUS",
+    "Location": "Chita, Zabaykalsky Krai, RUS",
     "Type": "Federal District Championships",
     "FIGGroup": "N/A",
     "Date": "Feb 15, 2026",
@@ -691,7 +847,7 @@
   {
     "Event": "Northwestern Federal District Championships",
     "Organizer": "Russia",
-    "Location": "Petrozavodsk, RUS",
+    "Location": "Petrozavodsk, Karelia, RUS",
     "Type": "Federal District Championships",
     "FIGGroup": "N/A",
     "Date": "Feb 15, 2026",
@@ -756,7 +912,7 @@
   {
     "Event": "Volga Federal District Championships",
     "Organizer": "Russia",
-    "Location": "Kazan, RUS",
+    "Location": "Kazan, Tatarstan, RUS",
     "Type": "Federal District Championships",
     "FIGGroup": "N/A",
     "Date": "Feb 15, 2026",
@@ -926,7 +1082,7 @@
     "Event": "Miss Valentine",
     "Organizer": "Estonia",
     "Location": "Tartu, EST",
-    "Type": "Grand Prix",
+    "Type": "International Invitational",
     "FIGGroup": "Group 4",
     "Date": "Feb 25, 2026",
     "Enddate": "Mar 1, 2026",
@@ -939,8 +1095,8 @@
     "Event": "Miss Valentine [Non-FIG]",
     "Organizer": "Estonia",
     "Location": "Tartu, EST",
-    "Type": "Grand Prix",
-    "FIGGroup": "Group 4",
+    "Type": "International Club Invitational",
+    "FIGGroup": "Group 5",
     "Date": "Feb 25, 2026",
     "Enddate": "Mar 1, 2026",
     "Format": "Team, All Around, Apparatus Finals",
@@ -973,6 +1129,19 @@
     "MAG": "MAG Sr, MAG Jr",
     "WAG": "WAG Sr, WAG Jr",
     "RG": ""
+  },
+  {
+    "Event": "Tartu Grand Prix",
+    "Organizer": "Estonia",
+    "Location": "Tartu, EST",
+    "Type": "Grand Prix",
+    "FIGGroup": "Group 4",
+    "Date": "Feb 28, 2026",
+    "Enddate": "Mar 3, 2026",
+    "Format": "All Around, Apparatus Finals",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr"
   },
   {
     "Event": "NCAA Week 8: Army, William & Mary @ Ohio State",
@@ -1055,9 +1224,22 @@
   {
     "Event": "International Gymnix",
     "Organizer": "Canada",
-    "Location": "Montreal, QC, Canada",
+    "Location": "Montreal, Quebec, Canada",
     "Type": "International Invitational",
     "FIGGroup": "Group 4",
+    "Date": "Mar 3, 2026",
+    "Enddate": "Mar 9, 2026",
+    "Format": "Team, All Around, Apparatus Finals",
+    "MAG": "",
+    "WAG": "WAG Sr, WAG Jr",
+    "RG": ""
+  },
+  {
+    "Event": "International Gymnix Challenge",
+    "Organizer": "Canada",
+    "Location": "Montreal, Quebec, Canada",
+    "Type": "International Club Invitational",
+    "FIGGroup": "Group 5",
     "Date": "Mar 3, 2026",
     "Enddate": "Mar 9, 2026",
     "Format": "Team, All Around, Apparatus Finals",
@@ -1339,8 +1521,8 @@
     "RG": ""
   },
   {
-    "Event": "Chinese Teipei MAG Asian Championships Trials",
-    "Organizer": "Chinese Teipei",
+    "Event": "Chinese Taipei MAG Asian Championships Trials",
+    "Organizer": "Chinese Taipei",
     "Location": "Kaohsiung City, TPE",
     "Type": "Asian Championships Selection",
     "FIGGroup": "N/A",
@@ -1391,7 +1573,7 @@
     "RG": ""
   },
   {
-    "Event": "DtB Pokal",
+    "Event": "DTB Pokal",
     "Organizer": "Germany",
     "Location": "Stuttgart, GER",
     "Type": "International Invitational",
@@ -1457,7 +1639,7 @@
   },
   {
     "Event": "USAG Collegiate Championships",
-    "Organizer": "NCAA",
+    "Organizer": "United States",
     "Location": "Colorado Springs, CO, USA",
     "Type": "Club League",
     "FIGGroup": "N/A",
@@ -1952,7 +2134,7 @@
   {
     "Event": "Koop Cup",
     "Organizer": "Canada",
-    "Location": "Markham, CAN",
+    "Location": "Markham, Ontario, CAN",
     "Type": "International Invitational",
     "FIGGroup": "Group 4",
     "Date": "Apr 22, 2026",
@@ -2095,14 +2277,14 @@
   {
     "Event": "Artistic Oceania Championships",
     "Organizer": "Oceania Gymnastics Union",
-    "Location": "Brisbane, AUS",
+    "Location": "Brisbane, Queensland, AUS",
     "Type": "Continental Championships",
     "FIGGroup": "Group 2",
-    "Date": "May 9, 2026",
-    "Enddate": "",
+    "Date": "May 8, 2026",
+    "Enddate": "May 9, 2026",
     "Format": "All Around",
-    "MAG": "MAG Sr",
-    "WAG": "WAG Sr",
+    "MAG": "MAG Sr, MAG Jr",
+    "WAG": "WAG Sr, WAG Jr",
     "RG": ""
   },
   {
@@ -2120,7 +2302,7 @@
   },
   {
     "Event": "FIG Portimão\nRhythmic WWC",
-    "Organizer": "Portugal",
+    "Organizer": "FIG",
     "Location": "Portimão, POR",
     "Type": "International Invitational",
     "FIGGroup": "Group 3",
@@ -2301,19 +2483,6 @@
     "RG": ""
   },
   {
-    "Event": "Rhythmic Pan American Championships",
-    "Organizer": "Unión Panamericana de Gimnasia",
-    "Location": "Rio de Janeiro, BRA",
-    "Type": "Continental Championships",
-    "FIGGroup": "Group 2",
-    "Date": "Jun 1, 2026",
-    "Enddate": "Jun 7, 2026",
-    "Format": "All Around, Apparatus Finals",
-    "MAG": "",
-    "WAG": "",
-    "RG": "RGI Sr. RGI Jr, RGG Sr, RGG Jr"
-  },
-  {
     "Event": "Singapore Open",
     "Organizer": "Singapore",
     "Location": "Singapore, SGP",
@@ -2340,6 +2509,19 @@
     "RG": "RGI Sr, RGI Jr"
   },
   {
+    "Event": "Rhythmic Pan American Championships",
+    "Organizer": "Unión Panamericana de Gimnasia",
+    "Location": "Rio de Janeiro, BRA",
+    "Type": "Continental Championships",
+    "FIGGroup": "Group 2",
+    "Date": "Jun 5, 2026",
+    "Enddate": "Jun 7, 2026",
+    "Format": "All Around, Apparatus Finals",
+    "MAG": "",
+    "WAG": "",
+    "RG": "RGI Sr. RGI Jr, RGG Sr, RGG Jr"
+  },
+  {
     "Event": "French Championships",
     "Organizer": "France",
     "Location": "Mulhouse, FRA",
@@ -2364,6 +2546,19 @@
     "MAG": "",
     "WAG": "",
     "RG": "RGI Sr"
+  },
+  {
+    "Event": "Šalamunov Memorial",
+    "Organizer": "Slovenia",
+    "Location": "Maribor, SLO",
+    "Type": "International Invitational",
+    "FIGGroup": "N/A",
+    "Date": "Jun 8, 2026",
+    "Enddate": "Jun 13, 2026",
+    "Format": "",
+    "MAG": "",
+    "WAG": "",
+    "RG": ""
   },
   {
     "Event": "Czech MAG Championships",
@@ -2397,7 +2592,7 @@
     "Location": "Rio de Janeiro, BRA",
     "Type": "Continental Championships",
     "FIGGroup": "Group 2",
-    "Date": "Jun 14, 2026",
+    "Date": "Jun 17, 2026",
     "Enddate": "Jun 21, 2026",
     "Format": "Team, All Around, Apparatus Finals",
     "MAG": "MAG Sr, MAG Jr",
@@ -2600,6 +2795,19 @@
     "RG": "RGI Sr, RGI Jr"
   },
   {
+    "Event": "Internationaler Junior Team Cup",
+    "Organizer": "Germany",
+    "Location": "Berlin, GER",
+    "Type": "International Invitational",
+    "FIGGroup": "N/A",
+    "Date": "Jul 2, 2026",
+    "Enddate": "Jul 4, 2026",
+    "Format": "Team",
+    "MAG": "MAG Jr",
+    "WAG": "",
+    "RG": ""
+  },
+  {
     "Event": "German WAG Junior Championships",
     "Organizer": "Germany",
     "Location": "Backnang, GER",
@@ -2667,7 +2875,7 @@
   {
     "Event": "Friendly Match: Dortmund",
     "Organizer": "Germany",
-    "Location": "Dortmund\n, Germany",
+    "Location": "Dortmund, Germany",
     "Type": "Friendly Match",
     "FIGGroup": "N/A",
     "Date": "Jul 18, 2026",
@@ -2977,6 +3185,19 @@
     "RG": ""
   },
   {
+    "Event": "Internationaler Leverkusen Cup",
+    "Organizer": "Germany",
+    "Location": "Leverkusen, North Rhine-Westphalia, GER",
+    "Type": "International Invitational",
+    "FIGGroup": "N/A",
+    "Date": "Oct 3, 2026",
+    "Enddate": "",
+    "Format": "",
+    "MAG": "",
+    "WAG": "WAG Sr",
+    "RG": ""
+  },
+  {
     "Event": "British Team Championships",
     "Organizer": "Great Britain",
     "Location": "Stoke-on-Trent, England, GBR",
@@ -3120,9 +3341,9 @@
     "RG": ""
   },
   {
-    "Event": "Chinese Teipei Artistic Championships",
-    "Organizer": "Chinese Teipei",
-    "Location": "New Teipei City, TPE",
+    "Event": "Chinese Taipei Artistic Championships",
+    "Organizer": "Chinese Taipei",
+    "Location": "New Taipei City, TPE",
     "Type": "National Championships",
     "FIGGroup": "N/A",
     "Date": "Nov 5, 2026",

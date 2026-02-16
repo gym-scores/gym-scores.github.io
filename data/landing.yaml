@@ -26,9 +26,12 @@ hero:
 
   title: "gym-scores"
   subtitle: "latest updates (1 Feb 2026): <ul>
-                              <li>NCAA Week 5 (MAG)</li>
-                              <li>Elite Canada (MAG/WAG)</li>
-                              <li>USAG Rhythmic Challenge and Invitational (RG)</li>
+                              <li>NCAA Week 7 (MAG)</li>
+                              <li>Top 12 Match 2 (MAG)</li>
+                              <li>Japanese Video Review (MAG/WAG)</li>
+                              <li>Rochester Classic (WAG)</li>
+                              <li>Wings of Hope (RG)</li>
+                              <li>Russian Federal District Championships (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'

@@ -272,6 +272,23 @@
     "": "9"
   },
   {
+    "Fed": "LUX",
+    "Name": "GRAAS Paris",
+    "Rank": "",
+    "Total": "34.2",
+    "HoopD": "9.8",
+    "BallD": "8.2",
+    "ClubsD": "9.6",
+    "RibbonD": "6.6",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
+  },
+  {
     "Fed": "USA",
     "Name": "PONIATOVSKAYA Varvara",
     "Rank": "",
@@ -476,6 +493,23 @@
     "": "9"
   },
   {
+    "Fed": "GER",
+    "Name": "DIETE Melissa",
+    "Rank": "",
+    "Total": "31.4",
+    "HoopD": "8.0",
+    "BallD": "6.5",
+    "ClubsD": "9.4",
+    "RibbonD": "7.5",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
+  },
+  {
     "Fed": "USA",
     "Name": "DUDNYAK Olivia",
     "Rank": "",
@@ -510,6 +544,23 @@
     "": "9"
   },
   {
+    "Fed": "POR",
+    "Name": "LUCAS Gabriela",
+    "Rank": "",
+    "Total": "31.2",
+    "HoopD": "7.8",
+    "BallD": "8.1",
+    "ClubsD": "8.2",
+    "RibbonD": "7.1",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
+  },
+  {
     "Fed": "USA",
     "Name": "BOGROVETSKA Julia",
     "Rank": "",
@@ -525,6 +576,23 @@
     "Q": "1",
     "lc": "1",
     "": "9"
+  },
+  {
+    "Fed": "LTU",
+    "Name": "SIVOJUTE Darija",
+    "Rank": "",
+    "Total": "30.3",
+    "HoopD": "8.8",
+    "BallD": "6.8",
+    "ClubsD": "7.3",
+    "RibbonD": "7.4",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
   },
   {
     "Fed": "USA",
@@ -663,6 +731,23 @@
     "": "9"
   },
   {
+    "Fed": "SLO",
+    "Name": "STREL Zala",
+    "Rank": "",
+    "Total": "28.8",
+    "HoopD": "8.1",
+    "BallD": "6.3",
+    "ClubsD": "7.4",
+    "RibbonD": "7.0",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
+  },
+  {
     "Fed": "USA",
     "Name": "ZHAO Kaylee",
     "Rank": "",
@@ -695,6 +780,23 @@
     "Q": "1",
     "lc": "1",
     "": "9"
+  },
+  {
+    "Fed": "LTU",
+    "Name": "TROFIMOVA Darija",
+    "Rank": "",
+    "Total": "27.5",
+    "HoopD": "7.3",
+    "BallD": "6.9",
+    "ClubsD": "6.4",
+    "RibbonD": "6.9",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
   },
   {
     "Fed": "USA",
@@ -746,6 +848,23 @@
     "Q": "1",
     "lc": "1",
     "": "9"
+  },
+  {
+    "Fed": "GER",
+    "Name": "STEFURAK Alisia",
+    "Rank": "",
+    "Total": "25.3",
+    "HoopD": "7.6",
+    "BallD": "5.2",
+    "ClubsD": "5.6",
+    "RibbonD": "6.9",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
   },
   {
     "Fed": "USA",
@@ -814,5 +933,56 @@
     "Q": "1",
     "lc": "1",
     "": "9"
+  },
+  {
+    "Fed": "MLT",
+    "Name": "DRAGUZYA Alyona",
+    "Rank": "",
+    "Total": "20.0",
+    "HoopD": "5.3",
+    "BallD": "5.3",
+    "ClubsD": "5.4",
+    "RibbonD": "4.0",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
+  },
+  {
+    "Fed": "MLT",
+    "Name": "AZZOPARDI Chezonelle Georgette",
+    "Rank": "",
+    "Total": "18.9",
+    "HoopD": "4.3",
+    "BallD": "4.4",
+    "ClubsD": "5.3",
+    "RibbonD": "4.9",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
+  },
+  {
+    "Fed": "CRO",
+    "Name": "RAKOVAC Viktorija",
+    "Rank": "",
+    "Total": "14.5",
+    "HoopD": "4.6",
+    "BallD": "3.9",
+    "ClubsD": "3.0",
+    "RibbonD": "3.0",
+    "Event": "Wings of Hope Cup AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Feb 13, 2026",
+    "Q": "1",
+    "lc": "0",
+    "": "4"
   }
 ]

@@ -1,0 +1,47 @@
+[
+  {
+    "Fed": "USA",
+    "Name": "United States №1",
+    "-": "",
+    "Total": "22.500",
+    "SameD": "9.650",
+    "MixedD": "12.850",
+    "Event": "USAG Rhythmic Challenge",
+    "Organizer": "United States",
+    "Event Type": "Domestic meet",
+    "Date": "Feb 7, 2026",
+    "Q": "1",
+    "lc": "1",
+    "": "8"
+  },
+  {
+    "Fed": "USA",
+    "Name": "United States №2",
+    "-": "",
+    "Total": "17.850",
+    "SameD": "8.700",
+    "MixedD": "9.150",
+    "Event": "USAG Rhythmic Challenge",
+    "Organizer": "United States",
+    "Event Type": "Domestic meet",
+    "Date": "Feb 7, 2026",
+    "Q": "1",
+    "lc": "1",
+    "": "8"
+  },
+  {
+    "Fed": "Club",
+    "Name": "Pittsburgh Northstars",
+    "-": "",
+    "Total": "9.750",
+    "SameD": "4.300",
+    "MixedD": "5.450",
+    "Event": "USAG Rhythmic Challenge",
+    "Organizer": "United States",
+    "Event Type": "Domestic meet",
+    "Date": "Feb 7, 2026",
+    "Q": "1",
+    "lc": "1",
+    "": "8"
+  }
+]
