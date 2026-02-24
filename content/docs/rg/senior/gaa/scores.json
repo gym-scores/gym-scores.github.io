@@ -1,10 +1,10 @@
 [
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "TsKhG Zhemchuzhina №1",
     "Rank": "1",
     "Total": "55.400",
-    "5 Balls": "27.000",
+    "Same": "27.000",
     "Mixed": "28.400",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -16,11 +16,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "TsSP SSK Lesgaft University №1",
     "Rank": "2",
     "Total": "54.500",
-    "5 Balls": "26.900",
+    "Same": "26.900",
     "Mixed": "27.600",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -32,11 +32,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\"-\"Krylya Sovetov\" №1",
     "Rank": "1",
     "Total": "52.900",
-    "5 Balls": "25.100",
+    "Same": "25.100",
     "Mixed": "27.800",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -48,11 +48,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Nizhny Novgorod Oblast №5",
     "Rank": "1",
     "Total": "52.700",
-    "5 Balls": "26.800",
+    "Same": "26.800",
     "Mixed": "25.900",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -64,11 +64,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Nizhny Novgorod Oblast №2",
     "Rank": "2",
     "Total": "52.300",
-    "5 Balls": "26.800",
+    "Same": "26.800",
     "Mixed": "25.500",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -80,11 +80,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sverdlovsk Oblast №1",
     "Rank": "1",
     "Total": "51.950",
-    "5 Balls": "26.300",
+    "Same": "26.300",
     "Mixed": "25.650",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -100,11 +100,11 @@
     "Name": "United States №1",
     "Rank": "1",
     "Total": "51.850",
-    "5 Balls": "24.150",
+    "Same": "24.150",
     "Mixed": "27.700",
     "Event": "USAG Rhythmic Challenge",
     "Host Fed": "United States",
-    "Event Type": "Domestic meet",
+    "Event Type": "Domestic Meet",
     "Date": "Feb 7, 2026",
     "Q": "1",
     "ic": "1",
@@ -112,11 +112,11 @@
     "lc": "8"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MGFSO Taganka №1",
     "Rank": "2",
     "Total": "51.850",
-    "5 Balls": "24.950",
+    "Same": "24.950",
     "Mixed": "26.900",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -128,11 +128,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Nizhny Novgorod Oblast №1",
     "Rank": "3",
     "Total": "51.150",
-    "5 Balls": "24.450",
+    "Same": "24.450",
     "Mixed": "26.700",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -144,11 +144,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sverdlovsk Oblast №2",
     "Rank": "2",
     "Total": "51.100",
-    "5 Balls": "26.500",
+    "Same": "26.500",
     "Mixed": "24.600",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -160,11 +160,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Tatarstan №1",
     "Rank": "4",
     "Total": "50.700",
-    "5 Balls": "24.900",
+    "Same": "24.900",
     "Mixed": "25.800",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -176,11 +176,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Penza Oblast №2",
     "Rank": "5",
     "Total": "49.750",
-    "5 Balls": "25.300",
+    "Same": "25.300",
     "Mixed": "24.450",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -192,11 +192,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MGFSO Taganka №2",
     "Rank": "3",
     "Total": "49.700",
-    "5 Balls": "23.700",
+    "Same": "23.700",
     "Mixed": "26.000",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -208,11 +208,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "Irina Viner Gymnastics Center Team",
     "Rank": "4",
     "Total": "49.600",
-    "5 Balls": "23.600",
+    "Same": "23.600",
     "Mixed": "26.000",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -224,11 +224,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Samara Oblast №1",
     "Rank": "6",
     "Total": "49.550",
-    "5 Balls": "24.650",
+    "Same": "24.650",
     "Mixed": "24.900",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -240,11 +240,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 74 №2",
     "Rank": "5",
     "Total": "49.450",
-    "5 Balls": "23.000",
+    "Same": "23.000",
     "Mixed": "26.450",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -256,11 +256,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 74 №1",
     "Rank": "6",
     "Total": "49.300",
-    "5 Balls": "23.700",
+    "Same": "23.700",
     "Mixed": "25.600",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -272,11 +272,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "TsKhG Zhemchuzhina №2",
     "Rank": "3",
     "Total": "49.200",
-    "5 Balls": "21.300",
+    "Same": "21.300",
     "Mixed": "27.900",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -288,11 +288,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\"-\"Krylya Sovetov\" №2",
     "Rank": "7",
     "Total": "49.100",
-    "5 Balls": "24.650",
+    "Same": "24.650",
     "Mixed": "24.450",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -304,11 +304,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Nizhny Novgorod Oblast №3",
     "Rank": "7",
     "Total": "49.050",
-    "5 Balls": "22.850",
+    "Same": "22.850",
     "Mixed": "26.200",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -320,11 +320,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Ulyanovsk Oblast №2",
     "Rank": "8",
     "Total": "49.000",
-    "5 Balls": "24.500",
+    "Same": "24.500",
     "Mixed": "24.500",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -336,11 +336,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Ulyanovsk Oblast №1",
     "Rank": "9",
     "Total": "49.000",
-    "5 Balls": "25.800",
+    "Same": "25.800",
     "Mixed": "23.200",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -352,11 +352,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"MGFSO\" №1",
     "Rank": "8",
     "Total": "49.000",
-    "5 Balls": "24.350",
+    "Same": "24.350",
     "Mixed": "24.650",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -368,11 +368,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR CSKA",
     "Rank": "9",
     "Total": "48.700",
-    "5 Balls": "23.700",
+    "Same": "23.700",
     "Mixed": "25.000",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -384,11 +384,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Stavropol Krai №1",
     "Rank": "1",
     "Total": "48.600",
-    "5 Balls": "25.600",
+    "Same": "25.600",
     "Mixed": "23.000",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -400,11 +400,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSh Petrogradsky District",
     "Rank": "4",
     "Total": "48.500",
-    "5 Balls": "23.900",
+    "Same": "23.900",
     "Mixed": "24.600",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -416,11 +416,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 74 №4",
     "Rank": "10",
     "Total": "48.500",
-    "5 Balls": "24.300",
+    "Same": "24.300",
     "Mixed": "24.200",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -432,11 +432,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\"-\"Krylya Sovetov\" №5",
     "Rank": "11",
     "Total": "48.350",
-    "5 Balls": "22.650",
+    "Same": "22.650",
     "Mixed": "25.700",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -448,11 +448,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\"-\"Krylya Sovetov\" №4",
     "Rank": "12",
     "Total": "48.200",
-    "5 Balls": "25.650",
+    "Same": "25.650",
     "Mixed": "22.550",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -464,11 +464,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\" №1",
     "Rank": "13",
     "Total": "47.950",
-    "5 Balls": "22.950",
+    "Same": "22.950",
     "Mixed": "25.000",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -480,11 +480,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Krasnodar Krai №2",
     "Rank": "4",
     "Total": "47.450",
-    "5 Balls": "26.100",
+    "Same": "26.100",
     "Mixed": "21.350",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -496,11 +496,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Krasnodar Krai №2",
     "Rank": "8",
     "Total": "47.450",
-    "5 Balls": "26.100",
+    "Same": "26.100",
     "Mixed": "21.350",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -512,11 +512,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Samara Oblast №4",
     "Rank": "10",
     "Total": "47.450",
-    "5 Balls": "21.650",
+    "Same": "21.650",
     "Mixed": "25.800",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -528,11 +528,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sverdlovsk Oblast №6",
     "Rank": "3",
     "Total": "47.400",
-    "5 Balls": "24.000",
+    "Same": "24.000",
     "Mixed": "23.400",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -544,11 +544,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Penza Oblast №1",
     "Rank": "11",
     "Total": "47.300",
-    "5 Balls": "23.400",
+    "Same": "23.400",
     "Mixed": "23.900",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -560,11 +560,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSh Tsentralny District №2",
     "Rank": "5",
     "Total": "47.300",
-    "5 Balls": "23.800",
+    "Same": "23.800",
     "Mixed": "23.500",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -576,11 +576,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 74 №3",
     "Rank": "14",
     "Total": "47.250",
-    "5 Balls": "24.450",
+    "Same": "24.450",
     "Mixed": "22.800",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -592,11 +592,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "TsSP SSK Lesgaft University №2",
     "Rank": "6",
     "Total": "47.200",
-    "5 Balls": "21.400",
+    "Same": "21.400",
     "Mixed": "25.800",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -608,11 +608,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Tatarstan №3",
     "Rank": "12",
     "Total": "47.100",
-    "5 Balls": "23.000",
+    "Same": "23.000",
     "Mixed": "24.100",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -624,11 +624,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "TsKhG Zhemchuzhina №4",
     "Rank": "7",
     "Total": "47.000",
-    "5 Balls": "24.600",
+    "Same": "24.600",
     "Mixed": "22.400",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -640,11 +640,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Crimea №1",
     "Rank": "1",
     "Total": "46.950",
-    "5 Balls": "23.800",
+    "Same": "23.800",
     "Mixed": "23.150",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -656,11 +656,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Tyumen Oblast №1",
     "Rank": "4",
     "Total": "46.700",
-    "5 Balls": "23.000",
+    "Same": "23.000",
     "Mixed": "23.700",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -672,11 +672,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sverdlovsk Oblast №4",
     "Rank": "5",
     "Total": "46.600",
-    "5 Balls": "22.700",
+    "Same": "22.700",
     "Mixed": "23.900",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -688,11 +688,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MGFSO Taganka №3",
     "Rank": "15",
     "Total": "46.550",
-    "5 Balls": "23.150",
+    "Same": "23.150",
     "Mixed": "23.400",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -704,11 +704,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\"-\"Krylya Sovetov\" №7",
     "Rank": "16",
     "Total": "46.450",
-    "5 Balls": "22.400",
+    "Same": "22.400",
     "Mixed": "24.050",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -720,11 +720,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Samara Oblast №2",
     "Rank": "13",
     "Total": "46.400",
-    "5 Balls": "24.500",
+    "Same": "24.500",
     "Mixed": "21.900",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -736,11 +736,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Kirov Oblast №2",
     "Rank": "14",
     "Total": "46.350",
-    "5 Balls": "23.800",
+    "Same": "23.800",
     "Mixed": "22.550",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -752,11 +752,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Chelyabinsk Oblast",
     "Rank": "6",
     "Total": "46.150",
-    "5 Balls": "24.550",
+    "Same": "24.550",
     "Mixed": "21.600",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -768,11 +768,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sverdlovsk Oblast №3",
     "Rank": "7",
     "Total": "46.100",
-    "5 Balls": "23.000",
+    "Same": "23.000",
     "Mixed": "23.100",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -784,11 +784,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "FKHGM Clubs №1",
     "Rank": "17",
     "Total": "46.100",
-    "5 Balls": "22.600",
+    "Same": "22.600",
     "Mixed": "23.500",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -800,11 +800,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\"-\"Krylya Sovetov\" №3",
     "Rank": "18",
     "Total": "46.100",
-    "5 Balls": "24.600",
+    "Same": "24.600",
     "Mixed": "21.500",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -816,11 +816,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSh Krasnogvardeisky District №1",
     "Rank": "8",
     "Total": "46.100",
-    "5 Balls": "22.400",
+    "Same": "22.400",
     "Mixed": "23.700",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -832,11 +832,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "TsKhG Zhemchuzhina №3",
     "Rank": "9",
     "Total": "46.100",
-    "5 Balls": "24.200",
+    "Same": "24.200",
     "Mixed": "21.900",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -848,11 +848,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Rostov Oblast",
     "Rank": "2",
     "Total": "46.050",
-    "5 Balls": "23.300",
+    "Same": "23.300",
     "Mixed": "22.750",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -864,11 +864,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Rostov Oblast",
     "Rank": "13",
     "Total": "46.050",
-    "5 Balls": "23.300",
+    "Same": "23.300",
     "Mixed": "22.750",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -880,11 +880,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Perm Krai №2",
     "Rank": "15",
     "Total": "46.050",
-    "5 Balls": "23.150",
+    "Same": "23.150",
     "Mixed": "22.900",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -896,11 +896,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Crimea №2",
     "Rank": "3",
     "Total": "46.000",
-    "5 Balls": "22.700",
+    "Same": "22.700",
     "Mixed": "23.300",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -912,11 +912,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SShOR Pushkinsky District №1",
     "Rank": "10",
     "Total": "46.000",
-    "5 Balls": "21.900",
+    "Same": "21.900",
     "Mixed": "24.100",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -928,11 +928,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SShOR Frunzensky District №1",
     "Rank": "11",
     "Total": "45.650",
-    "5 Balls": "23.500",
+    "Same": "23.500",
     "Mixed": "22.150",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -944,11 +944,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "TsFKiS Narvskaya Zastava",
     "Rank": "12",
     "Total": "45.500",
-    "5 Balls": "21.300",
+    "Same": "21.300",
     "Mixed": "24.200",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -960,11 +960,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Bashkortostan №5",
     "Rank": "16",
     "Total": "45.300",
-    "5 Balls": "21.900",
+    "Same": "21.900",
     "Mixed": "23.400",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -976,11 +976,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Mordovia №1",
     "Rank": "17",
     "Total": "45.200",
-    "5 Balls": "21.700",
+    "Same": "21.700",
     "Mixed": "23.500",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -992,11 +992,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSh Tsentralny District №4",
     "Rank": "13",
     "Total": "45.150",
-    "5 Balls": "22.700",
+    "Same": "22.700",
     "Mixed": "22.450",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -1008,11 +1008,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "TsKhG Zhemchuzhina №6",
     "Rank": "14",
     "Total": "45.000",
-    "5 Balls": "22.600",
+    "Same": "22.600",
     "Mixed": "22.400",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -1024,11 +1024,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 25 №3",
     "Rank": "19",
     "Total": "45.000",
-    "5 Balls": "21.600",
+    "Same": "21.600",
     "Mixed": "23.400",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1040,11 +1040,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Tatarstan №6",
     "Rank": "18",
     "Total": "44.950",
-    "5 Balls": "23.500",
+    "Same": "23.500",
     "Mixed": "21.450",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -1056,11 +1056,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSh Tsentralny District №1",
     "Rank": "15",
     "Total": "44.950",
-    "5 Balls": "23.650",
+    "Same": "23.650",
     "Mixed": "21.300",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -1072,11 +1072,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"MGFSO\" №2",
     "Rank": "20",
     "Total": "44.950",
-    "5 Balls": "22.450",
+    "Same": "22.450",
     "Mixed": "22.500",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1088,11 +1088,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Saratov Oblast №2",
     "Rank": "19",
     "Total": "44.800",
-    "5 Balls": "23.500",
+    "Same": "23.500",
     "Mixed": "21.300",
     "Event": "Volga Federal District Championships",
     "Host Fed": "Russia",
@@ -1104,11 +1104,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 74 №7",
     "Rank": "21",
     "Total": "44.800",
-    "5 Balls": "22.200",
+    "Same": "22.200",
     "Mixed": "22.600",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1120,11 +1120,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Karelia",
     "Rank": "1",
     "Total": "44.600",
-    "5 Balls": "24.600",
+    "Same": "24.600",
     "Mixed": "20.000",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1136,11 +1136,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Arkhangelsk Oblast №1",
     "Rank": "2",
     "Total": "44.400",
-    "5 Balls": "23.200",
+    "Same": "23.200",
     "Mixed": "21.200",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1152,11 +1152,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "Sambo-70 MS №1",
     "Rank": "22",
     "Total": "44.150",
-    "5 Balls": "20.250",
+    "Same": "20.250",
     "Mixed": "23.900",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1168,11 +1168,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Kaliningrad Oblast №1",
     "Rank": "3",
     "Total": "44.000",
-    "5 Balls": "21.500",
+    "Same": "21.500",
     "Mixed": "22.500",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1184,11 +1184,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Leningrad Oblast",
     "Rank": "4",
     "Total": "44.000",
-    "5 Balls": "21.550",
+    "Same": "21.550",
     "Mixed": "22.450",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1200,11 +1200,27 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "SVK",
+    "Name": "Slovakia",
+    "Rank": "1",
+    "Total": "44.000",
+    "Same": "24.250",
+    "Mixed": "19.750",
+    "Event": "Grácia Fair Kupa AA",
+    "Host Fed": "Hungary",
+    "Event Type": "International Invitational",
+    "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR Vostok 62 №1",
     "Rank": "23",
     "Total": "43.900",
-    "5 Balls": "20.100",
+    "Same": "20.100",
     "Mixed": "23.800",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1216,11 +1232,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Stavropol Krai №2",
     "Rank": "2",
     "Total": "43.800",
-    "5 Balls": "23.100",
+    "Same": "23.100",
     "Mixed": "20.700",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -1232,11 +1248,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Astrakhan Oblast №1",
     "Rank": "10",
     "Total": "43.700",
-    "5 Balls": "20.900",
+    "Same": "20.900",
     "Mixed": "22.800",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1248,11 +1264,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSh Krasnogvardeisky District №2",
     "Rank": "16",
     "Total": "43.600",
-    "5 Balls": "21.800",
+    "Same": "21.800",
     "Mixed": "21.800",
     "Event": "Saint Petersburg Championships AA",
     "Host Fed": "Russia",
@@ -1264,11 +1280,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Stavropol Krai №3",
     "Rank": "3",
     "Total": "43.600",
-    "5 Balls": "20.900",
+    "Same": "20.900",
     "Mixed": "22.700",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -1280,11 +1296,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sverdlovsk Oblast №5",
     "Rank": "8",
     "Total": "43.500",
-    "5 Balls": "19.800",
+    "Same": "19.800",
     "Mixed": "23.700",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -1296,11 +1312,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSS Novaya Moskva",
     "Rank": "24",
     "Total": "43.250",
-    "5 Balls": "20.250",
+    "Same": "20.250",
     "Mixed": "23.000",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1312,11 +1328,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 86 №1",
     "Rank": "25",
     "Total": "43.100",
-    "5 Balls": "18.300",
+    "Same": "18.300",
     "Mixed": "24.800",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1328,11 +1344,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Rostov Oblast №4",
     "Rank": "5",
     "Total": "43.050",
-    "5 Balls": "23.100",
+    "Same": "23.100",
     "Mixed": "19.950",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1344,11 +1360,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "KhMAO №2",
     "Rank": "9",
     "Total": "42.900",
-    "5 Balls": "22.700",
+    "Same": "22.700",
     "Mixed": "20.200",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -1360,11 +1376,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Volgograd Oblast",
     "Rank": "6",
     "Total": "42.750",
-    "5 Balls": "24.000",
+    "Same": "24.000",
     "Mixed": "18.750",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1376,11 +1392,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Crimea №3",
     "Rank": "7",
     "Total": "42.600",
-    "5 Balls": "21.000",
+    "Same": "21.000",
     "Mixed": "21.600",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1392,11 +1408,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 74 №5",
     "Rank": "26",
     "Total": "42.550",
-    "5 Balls": "23.050",
+    "Same": "23.050",
     "Mixed": "19.500",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1408,11 +1424,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Tyumen Oblast №2",
     "Rank": "10",
     "Total": "42.300",
-    "5 Balls": "22.800",
+    "Same": "22.800",
     "Mixed": "19.500",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -1424,11 +1440,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "North Ossetia №3",
     "Rank": "4",
     "Total": "42.050",
-    "5 Balls": "21.750",
+    "Same": "21.750",
     "Mixed": "20.300",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -1440,11 +1456,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sverdlovsk Oblast №7",
     "Rank": "11",
     "Total": "41.950",
-    "5 Balls": "21.150",
+    "Same": "21.150",
     "Mixed": "20.800",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -1456,11 +1472,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Donetsk №1",
     "Rank": "9",
     "Total": "41.650",
-    "5 Balls": "21.400",
+    "Same": "21.400",
     "Mixed": "20.250",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1472,11 +1488,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Donetsk №1",
     "Rank": "27",
     "Total": "41.650",
-    "5 Balls": "21.400",
+    "Same": "21.400",
     "Mixed": "20.250",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1488,11 +1504,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\"-\"Krylya Sovetov\" №6",
     "Rank": "27",
     "Total": "41.600",
-    "5 Balls": "22.800",
+    "Same": "22.800",
     "Mixed": "18.800",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1504,11 +1520,27 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "AUT",
+    "Name": "Austria",
+    "Rank": "2",
+    "Total": "41.550",
+    "Same": "21.750",
+    "Mixed": "19.800",
+    "Event": "Grácia Fair Kupa AA",
+    "Host Fed": "Hungary",
+    "Event Type": "International Invitational",
+    "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 25 №2",
     "Rank": "28",
     "Total": "41.250",
-    "5 Balls": "18.050",
+    "Same": "18.050",
     "Mixed": "23.200",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1520,11 +1552,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Rostov Oblast №2",
     "Rank": "11",
     "Total": "41.150",
-    "5 Balls": "21.500",
+    "Same": "21.500",
     "Mixed": "19.650",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1536,11 +1568,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Krasnodar Krai",
     "Rank": "12",
     "Total": "41.100",
-    "5 Balls": "22.000",
+    "Same": "22.000",
     "Mixed": "19.100",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1552,11 +1584,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Stavropol Krai №5",
     "Rank": "5",
     "Total": "40.950",
-    "5 Balls": "20.700",
+    "Same": "20.700",
     "Mixed": "20.250",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -1572,11 +1604,11 @@
     "Name": "United States №2",
     "Rank": "2",
     "Total": "40.850",
-    "5 Balls": "20.650",
+    "Same": "20.650",
     "Mixed": "20.200",
     "Event": "USAG Rhythmic Challenge",
     "Host Fed": "United States",
-    "Event Type": "Domestic meet",
+    "Event Type": "Domestic Meet",
     "Date": "Feb 7, 2026",
     "Q": "1",
     "ic": "1",
@@ -1584,11 +1616,11 @@
     "lc": "8"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Chelyabinsk Oblast №4",
     "Rank": "12",
     "Total": "40.800",
-    "5 Balls": "20.700",
+    "Same": "20.700",
     "Mixed": "20.100",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -1600,11 +1632,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Novgorod Oblast №1",
     "Rank": "5",
     "Total": "40.800",
-    "5 Balls": "20.300",
+    "Same": "20.300",
     "Mixed": "20.500",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1616,11 +1648,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Komi №2",
     "Rank": "6",
     "Total": "40.800",
-    "5 Balls": "20.000",
+    "Same": "20.000",
     "Mixed": "20.800",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1632,11 +1664,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Chelyabinsk Oblast №6",
     "Rank": "13",
     "Total": "40.700",
-    "5 Balls": "18.800",
+    "Same": "18.800",
     "Mixed": "21.900",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -1648,11 +1680,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Krasnodor Krai №5",
     "Rank": "14",
     "Total": "40.600",
-    "5 Balls": "20.000",
+    "Same": "20.000",
     "Mixed": "20.600",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1664,11 +1696,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Krasnodor Krai №6",
     "Rank": "15",
     "Total": "40.500",
-    "5 Balls": "20.500",
+    "Same": "20.500",
     "Mixed": "20.000",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1680,11 +1712,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Pskov Oblast Team",
     "Rank": "7",
     "Total": "40.450",
-    "5 Balls": "20.050",
+    "Same": "20.050",
     "Mixed": "20.400",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1696,11 +1728,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Komi №1",
     "Rank": "8",
     "Total": "40.350",
-    "5 Balls": "18.850",
+    "Same": "18.850",
     "Mixed": "21.500",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1712,11 +1744,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Karelia №2",
     "Rank": "9",
     "Total": "40.350",
-    "5 Balls": "19.050",
+    "Same": "19.050",
     "Mixed": "21.300",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -1728,11 +1760,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MGFSO Taganka №4",
     "Rank": "29",
     "Total": "40.300",
-    "5 Balls": "16.700",
+    "Same": "16.700",
     "Mixed": "23.600",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1744,11 +1776,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\" №2",
     "Rank": "30",
     "Total": "40.300",
-    "5 Balls": "22.100",
+    "Same": "22.100",
     "Mixed": "18.200",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1760,11 +1792,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 86 №2",
     "Rank": "31",
     "Total": "40.000",
-    "5 Balls": "20.300",
+    "Same": "20.300",
     "Mixed": "19.700",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1776,11 +1808,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Stavropol Krai №4",
     "Rank": "6",
     "Total": "39.900",
-    "5 Balls": "19.250",
+    "Same": "19.250",
     "Mixed": "20.650",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -1792,11 +1824,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR YUG",
     "Rank": "32",
     "Total": "39.750",
-    "5 Balls": "18.050",
+    "Same": "18.050",
     "Mixed": "21.700",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1808,11 +1840,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Kherson",
     "Rank": "16",
     "Total": "39.650",
-    "5 Balls": "18.150",
+    "Same": "18.150",
     "Mixed": "21.500",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1824,11 +1856,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "North Ossetia №1",
     "Rank": "7",
     "Total": "39.550",
-    "5 Balls": "20.850",
+    "Same": "20.850",
     "Mixed": "18.700",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -1840,11 +1872,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Chelyabinsk Oblast №2",
     "Rank": "14",
     "Total": "39.400",
-    "5 Balls": "19.000",
+    "Same": "19.000",
     "Mixed": "20.400",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -1856,11 +1888,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"Yunost Moskvy\" №3",
     "Rank": "33",
     "Total": "39.050",
-    "5 Balls": "18.850",
+    "Same": "18.850",
     "Mixed": "20.200",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1872,11 +1904,27 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "CAN",
+    "Name": "Canada",
+    "Rank": "1",
+    "Total": "39.050",
+    "Same": "22.500",
+    "Mixed": "16.550",
+    "Event": "Elite Canada Final",
+    "Host Fed": "Canada",
+    "Event Type": "Domestic Meet",
+    "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "8"
+  },
+  {
+    "Fed": "Club (RUS)",
     "Name": "SSHOR \"MGFSO\" №3",
     "Rank": "34",
     "Total": "38.900",
-    "5 Balls": "17.350",
+    "Same": "17.350",
     "Mixed": "21.550",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1888,11 +1936,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "North Ossetia №4",
     "Rank": "8",
     "Total": "38.800",
-    "5 Balls": "18.100",
+    "Same": "18.100",
     "Mixed": "20.700",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -1904,11 +1952,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR ZAPAD",
     "Rank": "35",
     "Total": "38.700",
-    "5 Balls": "19.100",
+    "Same": "19.100",
     "Mixed": "19.600",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -1920,11 +1968,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Chelyabinsk Oblast №1",
     "Rank": "15",
     "Total": "38.500",
-    "5 Balls": "19.300",
+    "Same": "19.300",
     "Mixed": "19.200",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -1936,11 +1984,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Kabardino-Balkarian Republic - Terek",
     "Rank": "9",
     "Total": "38.150",
-    "5 Balls": "21.500",
+    "Same": "21.500",
     "Mixed": "16.650",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -1952,11 +2000,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Krasnodar Krai №7",
     "Rank": "17",
     "Total": "38.050",
-    "5 Balls": "19.200",
+    "Same": "19.200",
     "Mixed": "18.850",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1968,11 +2016,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Krasnodar Krai №3",
     "Rank": "18",
     "Total": "37.800",
-    "5 Balls": "17.600",
+    "Same": "17.600",
     "Mixed": "20.200",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -1984,11 +2032,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Dagestan",
     "Rank": "10",
     "Total": "37.800",
-    "5 Balls": "18.400",
+    "Same": "18.400",
     "Mixed": "19.400",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -2000,11 +2048,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Ingushetia №1",
     "Rank": "11",
     "Total": "37.800",
-    "5 Balls": "22.000",
+    "Same": "22.000",
     "Mixed": "15.800",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -2016,11 +2064,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sevastopol №1",
     "Rank": "19",
     "Total": "37.750",
-    "5 Balls": "18.550",
+    "Same": "18.550",
     "Mixed": "19.200",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2032,11 +2080,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Rostov Oblast №5",
     "Rank": "20",
     "Total": "37.550",
-    "5 Balls": "19.300",
+    "Same": "19.300",
     "Mixed": "18.250",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2048,11 +2096,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Vologda Oblast №1",
     "Rank": "10",
     "Total": "37.500",
-    "5 Balls": "18.500",
+    "Same": "18.500",
     "Mixed": "19.000",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2064,11 +2112,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Rostov Oblast №6",
     "Rank": "21",
     "Total": "37.450",
-    "5 Balls": "16.450",
+    "Same": "16.450",
     "Mixed": "21.000",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2080,11 +2128,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Tyumen Oblast №3",
     "Rank": "16",
     "Total": "37.400",
-    "5 Balls": "20.300",
+    "Same": "20.300",
     "Mixed": "17.100",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -2096,11 +2144,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Tyumen Oblast №4",
     "Rank": "17",
     "Total": "37.300",
-    "5 Balls": "20.600",
+    "Same": "20.600",
     "Mixed": "16.700",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -2112,11 +2160,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Kabardino-Balkarian Republic №1",
     "Rank": "12",
     "Total": "37.250",
-    "5 Balls": "18.600",
+    "Same": "18.600",
     "Mixed": "18.650",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -2128,11 +2176,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Karachay-Cherkess Republic №1",
     "Rank": "13",
     "Total": "37.250",
-    "5 Balls": "15.500",
+    "Same": "15.500",
     "Mixed": "21.750",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -2144,11 +2192,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MGFSO Taganka №5",
     "Rank": "36",
     "Total": "37.200",
-    "5 Balls": "16.900",
+    "Same": "16.900",
     "Mixed": "20.300",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -2160,11 +2208,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Volgograd Oblast №3",
     "Rank": "22",
     "Total": "36.950",
-    "5 Balls": "19.350",
+    "Same": "19.350",
     "Mixed": "17.600",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2176,11 +2224,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "YaNAO",
     "Rank": "18",
     "Total": "36.800",
-    "5 Balls": "18.700",
+    "Same": "18.700",
     "Mixed": "18.100",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -2192,11 +2240,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Kaliningrad Oblast №2",
     "Rank": "11",
     "Total": "36.550",
-    "5 Balls": "17.850",
+    "Same": "17.850",
     "Mixed": "18.700",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2208,11 +2256,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Astrakhan Oblast №3",
     "Rank": "23",
     "Total": "36.200",
-    "5 Balls": "18.650",
+    "Same": "18.650",
     "Mixed": "17.550",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2224,11 +2272,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Volgograd Oblast №2",
     "Rank": "24",
     "Total": "35.900",
-    "5 Balls": "20.500",
+    "Same": "20.500",
     "Mixed": "15.400",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2240,11 +2288,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR Vostok 62 №2",
     "Rank": "37",
     "Total": "35.800",
-    "5 Balls": "14.400",
+    "Same": "14.400",
     "Mixed": "21.400",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -2256,11 +2304,27 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "CAN",
+    "Name": "Canada",
+    "Rank": "1",
+    "Total": "35.500",
+    "Same": "19.850",
+    "Mixed": "15.650",
+    "Event": "Elite Canada D1",
+    "Host Fed": "Canada",
+    "Event Type": "Domestic Meet",
+    "Date": "Feb 20, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "8"
+  },
+  {
+    "Fed": "Regional (RUS)",
     "Name": "Stavropol Krai №7",
     "Rank": "14",
     "Total": "35.300",
-    "5 Balls": "19.700",
+    "Same": "19.700",
     "Mixed": "15.600",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -2272,11 +2336,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Murmansk Oblast №2",
     "Rank": "12",
     "Total": "35.100",
-    "5 Balls": "16.800",
+    "Same": "16.800",
     "Mixed": "18.300",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2288,11 +2352,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "North Ossetia №2",
     "Rank": "15",
     "Total": "34.950",
-    "5 Balls": "16.450",
+    "Same": "16.450",
     "Mixed": "18.500",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -2304,11 +2368,27 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Club (EST)",
+    "Name": "Rebasesabad",
+    "Rank": "3",
+    "Total": "34.950",
+    "Same": "21.300",
+    "Mixed": "13.650",
+    "Event": "Grácia Fair Kupa AA",
+    "Host Fed": "Hungary",
+    "Event Type": "International Invitational",
+    "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "Regional (RUS)",
     "Name": "Chelyabinsk Oblast №5",
     "Rank": "19",
     "Total": "34.850",
-    "5 Balls": "17.450",
+    "Same": "17.450",
     "Mixed": "17.400",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -2320,11 +2400,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Sever\" 74 №8",
     "Rank": "38",
     "Total": "34.250",
-    "5 Balls": "18.250",
+    "Same": "18.250",
     "Mixed": "16.000",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -2336,11 +2416,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Volgograd Oblast №7",
     "Rank": "25",
     "Total": "34.100",
-    "5 Balls": "18.500",
+    "Same": "18.500",
     "Mixed": "15.600",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2352,11 +2432,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "KhMAO №1",
     "Rank": "20",
     "Total": "34.100",
-    "5 Balls": "15.900",
+    "Same": "15.900",
     "Mixed": "18.200",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -2368,11 +2448,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Chelyabinsk Oblast №3",
     "Rank": "21",
     "Total": "33.500",
-    "5 Balls": "16.500",
+    "Same": "16.500",
     "Mixed": "17.000",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -2384,11 +2464,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Luhansk",
     "Rank": "26",
     "Total": "33.400",
-    "5 Balls": "14.000",
+    "Same": "14.000",
     "Mixed": "19.400",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2400,11 +2480,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Leningrad Oblast №2",
     "Rank": "13",
     "Total": "32.900",
-    "5 Balls": "14.400",
+    "Same": "14.400",
     "Mixed": "18.500",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2416,11 +2496,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Volgograd Oblast №5",
     "Rank": "28",
     "Total": "32.650",
-    "5 Balls": "14.800",
+    "Same": "14.800",
     "Mixed": "17.850",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2432,11 +2512,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Volgograd Oblast №4",
     "Rank": "30",
     "Total": "32.500",
-    "5 Balls": "18.200",
+    "Same": "18.200",
     "Mixed": "14.300",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2448,11 +2528,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Leningrad Oblast №3",
     "Rank": "14",
     "Total": "32.450",
-    "5 Balls": "15.950",
+    "Same": "15.950",
     "Mixed": "16.500",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2464,11 +2544,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "KhMAO №3",
     "Rank": "22",
     "Total": "32.200",
-    "5 Balls": "16.400",
+    "Same": "16.400",
     "Mixed": "15.800",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -2480,11 +2560,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Republic of Ingushetia №2",
     "Rank": "16",
     "Total": "31.850",
-    "5 Balls": "14.950",
+    "Same": "14.950",
     "Mixed": "16.900",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -2496,11 +2576,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Kabardino-Balkarian Republic №2",
     "Rank": "17",
     "Total": "31.200",
-    "5 Balls": "14.400",
+    "Same": "14.400",
     "Mixed": "16.800",
     "Event": "North Caucasus Federal District Championships",
     "Host Fed": "Russia",
@@ -2512,11 +2592,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Murmansk Oblast №1",
     "Rank": "15",
     "Total": "30.850",
-    "5 Balls": "12.450",
+    "Same": "12.450",
     "Mixed": "18.400",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2528,11 +2608,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Novgorod Oblast №3",
     "Rank": "16",
     "Total": "30.450",
-    "5 Balls": "17.750",
+    "Same": "17.750",
     "Mixed": "12.700",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2544,11 +2624,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Rostov Oblast №7",
     "Rank": "31",
     "Total": "29.950",
-    "5 Balls": "14.950",
+    "Same": "14.950",
     "Mixed": "15.000",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2560,11 +2640,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Volgograd Oblast №6",
     "Rank": "32",
     "Total": "29.350",
-    "5 Balls": "12.850",
+    "Same": "12.850",
     "Mixed": "16.500",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2576,11 +2656,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Novgorod Oblast №2",
     "Rank": "17",
     "Total": "28.700",
-    "5 Balls": "12.400",
+    "Same": "12.400",
     "Mixed": "16.300",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2592,11 +2672,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Sevastopol №2",
     "Rank": "33",
     "Total": "28.400",
-    "5 Balls": "12.400",
+    "Same": "12.400",
     "Mixed": "16.000",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2608,11 +2688,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Murmansk Oblast №3",
     "Rank": "18",
     "Total": "28.250",
-    "5 Balls": "13.400",
+    "Same": "13.400",
     "Mixed": "14.850",
     "Event": "Northwestern Federal District Championships",
     "Host Fed": "Russia",
@@ -2624,15 +2704,31 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "CYP",
+    "Name": "Cyprus",
+    "Rank": "4",
+    "Total": "27.700",
+    "Same": "9.500",
+    "Mixed": "18.200",
+    "Event": "Grácia Fair Kupa AA",
+    "Host Fed": "Hungary",
+    "Event Type": "International Invitational",
+    "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "Club (USA)",
     "Name": "Pittsburgh Northstars",
     "Rank": "3",
     "Total": "27.000",
-    "5 Balls": "12.300",
+    "Same": "12.300",
     "Mixed": "14.700",
     "Event": "USAG Rhythmic Challenge",
     "Host Fed": "United States",
-    "Event Type": "Domestic meet",
+    "Event Type": "Domestic Meet",
     "Date": "Feb 7, 2026",
     "Q": "1",
     "ic": "1",
@@ -2640,11 +2736,11 @@
     "lc": "8"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Luhansk №1",
     "Rank": "34",
     "Total": "26.500",
-    "5 Balls": "11.900",
+    "Same": "11.900",
     "Mixed": "14.600",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2656,11 +2752,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "KhMAO №4",
     "Rank": "23",
     "Total": "26.200",
-    "5 Balls": "14.200",
+    "Same": "14.200",
     "Mixed": "12.000",
     "Event": "Ural Federal District Championships",
     "Host Fed": "Russia",
@@ -2672,11 +2768,27 @@
     "lc": "9"
   },
   {
-    "Fed": "Club",
+    "Fed": "KGZ",
+    "Name": "Kyrgyzstan",
+    "Rank": "",
+    "Total": "25.800",
+    "Same": "11.050",
+    "Mixed": "14.750",
+    "Event": "International Gymnastics Marathon",
+    "Host Fed": "Georgia",
+    "Event Type": "International Invitational",
+    "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "Club (RUS)",
     "Name": "MKSSHOR \"Vostok\"",
     "Rank": "39",
     "Total": "25.600",
-    "5 Balls": "12.200",
+    "Same": "12.200",
     "Mixed": "13.400",
     "Event": "Moscow Championships AA",
     "Host Fed": "Russia",
@@ -2688,11 +2800,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Luhansk №3",
     "Rank": "35",
     "Total": "25.400",
-    "5 Balls": "13.300",
+    "Same": "13.300",
     "Mixed": "12.100",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2704,11 +2816,11 @@
     "lc": "9"
   },
   {
-    "Fed": "Regional",
+    "Fed": "Regional (RUS)",
     "Name": "Donetsk №2",
     "Rank": "36",
     "Total": "24.800",
-    "5 Balls": "14.700",
+    "Same": "14.700",
     "Mixed": "10.100",
     "Event": "Southern Federal District & FT Sirius Championships",
     "Host Fed": "Russia",
@@ -2718,5 +2830,69 @@
     "ic": "2",
     "rc": "1",
     "lc": "9"
+  },
+  {
+    "Fed": "Club (CAN)",
+    "Name": "Vertigo Senior FIG",
+    "Rank": "2",
+    "Total": "20.350",
+    "Same": "11.400",
+    "Mixed": "8.950",
+    "Event": "Elite Canada D1",
+    "Host Fed": "Canada",
+    "Event Type": "Domestic Meet",
+    "Date": "Feb 20, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "8"
+  },
+  {
+    "Fed": "Club (CAN)",
+    "Name": "Vertigo Senior FIG",
+    "Rank": "2",
+    "Total": "19.800",
+    "Same": "10.800",
+    "Mixed": "9.000",
+    "Event": "Elite Canada Final",
+    "Host Fed": "Canada",
+    "Event Type": "Domestic Meet",
+    "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "8"
+  },
+  {
+    "Fed": "Club (CAN)",
+    "Name": "Grace Rhythmic Gymnastics Senior FIG Group",
+    "Rank": "3",
+    "Total": "15.300",
+    "Same": "9.600",
+    "Mixed": "5.700",
+    "Event": "Elite Canada Final",
+    "Host Fed": "Canada",
+    "Event Type": "Domestic Meet",
+    "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "8"
+  },
+  {
+    "Fed": "Club (CAN)",
+    "Name": "Grace Rhythmic Gymnastics Senior FIG Group",
+    "Rank": "3",
+    "Total": "15.050",
+    "Same": "6.450",
+    "Mixed": "8.600",
+    "Event": "Elite Canada D1",
+    "Host Fed": "Canada",
+    "Event Type": "Domestic Meet",
+    "Date": "Feb 20, 2026",
+    "Q": "1",
+    "ic": "1",
+    "rc": "0",
+    "lc": "8"
   }
 ]

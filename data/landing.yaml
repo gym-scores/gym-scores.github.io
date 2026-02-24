@@ -26,12 +26,16 @@ hero:
 
   title: "gym-scores"
   subtitle: "latest updates (1 Feb 2026): <ul>
-                              <li>NCAA Week 7 (MAG)</li>
-                              <li>Top 12 Match 2 (MAG)</li>
-                              <li>Japanese Video Review (MAG/WAG)</li>
-                              <li>Rochester Classic (WAG)</li>
-                              <li>Wings of Hope (RG)</li>
-                              <li>Russian Federal District Championships (RG)</li>
+                              <li>FIG World Cup — Cottbus (MAG/WAG)</li>
+                              <li>Winter Cup (MAG/WAG)</li>
+                              <li>Russian Federal District Championships (MAG/WAG)</li>
+                              <li>Scottish Championships (MAG/WAG)</li>
+                              <li>2nd Bulgarian Senior Control (RG)</li>
+                              <li>Liga Iberdrola Match 1 (WAG)</li>
+                              <li>Gracia Fair (RG)</li>
+                              <li>Berlin Team Masters (RG)</li>
+                              <li>Elite Canada (RG)</li>
+                              <li>International Gymnastics Marathon (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
