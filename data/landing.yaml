@@ -25,17 +25,12 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest updates (1 Feb 2026): <ul>
-                              <li>FIG World Cup — Cottbus (MAG/WAG)</li>
-                              <li>Winter Cup (MAG/WAG)</li>
-                              <li>Russian Federal District Championships (MAG/WAG)</li>
-                              <li>Scottish Championships (MAG/WAG)</li>
-                              <li>2nd Bulgarian Senior Control (RG)</li>
-                              <li>Liga Iberdrola Match 1 (WAG)</li>
-                              <li>Gracia Fair (RG)</li>
-                              <li>Berlin Team Masters (RG)</li>
-                              <li>Elite Canada (RG)</li>
-                              <li>International Gymnastics Marathon (RG)</li>
+  subtitle: "latest updates (1 Mar 2026): <ul>
+                              <li>NCAA Week 8 (MAG)</li>
+                              <li>Serie A Match 1 (MAG/WAG)</li>
+                              <li>Top 12 Match 3 (MAG)</li>
+                              <li>English Championships (MAG/WAG)</li>
+                              <li>Miss Valentine/Tartu Grand Prix (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
