@@ -361,7 +361,7 @@
   },
   {
     "Fed": "MEX",
-    "Name": "MERELES PENN Noah",
+    "Name": "MERELES-PENN Noah",
     "Rank": "2",
     "D": "",
     "E": "",
@@ -448,6 +448,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "CAN",
+    "Name": "LAHAM James",
+    "Rank": "",
+    "D": "3.2",
+    "E": "8.500",
+    "ND": "",
+    "Bonus": "",
+    "Score": "11.700",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "GBR",
@@ -540,6 +558,24 @@
     "lc": "8"
   },
   {
+    "Fed": "CAN",
+    "Name": "LAHAM James",
+    "Rank": "",
+    "D": "3.2",
+    "E": "8.450",
+    "ND": "",
+    "Bonus": "",
+    "Score": "11.650",
+    "Event": "Iceland Classic EF",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 8, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
+  },
+  {
     "Fed": "GBR",
     "Name": "KERR Logan",
     "Rank": "",
@@ -592,6 +628,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "CAN",
+    "Name": "WOODS Rodrigo",
+    "Rank": "",
+    "D": "3.1",
+    "E": "8.500",
+    "ND": "",
+    "Bonus": "",
+    "Score": "11.600",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "GBR",
@@ -667,7 +721,7 @@
   },
   {
     "Fed": "MEX",
-    "Name": "AHEDO CARVALLO Alonso",
+    "Name": "AHEDO Alonso",
     "Rank": "4",
     "D": "",
     "E": "",
@@ -700,6 +754,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "CAN",
+    "Name": "WOODS Rodrigo",
+    "Rank": "",
+    "D": "3.1",
+    "E": "8.400",
+    "ND": "",
+    "Bonus": "",
+    "Score": "11.500",
+    "Event": "Iceland Classic EF",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 8, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "GBR",
@@ -810,7 +882,7 @@
     "lc": "8"
   },
   {
-    "Fed": "CAN",
+    "Fed": "PLE",
     "Name": "EL SAKKA Yasir",
     "Rank": "10",
     "D": "3.1",
@@ -844,6 +916,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "CAN",
+    "Name": "YABLOCHNIKOV Nicholas",
+    "Rank": "",
+    "D": "2.8",
+    "E": "8.500",
+    "ND": "",
+    "Bonus": "",
+    "Score": "11.300",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "GBR",
@@ -1027,7 +1117,7 @@
   },
   {
     "Fed": "MEX",
-    "Name": "GONZALEZ NORMAN Abraham Marat",
+    "Name": "GONZALEZ Marat",
     "Rank": "6",
     "D": "",
     "E": "",
@@ -1153,7 +1243,7 @@
   },
   {
     "Fed": "CAN",
-    "Name": "YABLOCHINIKOV Nikolai",
+    "Name": "YABLOCHNIKOV Nicholas",
     "Rank": "18",
     "D": "2.5",
     "E": "8.750",
@@ -1189,7 +1279,7 @@
   },
   {
     "Fed": "MEX",
-    "Name": "MONTESINOS RICO Jose Nicolas",
+    "Name": "MONTESINOS Jose",
     "Rank": "8",
     "D": "",
     "E": "",
@@ -1530,6 +1620,24 @@
     "lc": "8"
   },
   {
+    "Fed": "FRO",
+    "Name": "POULSEN Ari",
+    "Rank": "",
+    "D": "1.6",
+    "E": "9.300",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "10.600",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
+  },
+  {
     "Fed": "CAN",
     "Name": "SINGH Sukhbir",
     "Rank": "12",
@@ -1672,6 +1780,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "FRO",
+    "Name": "ARNOLDSON Asi Yan",
+    "Rank": "",
+    "D": "1.7",
+    "E": "9.100",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "10.500",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "MEX",
@@ -1818,6 +1944,24 @@
     "lc": "8"
   },
   {
+    "Fed": "ISL",
+    "Name": "HJALTASON Kari",
+    "Rank": "",
+    "D": "2.6",
+    "E": "7.750",
+    "ND": "",
+    "Bonus": "",
+    "Score": "10.350",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
+  },
+  {
     "Fed": "GBR",
     "Name": "DA SILVA-JENKINS Rio",
     "Rank": "11",
@@ -1872,6 +2016,42 @@
     "lc": "9"
   },
   {
+    "Fed": "ISL",
+    "Name": "BJARNASON David Thor",
+    "Rank": "",
+    "D": "1.8",
+    "E": "8.600",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "10.100",
+    "Event": "Iceland Classic EF",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 8, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
+  },
+  {
+    "Fed": "ISL",
+    "Name": "BJARNASON David Thor",
+    "Rank": "",
+    "D": "1.8",
+    "E": "8.600",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "10.100",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
+  },
+  {
     "Fed": "MEX",
     "Name": "VILLARREAL Leonel",
     "Rank": "14",
@@ -1890,6 +2070,24 @@
     "lc": "9"
   },
   {
+    "Fed": "FRO",
+    "Name": "POULSEN Ari",
+    "Rank": "",
+    "D": "1.7",
+    "E": "8.650",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "10.050",
+    "Event": "Iceland Classic EF",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 8, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
+  },
+  {
     "Fed": "MEX",
     "Name": "BALDERRAMA Jesus",
     "Rank": "15",
@@ -1906,6 +2104,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "9"
+  },
+  {
+    "Fed": "ISL",
+    "Name": "RAGNARSSON Anton Thor",
+    "Rank": "",
+    "D": "1.5",
+    "E": "8.800",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "10.000",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "CAN",
@@ -1942,6 +2158,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "9"
+  },
+  {
+    "Fed": "FRO",
+    "Name": "ARNOLDSON Asi Yan",
+    "Rank": "",
+    "D": "1.7",
+    "E": "8.550",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "9.950",
+    "Event": "Iceland Classic EF",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 8, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "GBR",
@@ -1981,7 +2215,7 @@
   },
   {
     "Fed": "MEX",
-    "Name": "ROBLES CEJA Nicolas",
+    "Name": "ROBLES Nicolas",
     "Rank": "17",
     "D": "",
     "E": "",
@@ -2034,6 +2268,42 @@
     "lc": "8"
   },
   {
+    "Fed": "ISL",
+    "Name": "EIDUKONIS Tadas",
+    "Rank": "",
+    "D": "1.7",
+    "E": "8.350",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "9.750",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
+  },
+  {
+    "Fed": "ISL",
+    "Name": "DAVIDSSON Aron",
+    "Rank": "",
+    "D": "2.0",
+    "E": "7.700",
+    "ND": "",
+    "Bonus": "",
+    "Score": "9.700",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
+  },
+  {
     "Fed": "CAN",
     "Name": "SHMUILOV Ethan",
     "Rank": "31",
@@ -2068,6 +2338,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "9"
+  },
+  {
+    "Fed": "ISL",
+    "Name": "OLAFSSON Thorsteinn Orri",
+    "Rank": "",
+    "D": "2.7",
+    "E": "6.850",
+    "ND": "",
+    "Bonus": "",
+    "Score": "9.550",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "GBR",
@@ -2140,6 +2428,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "CAN",
+    "Name": "NGUYEN Connor",
+    "Rank": "",
+    "D": "2.5",
+    "E": "7.150",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "9.350",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "CAN",
@@ -2248,6 +2554,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "ISL",
+    "Name": "HAUKSSON Arnor",
+    "Rank": "",
+    "D": "2.7",
+    "E": "6.400",
+    "ND": "-0.3",
+    "Bonus": "",
+    "Score": "8.800",
+    "Event": "Iceland Classic AA",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 7, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "GBR",
@@ -2392,6 +2716,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "ISL",
+    "Name": "HJALTASON Kari",
+    "Rank": "",
+    "D": "1.9",
+    "E": "6.300",
+    "ND": "",
+    "Bonus": "",
+    "Score": "8.200",
+    "Event": "Iceland Classic EF",
+    "Organizer": "Iceland",
+    "Event Type": "International Club Invitational",
+    "Date": "Mar 8, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "5"
   },
   {
     "Fed": "CAN",
