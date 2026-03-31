@@ -1,5 +1,21 @@
 [
   {
+    "Fed": "KAZ",
+    "Name": "Kazakhstan",
+    "-": "1",
+    "Total": "43.550",
+    "Apparatus1": "22.100",
+    "Apparatus2": "21.450",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "NOR",
     "Name": "Norway №1",
     "-": "1",
@@ -30,6 +46,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "5"
+  },
+  {
+    "Fed": "MEX",
+    "Name": "Mexico",
+    "-": "2",
+    "Total": "35.350",
+    "Apparatus1": "16.300",
+    "Apparatus2": "19.050",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "KAZ",
@@ -176,6 +208,22 @@
     "lc": "4"
   },
   {
+    "Fed": "Club (GRE)",
+    "Name": "A.S. Evrithmia Drapetsonas",
+    "-": "3",
+    "Total": "34.500",
+    "Apparatus1": "18.150",
+    "Apparatus2": "16.350",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "Club (SVK)",
     "Name": "SK Sog Nitra",
     "-": "",
@@ -224,6 +272,22 @@
     "lc": "4"
   },
   {
+    "Fed": "Club (GRE)",
+    "Name": "GOPF Armonia",
+    "-": "4",
+    "Total": "33.200",
+    "Apparatus1": "17.950",
+    "Apparatus2": "15.250",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "Club (CAN)",
     "Name": "Kalev Estienne RG",
     "-": "1",
@@ -256,6 +320,22 @@
     "lc": "8"
   },
   {
+    "Fed": "Club (GRE)",
+    "Name": "O.G.IR.A - Gymnastics Club of Heraklion Attica",
+    "-": "5",
+    "Total": "31.350",
+    "Apparatus1": "17.450",
+    "Apparatus2": "13.900",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "Club (KGZ)",
     "Name": "Sdushor Olimp",
     "-": "5",
@@ -286,6 +366,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "5"
+  },
+  {
+    "Fed": "Club (EGY)",
+    "Name": "New Giza",
+    "-": "6",
+    "Total": "30.350",
+    "Apparatus1": "14.650",
+    "Apparatus2": "15.700",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "Club (EST)",
@@ -382,6 +478,22 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "Club (GRE)",
+    "Name": "A.S. Ietion Drapetsonas",
+    "-": "7",
+    "Total": "24.000",
+    "Apparatus1": "13.950",
+    "Apparatus2": "10.050",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "Club (EST)",

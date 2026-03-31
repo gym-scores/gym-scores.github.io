@@ -1,5 +1,21 @@
 [
   {
+    "Fed": "KAZ",
+    "Name": "Kazakhstan",
+    "-": "",
+    "Total": "16.30",
+    "Apparatus1D": "8.10",
+    "Apparatus2D": "8.20",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "NOR",
     "Name": "Norway №1",
     "-": "",
@@ -14,6 +30,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "5"
+  },
+  {
+    "Fed": "MEX",
+    "Name": "Mexico",
+    "-": "",
+    "Total": "12.90",
+    "Apparatus1D": "5.90",
+    "Apparatus2D": "7.00",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "KAZ",
@@ -144,6 +176,22 @@
     "lc": "5"
   },
   {
+    "Fed": "Club (GRE)",
+    "Name": "A.S. Evrithmia Drapetsonas",
+    "-": "",
+    "Total": "12.10",
+    "Apparatus1D": "6.20",
+    "Apparatus2D": "5.90",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "Club (FIN)",
     "Name": "Elise Niiskut",
     "-": "",
@@ -208,6 +256,38 @@
     "lc": "8"
   },
   {
+    "Fed": "Club (GRE)",
+    "Name": "GOPF Armonia",
+    "-": "",
+    "Total": "10.90",
+    "Apparatus1D": "6.00",
+    "Apparatus2D": "4.90",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "Club (GRE)",
+    "Name": "O.G.IR.A - Gymnastics Club of Heraklion Attica",
+    "-": "",
+    "Total": "10.80",
+    "Apparatus1D": "6.10",
+    "Apparatus2D": "4.70",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "Club (CAN)",
     "Name": "Kalev Estienne RG",
     "-": "",
@@ -254,6 +334,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "5"
+  },
+  {
+    "Fed": "Club (EGY)",
+    "Name": "New Giza",
+    "-": "",
+    "Total": "9.50",
+    "Apparatus1D": "4.40",
+    "Apparatus2D": "5.10",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "Club (EST)",
@@ -330,6 +426,22 @@
     "Organizer": "Hungary",
     "Event Type": "International Invitational",
     "Date": "Feb 21, 2026",
+    "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "Club (GRE)",
+    "Name": "A.S. Ietion Drapetsonas",
+    "-": "",
+    "Total": "7.20",
+    "Apparatus1D": "4.40",
+    "Apparatus2D": "2.80",
+    "Event": "Aphrodite Cup AA",
+    "Organizer": "Greece",
+    "Event Type": "International Invitational",
+    "Date": "Mar 20, 2026",
     "Q": "1",
     "ic": "0",
     "rc": "0",
