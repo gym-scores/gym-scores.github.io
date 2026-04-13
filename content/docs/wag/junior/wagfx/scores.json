@@ -68,6 +68,23 @@
     "lc": "7"
   },
   {
+    "Fed": "FRA",
+    "Name": "PLISSON Louane",
+    "Rank": "",
+    "D": "5.4",
+    "E": "7.933",
+    "ND": "",
+    "Score": "13.333",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
+  },
+  {
     "Fed": "USA",
     "Name": "SMITH Kylie",
     "Rank": "1",
@@ -134,6 +151,23 @@
     "ic": "1",
     "rc": "0",
     "lc": "9"
+  },
+  {
+    "Fed": "ESP",
+    "Name": "MARTIN Sophia",
+    "Rank": "",
+    "D": "4.9",
+    "E": "8.200",
+    "ND": "",
+    "Score": "13.100",
+    "Event": "Top 12\nSemi-Final 1",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
   },
   {
     "Fed": "RUS",
@@ -457,6 +491,23 @@
     "ic": "2",
     "rc": "1",
     "lc": "7"
+  },
+  {
+    "Fed": "FRA",
+    "Name": "LEGRAND Melayna",
+    "Rank": "",
+    "D": "5.0",
+    "E": "7.833",
+    "ND": "",
+    "Score": "12.833",
+    "Event": "Top 12\nSemi-Final 2",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
   },
   {
     "Fed": "JPN",
@@ -1496,6 +1547,23 @@
     "lc": "4"
   },
   {
+    "Fed": "GBR",
+    "Name": "CANNING Isabella",
+    "Rank": "1",
+    "D": "4.4",
+    "E": "7.967",
+    "ND": "",
+    "Score": "12.367",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "ITA",
     "Name": "TAPIA Michelle",
     "Rank": "9",
@@ -1649,6 +1717,23 @@
     "lc": "4"
   },
   {
+    "Fed": "GBR",
+    "Name": "MERRICK Emelia",
+    "Rank": "2",
+    "D": "4.4",
+    "E": "7.933",
+    "ND": "",
+    "Score": "12.333",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "RUS",
     "Name": "ABRAMOVA Taisiia",
     "Rank": "10",
@@ -1749,6 +1834,40 @@
     "ic": "2",
     "rc": "1",
     "lc": "7"
+  },
+  {
+    "Fed": "FRA",
+    "Name": "MILAN Manon",
+    "Rank": "",
+    "D": "4.6",
+    "E": "7.733",
+    "ND": "",
+    "Score": "12.333",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
+  },
+  {
+    "Fed": "CZE",
+    "Name": "SLEZAKOVA Agata",
+    "Rank": "3",
+    "D": "4.0",
+    "E": "8.300",
+    "ND": "",
+    "Score": "12.300",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "GBR",
@@ -2516,6 +2635,23 @@
     "lc": "4"
   },
   {
+    "Fed": "FRA",
+    "Name": "MARLIAC Lilou",
+    "Rank": "",
+    "D": "4.8",
+    "E": "7.666",
+    "ND": "-0.3",
+    "Score": "12.166",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
+  },
+  {
     "Fed": "RUS",
     "Name": "FESTINATOVA Sofiia",
     "Rank": "",
@@ -2582,6 +2718,23 @@
     "ic": "1",
     "rc": "0",
     "lc": "7"
+  },
+  {
+    "Fed": "GBR",
+    "Name": "CANNING Isabella",
+    "Rank": "1",
+    "D": "4.4",
+    "E": "7.750",
+    "ND": "",
+    "Score": "12.150",
+    "Event": "Luxembourg Open EF",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "USA",
@@ -2686,6 +2839,40 @@
     "lc": "7"
   },
   {
+    "Fed": "LUX",
+    "Name": "MAROCHI Valentina",
+    "Rank": "2",
+    "D": "4.2",
+    "E": "7.900",
+    "ND": "",
+    "Score": "12.100",
+    "Event": "Luxembourg Open EF",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "FRA",
+    "Name": "REEB Camille",
+    "Rank": "",
+    "D": "4.4",
+    "E": "7.700",
+    "ND": "",
+    "Score": "12.100",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
+  },
+  {
     "Fed": "RUS",
     "Name": "BABIKHINA Sofya",
     "Rank": "21",
@@ -2701,6 +2888,23 @@
     "ic": "2",
     "rc": "1",
     "lc": "7"
+  },
+  {
+    "Fed": "FRA",
+    "Name": "ABDELMOUNJI Lamia",
+    "Rank": "",
+    "D": "4.2",
+    "E": "8.000",
+    "ND": "-0.1",
+    "Score": "12.100",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
   },
   {
     "Fed": "CAN",
@@ -2905,6 +3109,23 @@
     "ic": "0",
     "rc": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "BEL",
+    "Name": "CAUFRIEZ Zelia",
+    "Rank": "",
+    "D": "4.3",
+    "E": "7.766",
+    "ND": "",
+    "Score": "12.066",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
   },
   {
     "Fed": "GBR",
@@ -3128,6 +3349,23 @@
     "lc": "4"
   },
   {
+    "Fed": "POR",
+    "Name": "OLIVEIRA Ema",
+    "Rank": "4",
+    "D": "4.3",
+    "E": "7.733",
+    "ND": "",
+    "Score": "12.033",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "ROU",
     "Name": "HOLBAN Bianca",
     "Rank": "19",
@@ -3162,6 +3400,40 @@
     "lc": "8"
   },
   {
+    "Fed": "CZE",
+    "Name": "SLEZAKOVA Agata",
+    "Rank": "3",
+    "D": "4.0",
+    "E": "8.000",
+    "ND": "",
+    "Score": "12.000",
+    "Event": "Luxembourg Open EF",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "LUX",
+    "Name": "MAROCHI Valentina",
+    "Rank": "5",
+    "D": "4.2",
+    "E": "7.800",
+    "ND": "",
+    "Score": "12.000",
+    "Event": "Luxembourg Championships AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "National Championships",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "USA",
     "Name": "Mc CLENDON Jaysha",
     "Rank": "8",
@@ -3191,6 +3463,23 @@
     "Event Type": "International Invitational",
     "Date": "Mar 21, 2026",
     "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "NED",
+    "Name": "DE HAAN Lize",
+    "Rank": "6",
+    "D": "4.4",
+    "E": "7.600",
+    "ND": "",
+    "Score": "12.000",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
     "ic": "0",
     "rc": "0",
     "lc": "4"
@@ -3721,6 +4010,40 @@
     "ic": "1",
     "rc": "0",
     "lc": "7"
+  },
+  {
+    "Fed": "NED",
+    "Name": "WOKKE Danique",
+    "Rank": "7",
+    "D": "4.2",
+    "E": "7.633",
+    "ND": "",
+    "Score": "11.833",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "FRA",
+    "Name": "VERT Jeanne",
+    "Rank": "",
+    "D": "4.3",
+    "E": "7.533",
+    "ND": "",
+    "Score": "11.833",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
   },
   {
     "Fed": "RUS",
@@ -4318,6 +4641,23 @@
     "lc": "8"
   },
   {
+    "Fed": "POR",
+    "Name": "OLIVEIRA Ema",
+    "Rank": "4",
+    "D": "4.4",
+    "E": "7.350",
+    "ND": "",
+    "Score": "11.750",
+    "Event": "Luxembourg Open EF",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "GBR",
     "Name": "RICHARDSON Pippa",
     "Rank": "14",
@@ -4687,6 +5027,23 @@
     "Event Type": "International Invitational",
     "Date": "Mar 28, 2026",
     "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "GBR",
+    "Name": "CARDELLI Elisabetta",
+    "Rank": "8",
+    "D": "4.5",
+    "E": "7.167",
+    "ND": "",
+    "Score": "11.667",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
     "ic": "0",
     "rc": "0",
     "lc": "4"
@@ -5831,6 +6188,40 @@
     "lc": "5"
   },
   {
+    "Fed": "NED",
+    "Name": "WOKKE Danique",
+    "Rank": "6",
+    "D": "4.3",
+    "E": "7.200",
+    "ND": "",
+    "Score": "11.500",
+    "Event": "Luxembourg Open EF",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "GEO",
+    "Name": "KARIAULI Ketevani",
+    "Rank": "5",
+    "D": "4.5",
+    "E": "7.100",
+    "ND": "-0.1",
+    "Score": "11.500",
+    "Event": "Luxembourg Open EF",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "FRA",
     "Name": "VARESANO Cassie",
     "Rank": "",
@@ -5965,6 +6356,23 @@
     "ic": "2",
     "rc": "1",
     "lc": "7"
+  },
+  {
+    "Fed": "FRA",
+    "Name": "CLEMENT Eloane",
+    "Rank": "",
+    "D": "4.8",
+    "E": "7.066",
+    "ND": "-0.4",
+    "Score": "11.466",
+    "Event": "Top 12\nSemi-Final 2",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
   },
   {
     "Fed": "GBR",
@@ -6647,6 +7055,23 @@
     "lc": "4"
   },
   {
+    "Fed": "GEO",
+    "Name": "KARIAULI Ketevani",
+    "Rank": "9",
+    "D": "4.4",
+    "E": "7.133",
+    "ND": "-0.3",
+    "Score": "11.333",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "RUS",
     "Name": "EVSIUKOVA Alina",
     "Rank": "50",
@@ -7225,6 +7650,23 @@
     "lc": "8"
   },
   {
+    "Fed": "FRA",
+    "Name": "ESQUER Ambre",
+    "Rank": "",
+    "D": "4.2",
+    "E": "7.133",
+    "ND": "-0.1",
+    "Score": "11.233",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
+  },
+  {
     "Fed": "ESP",
     "Name": "VALEROS Victoria",
     "Rank": "32",
@@ -7427,6 +7869,23 @@
     "ic": "1",
     "rc": "0",
     "lc": "9"
+  },
+  {
+    "Fed": "FRA",
+    "Name": "CANNENPASSE-RIFFARD Nohe",
+    "Rank": "",
+    "D": "4.7",
+    "E": "6.800",
+    "ND": "-0.3",
+    "Score": "11.200",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
   },
   {
     "Fed": "CAN",
@@ -8415,6 +8874,23 @@
     "lc": "7"
   },
   {
+    "Fed": "NED",
+    "Name": "BONAPARTE Chaneve",
+    "Rank": "10",
+    "D": "4.2",
+    "E": "7.133",
+    "ND": "-0.3",
+    "Score": "11.033",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "ITA",
     "Name": "FORESTIERO Siria",
     "Rank": "36",
@@ -8568,6 +9044,23 @@
     "lc": "8"
   },
   {
+    "Fed": "GBR",
+    "Name": "ASHURST Evie",
+    "Rank": "11",
+    "D": "4.8",
+    "E": "6.800",
+    "ND": "-0.6",
+    "Score": "11.000",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "ROU",
     "Name": "TUDOR Aniela",
     "Rank": "38",
@@ -8580,6 +9073,23 @@
     "Event Type": "International Invitational",
     "Date": "Mar 28, 2026",
     "Q": "1",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
+    "Fed": "GBR",
+    "Name": "PELLOWE Aurelia",
+    "Rank": "12",
+    "D": "4.1",
+    "E": "7.067",
+    "ND": "-0.2",
+    "Score": "10.967",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
     "ic": "0",
     "rc": "0",
     "lc": "4"
@@ -8736,6 +9246,23 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "NED",
+    "Name": "DE HAAN Lize",
+    "Rank": "7",
+    "D": "4.3",
+    "E": "6.650",
+    "ND": "",
+    "Score": "10.950",
+    "Event": "Luxembourg Open EF",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "RUS",
@@ -9299,6 +9826,23 @@
     "lc": "10"
   },
   {
+    "Fed": "GEO",
+    "Name": "PATARIDZE Mariami",
+    "Rank": "13",
+    "D": "3.7",
+    "E": "7.233",
+    "ND": "-0.1",
+    "Score": "10.833",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "RUS",
     "Name": "NITIPINA Vasilisa",
     "Rank": "69",
@@ -9569,6 +10113,23 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "NED",
+    "Name": "TIMMERMANS Jaylie",
+    "Rank": "14",
+    "D": "3.7",
+    "E": "7.067",
+    "ND": "",
+    "Score": "10.767",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "RUS",
@@ -9945,6 +10506,23 @@
     "lc": "7"
   },
   {
+    "Fed": "FRA",
+    "Name": "LADEIRA Tissia",
+    "Rank": "",
+    "D": "3.5",
+    "E": "7.200",
+    "ND": "",
+    "Score": "10.700",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
+  },
+  {
     "Fed": "GBR",
     "Name": "NORLUND Lola",
     "Rank": "18",
@@ -10251,6 +10829,23 @@
     "lc": "7"
   },
   {
+    "Fed": "LUX",
+    "Name": "MONKUNAITE Ausra",
+    "Rank": "15",
+    "D": "3.4",
+    "E": "7.233",
+    "ND": "",
+    "Score": "10.633",
+    "Event": "Luxembourg Championships AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "National Championships",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "FRA",
     "Name": "ESQUER Ambre",
     "Rank": "",
@@ -10489,6 +11084,23 @@
     "lc": "8"
   },
   {
+    "Fed": "GBR",
+    "Name": "MERRICK Emelia",
+    "Rank": "8",
+    "D": "4.5",
+    "E": "6.400",
+    "ND": "-0.3",
+    "Score": "10.600",
+    "Event": "Luxembourg Open EF",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "ESP",
     "Name": "BES Martina",
     "Rank": "40",
@@ -10507,7 +11119,7 @@
   },
   {
     "Fed": "ARG",
-    "Name": "GARCIA BERBE Eugenia",
+    "Name": "GARCIA BERBEL Eugenia",
     "Rank": "41",
     "D": "4.6",
     "E": "6.567",
@@ -11628,6 +12240,23 @@
     "lc": "4"
   },
   {
+    "Fed": "GEO",
+    "Name": "GVALIA Lizi",
+    "Rank": "16",
+    "D": "3.9",
+    "E": "6.467",
+    "ND": "",
+    "Score": "10.367",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "FRA",
     "Name": "MARTIN Izzie [FRA]",
     "Rank": "",
@@ -12036,6 +12665,23 @@
     "lc": "8"
   },
   {
+    "Fed": "HKG",
+    "Name": "LAM Lok Ka",
+    "Rank": "17",
+    "D": "3.6",
+    "E": "6.800",
+    "ND": "-0.1",
+    "Score": "10.300",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "NOR",
     "Name": "ANDERSSON-THO Madeleine",
     "Rank": "5",
@@ -12153,6 +12799,23 @@
     "ic": "0",
     "rc": "0",
     "lc": "5"
+  },
+  {
+    "Fed": "POR",
+    "Name": "TORRES Maria",
+    "Rank": "18",
+    "D": "4.1",
+    "E": "6.167",
+    "ND": "",
+    "Score": "10.267",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "RUS",
@@ -13022,6 +13685,23 @@
     "lc": "9"
   },
   {
+    "Fed": "LUX",
+    "Name": "TRIA Debora",
+    "Rank": "19",
+    "D": "3.3",
+    "E": "7.067",
+    "ND": "-0.3",
+    "Score": "10.067",
+    "Event": "Luxembourg Championships AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "National Championships",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "RUS",
     "Name": "KOTOVA Galina",
     "Rank": "",
@@ -13224,6 +13904,23 @@
     "ic": "1",
     "rc": "0",
     "lc": "7"
+  },
+  {
+    "Fed": "POR",
+    "Name": "CUNHA Carolina",
+    "Rank": "20",
+    "D": "3.0",
+    "E": "7.000",
+    "ND": "",
+    "Score": "10.000",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "GBR",
@@ -13921,6 +14618,23 @@
     "ic": "2",
     "rc": "1",
     "lc": "7"
+  },
+  {
+    "Fed": "LUX",
+    "Name": "OCKO Valerie",
+    "Rank": "",
+    "D": "",
+    "E": "",
+    "ND": "",
+    "Score": "9.733",
+    "Event": "Luxembourg Championships AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "National Championships",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   },
   {
     "Fed": "NOR",
@@ -14790,6 +15504,23 @@
     "lc": "8"
   },
   {
+    "Fed": "FRA",
+    "Name": "GONCALVES Chloe",
+    "Rank": "",
+    "D": "4.1",
+    "E": "5.500",
+    "ND": "-0.3",
+    "Score": "9.300",
+    "Event": "Top 12\nClassification Match",
+    "Organizer": "France",
+    "Event Type": "Club League",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "1",
+    "rc": "0",
+    "lc": "10"
+  },
+  {
     "Fed": "RUS",
     "Name": "ALEKHINA Arina",
     "Rank": "94",
@@ -14910,7 +15641,7 @@
   },
   {
     "Fed": "GEO",
-    "Name": "KARIAULI Ketevan",
+    "Name": "KARIAULI Ketevani",
     "Rank": "46",
     "D": "4.1",
     "E": "5.100",
@@ -15436,6 +16167,23 @@
     "lc": "5"
   },
   {
+    "Fed": "HON",
+    "Name": "VALENTINE Charlize",
+    "Rank": "21",
+    "D": "3.2",
+    "E": "5.433",
+    "ND": "",
+    "Score": "8.633",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
+  },
+  {
     "Fed": "GBR",
     "Name": "LONGHURST Charlotte",
     "Rank": "61",
@@ -15723,5 +16471,22 @@
     "ic": "1",
     "rc": "0",
     "lc": "9"
+  },
+  {
+    "Fed": "HON",
+    "Name": "CRUZ Janice",
+    "Rank": "22",
+    "D": "0.3",
+    "E": "7.967",
+    "ND": "-8.0",
+    "Score": "0.267",
+    "Event": "Luxembourg Open AA",
+    "Organizer": "Luxembourg",
+    "Event Type": "International Invitational",
+    "Date": "Apr 2, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "4"
   }
 ]
