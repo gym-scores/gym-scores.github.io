@@ -25,9 +25,19 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest updates (13 Apr 2026): <ul>
-                              <li>Osijek World Cup (MAG/WAG)</li>
-                              <li>Tashkent World Cup(RG)</li>
+  subtitle: "latest updates (27 Apr 2026): <ul>
+                              <li>All Japan (MAG/WAG)</li>
+                              <li>Serie A Match 3 (MAG/WAG)</li>
+                              <li>South Korean Championships (MAG/WAG)</li>
+                              <li>Bundesliga Match Day 3 & 4 (MAG)</li>
+                              <li>Junior South American Games (MAG/WAG)</li>
+                              <li>Icelandic Championships (MAG/WAG)</li>
+                              <li>Russian Cup (MAG/WAG)</li>
+                              <li>African Championships AA (MAG/WAG)</li>
+                              <li>Ifact Norwegian Cup/TK FIG 1 (MAG/WAG)</li>
+                              <li>Gymsport (MAG/WAG)</li>
+                              <li>Baku World Cup(RG)</li>
+                              <li>Koop Cup (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
