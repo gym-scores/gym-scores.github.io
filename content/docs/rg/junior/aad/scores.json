@@ -1080,6 +1080,24 @@
     "lc": "5"
   },
   {
+    "Fed": "POL",
+    "Name": "LEWINSKA Laura",
+    "Rank": "",
+    "Total": "34.00",
+    "HoopD": "9.5",
+    "BallD": "8.5",
+    "ClubsD": "7.6",
+    "RibbonD": "8.4",
+    "Event": "European Cup QF",
+    "Organizer": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "CAN",
     "Name": "YEVZLIN Lillian",
     "Rank": "",
@@ -2932,6 +2950,24 @@
     "ic": "0",
     "rc": "0",
     "lc": "5"
+  },
+  {
+    "Fed": "MDA",
+    "Name": "CARAMAN Iana",
+    "Rank": "",
+    "Total": "30.10",
+    "HoopD": "7.7",
+    "BallD": "7.0",
+    "ClubsD": "7.7",
+    "RibbonD": "7.7",
+    "Event": "European Cup QF",
+    "Organizer": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "CAN",
@@ -6154,6 +6190,24 @@
     "ic": "0",
     "rc": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "ALB",
+    "Name": "TODHERI Marialena",
+    "Rank": "",
+    "Total": "23.90",
+    "HoopD": "5.8",
+    "BallD": "5.2",
+    "ClubsD": "6.9",
+    "RibbonD": "6.0",
+    "Event": "European Cup QF",
+    "Organizer": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "POL",

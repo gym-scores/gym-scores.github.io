@@ -1,5 +1,21 @@
 [
   {
+    "Fed": "UZB",
+    "Name": "Uzbekistan",
+    "-": "",
+    "Total": "16.60",
+    "Apparatus1D": "7.40",
+    "Apparatus2D": "9.20",
+    "Event": "European Cup",
+    "Organizer": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "KAZ",
     "Name": "Kazakhstan",
     "-": "",

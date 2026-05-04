@@ -16,6 +16,38 @@
     "lc": "2"
   },
   {
+    "Fed": "BUL",
+    "Name": "Bulgaria",
+    "Rank": "",
+    "Total": "55.300",
+    "Same": "27.950",
+    "Mixed": "27.350",
+    "Event": "European Cup\nCross Battle",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "ISR",
+    "Name": "Israel",
+    "Rank": "",
+    "Total": "54.850",
+    "Same": "27.800",
+    "Mixed": "27.050",
+    "Event": "European Cup\nCross Battle",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "ISR",
     "Name": "Israel",
     "Rank": "1",
@@ -128,6 +160,22 @@
     "lc": "2"
   },
   {
+    "Fed": "AIN1",
+    "Name": "Authorized Neutrals (B)",
+    "Rank": "1",
+    "Total": "52.850",
+    "Same": "26.150",
+    "Mixed": "26.700",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "RUS",
     "Name": "Russia",
     "Rank": "2",
@@ -142,6 +190,38 @@
     "ic": "2",
     "rc": "1",
     "lc": "5"
+  },
+  {
+    "Fed": "AIN2",
+    "Name": "Authorized Neutrals (R)",
+    "Rank": "2",
+    "Total": "52.800",
+    "Same": "25.550",
+    "Mixed": "27.250",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "AIN2",
+    "Name": "Authorized Neutrals (R)",
+    "Rank": "",
+    "Total": "52.550",
+    "Same": "25.750",
+    "Mixed": "26.800",
+    "Event": "European Cup\nCross Battle",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 3, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "RUS",
@@ -254,6 +334,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "UKR",
+    "Name": "Ukraine",
+    "Rank": "3",
+    "Total": "50.750",
+    "Same": "24.200",
+    "Mixed": "26.550",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "UZB",
@@ -528,6 +624,22 @@
     "lc": "2"
   },
   {
+    "Fed": "ISR",
+    "Name": "Israel",
+    "Rank": "4",
+    "Total": "47.800",
+    "Same": "26.400",
+    "Mixed": "21.400",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "JPN",
     "Name": "Japan",
     "Rank": "9",
@@ -542,6 +654,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "ITA",
+    "Name": "Italy",
+    "Rank": "5",
+    "Total": "47.400",
+    "Same": "25.650",
+    "Mixed": "21.750",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "GER",
@@ -654,6 +782,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "BUL",
+    "Name": "Bulgaria",
+    "Rank": "6",
+    "Total": "46.250",
+    "Same": "23.500",
+    "Mixed": "22.750",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "HUN",
@@ -784,6 +928,22 @@
     "lc": "2"
   },
   {
+    "Fed": "FIN",
+    "Name": "Finland",
+    "Rank": "7",
+    "Total": "44.250",
+    "Same": "21.950",
+    "Mixed": "22.300",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "ITA",
     "Name": "Italy",
     "Rank": "2",
@@ -814,6 +974,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "AZE",
+    "Name": "Azerbaijan",
+    "Rank": "8",
+    "Total": "43.750",
+    "Same": "21.150",
+    "Mixed": "22.600",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "ESP",
@@ -896,6 +1072,22 @@
     "lc": "2"
   },
   {
+    "Fed": "ROU",
+    "Name": "Romania",
+    "Rank": "9",
+    "Total": "42.800",
+    "Same": "22.600",
+    "Mixed": "20.200",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "FIN",
     "Name": "Finland",
     "Rank": "8",
@@ -958,6 +1150,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "GRE",
+    "Name": "Greece",
+    "Rank": "10",
+    "Total": "42.150",
+    "Same": "22.350",
+    "Mixed": "19.800",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "MEX",
@@ -1038,6 +1246,38 @@
     "ic": "2",
     "rc": "1",
     "lc": "5"
+  },
+  {
+    "Fed": "CYP",
+    "Name": "Cyprus",
+    "Rank": "11",
+    "Total": "41.300",
+    "Same": "22.750",
+    "Mixed": "18.550",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "TUR",
+    "Name": "Türki̇ye",
+    "Rank": "12",
+    "Total": "41.250",
+    "Same": "20.250",
+    "Mixed": "21.000",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "UKR",
@@ -1328,6 +1568,22 @@
     "lc": "4"
   },
   {
+    "Fed": "VEN",
+    "Name": "Venezuela",
+    "Rank": "13",
+    "Total": "38.800",
+    "Same": "20.250",
+    "Mixed": "18.550",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "CAN",
     "Name": "Canada",
     "Rank": "13",
@@ -1550,6 +1806,22 @@
     "ic": "0",
     "rc": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "GEO",
+    "Name": "Georgia",
+    "Rank": "14",
+    "Total": "35.750",
+    "Same": "19.750",
+    "Mixed": "16.000",
+    "Event": "European Cup AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "CAN",

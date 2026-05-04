@@ -2088,6 +2088,24 @@
     "lc": "4"
   },
   {
+    "Fed": "POL",
+    "Name": "LEWINSKA Laura",
+    "Rank": "",
+    "Total": "92.050",
+    "Hoop": "24.400",
+    "Ball": "23.500",
+    "Clubs": "22.150",
+    "Ribbon": "22.000",
+    "Event": "European Cup QF",
+    "Organizer": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "GRE",
     "Name": "KAMINIDOU Valeria",
     "Rank": "13",
@@ -4354,6 +4372,24 @@
     "ic": "1",
     "rc": "0",
     "lc": "8"
+  },
+  {
+    "Fed": "MDA",
+    "Name": "CARAMAN Iana",
+    "Rank": "",
+    "Total": "86.900",
+    "Hoop": "22.150",
+    "Ball": "21.100",
+    "Clubs": "21.950",
+    "Ribbon": "21.700",
+    "Event": "European Cup QF",
+    "Organizer": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "CAN",
@@ -10420,6 +10456,24 @@
     "ic": "0",
     "rc": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "ALB",
+    "Name": "TODHERI Marialena",
+    "Rank": "",
+    "Total": "75.350",
+    "Hoop": "17.700",
+    "Ball": "18.250",
+    "Clubs": "20.700",
+    "Ribbon": "18.700",
+    "Event": "European Cup QF",
+    "Organizer": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "rc": "0",
+    "lc": "3"
   },
   {
     "Fed": "POL",
