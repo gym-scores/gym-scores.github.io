@@ -25,10 +25,19 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest updates (3 May 2026): <ul>
-                              <li>Finnish National Championships (MAG)</li>
-                              <li>European Cup (RG)</li>
-                              <li>Brazilian National Championships (RG)</li>
+  subtitle: "latest updates (11 May 2026): <ul>
+                              <li>Oceania Championships (MAG/WAG)</li>
+                              <li>Varna World Challenge Cup (MAG/WAG)</li>
+                              <li>Troféu Brasil (MAG/WAG)</li>
+                              <li>Colombian Championships (MAG/WAG)</li>
+                              <li>Grand Prix Adama Jaroszewskiego i Janini Horskiej (MAG)</li>
+                              <li>Pre-Olympic Youth Cup (WAG)</li>
+                              <li>Zwinger Pokal (WAG)</li>
+                              <li>Baden-Württemberg State Championships (WAG)</li>
+                              <li>Finnish Championships (WAG)</li>
+                              <li>Gdynia Rhythmic Stars (RG)</li>
+                              <li>Portimão International Tournament (RG)</li>
+                              <li>Ritam Cup (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
