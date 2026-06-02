@@ -1,5 +1,21 @@
 [
   {
+    "Fed": "ESP",
+    "Name": "Spain",
+    "Rank": "1",
+    "Medal": "Gold",
+    "Total": "57.650",
+    "Same": "28.850",
+    "Mixed": "28.800",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "CHN",
     "Name": "People's Republic of China",
     "Rank": "1",
@@ -23,7 +39,7 @@
     "Total": "55.300",
     "Same": "27.950",
     "Mixed": "27.350",
-    "Event": "European Cup\nCross Battle",
+    "Event": "European Cup Baku\nCross Battle",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 3, 2026",
@@ -39,7 +55,7 @@
     "Total": "54.850",
     "Same": "27.800",
     "Mixed": "27.050",
-    "Event": "European Cup\nCross Battle",
+    "Event": "European Cup Baku\nCross Battle",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 3, 2026",
@@ -125,10 +141,10 @@
     "Date": "May 25, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
-    "Fed": "PRC",
+    "Fed": "CHN",
     "Name": "People’s Republic of China",
     "Rank": "2",
     "Medal": "Silver",
@@ -141,7 +157,7 @@
     "Date": "May 25, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "ESP",
@@ -172,6 +188,38 @@
     "Event Type": "FIG World Cup",
     "Date": "Mar 28, 2026",
     "Q": "1",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "RUS",
+    "Name": "Russian Federation",
+    "Rank": "2",
+    "Medal": "Silver",
+    "Total": "53.450",
+    "Same": "26.950",
+    "Mixed": "26.500",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "ISR",
+    "Name": "Israel",
+    "Rank": "3",
+    "Medal": "Bronze",
+    "Total": "53.350",
+    "Same": "26.700",
+    "Mixed": "26.650",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
     "ic": "0",
     "lc": "2"
   },
@@ -215,29 +263,13 @@
     "Total": "52.850",
     "Same": "26.150",
     "Mixed": "26.700",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
     "Q": "2",
     "ic": "0",
     "lc": "3"
-  },
-  {
-    "Fed": "RUS",
-    "Name": "Russia",
-    "Rank": "2",
-    "Medal": "Silver",
-    "Total": "52.850",
-    "Same": "26.700",
-    "Mixed": "26.150",
-    "Event": "Champions Cup of Alina Kabaeva AA",
-    "Host Fed": "Russia",
-    "Event Type": "International Invitational",
-    "Date": "Mar 14, 2026",
-    "Q": "1",
-    "ic": "0",
-    "lc": "5"
   },
   {
     "Fed": "KAZ",
@@ -253,7 +285,23 @@
     "Date": "May 25, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
+  },
+  {
+    "Fed": "RUS",
+    "Name": "Russian Federation",
+    "Rank": "2",
+    "Medal": "Silver",
+    "Total": "52.850",
+    "Same": "26.700",
+    "Mixed": "26.150",
+    "Event": "Champions Cup of Alina Kabaeva AA",
+    "Host Fed": "Russia",
+    "Event Type": "International Invitational",
+    "Date": "Mar 14, 2026",
+    "Q": "1",
+    "ic": "0",
+    "lc": "5"
   },
   {
     "Fed": "AIN2",
@@ -263,7 +311,7 @@
     "Total": "52.800",
     "Same": "25.550",
     "Mixed": "27.250",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -279,7 +327,7 @@
     "Total": "52.550",
     "Same": "25.750",
     "Mixed": "26.800",
-    "Event": "European Cup\nCross Battle",
+    "Event": "European Cup Baku\nCross Battle",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 3, 2026",
@@ -397,7 +445,7 @@
     "Date": "May 23, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "KOR",
@@ -413,7 +461,7 @@
     "Date": "May 25, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "UZB",
@@ -439,7 +487,7 @@
     "Total": "50.750",
     "Same": "24.200",
     "Mixed": "26.550",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -475,6 +523,38 @@
     "Host Fed": "FIG",
     "Event Type": "FIG World Cup",
     "Date": "Apr 10, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "BLR",
+    "Name": "Belarus",
+    "Rank": "4",
+    "Medal": "",
+    "Total": "50.550",
+    "Same": "27.450",
+    "Mixed": "23.100",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "GER",
+    "Name": "Germany",
+    "Rank": "5",
+    "Medal": "",
+    "Total": "50.350",
+    "Same": "24.200",
+    "Mixed": "26.150",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
     "Q": "2",
     "ic": "0",
     "lc": "2"
@@ -525,7 +605,7 @@
     "Date": "May 23, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "ISR",
@@ -542,6 +622,38 @@
     "Q": "2",
     "ic": "0",
     "lc": "3"
+  },
+  {
+    "Fed": "BUL",
+    "Name": "Bulgaria",
+    "Rank": "6",
+    "Medal": "",
+    "Total": "49.750",
+    "Same": "26.650",
+    "Mixed": "23.100",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "UKR",
+    "Name": "Ukraine",
+    "Rank": "7",
+    "Medal": "",
+    "Total": "49.600",
+    "Same": "23.400",
+    "Mixed": "26.200",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "ESP",
@@ -704,22 +816,6 @@
     "lc": "2"
   },
   {
-    "Fed": "UKR",
-    "Name": "Ukraine",
-    "Rank": "7",
-    "Medal": "",
-    "Total": "48.550",
-    "Same": "25.900",
-    "Mixed": "22.650",
-    "Event": "FIG Sofia\nWorld Cup AA",
-    "Host Fed": "FIG",
-    "Event Type": "FIG World Cup",
-    "Date": "Mar 28, 2026",
-    "Q": "1",
-    "ic": "0",
-    "lc": "2"
-  },
-  {
     "Fed": "BUL",
     "Name": "Bulgaria",
     "Rank": "8",
@@ -732,6 +828,22 @@
     "Event Type": "FIG World Cup",
     "Date": "Apr 17, 2026",
     "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "UKR",
+    "Name": "Ukraine",
+    "Rank": "7",
+    "Medal": "",
+    "Total": "48.550",
+    "Same": "25.900",
+    "Mixed": "22.650",
+    "Event": "FIG Sofia\nWorld Cup AA",
+    "Host Fed": "FIG",
+    "Event Type": "FIG World Cup",
+    "Date": "Mar 28, 2026",
+    "Q": "1",
     "ic": "0",
     "lc": "2"
   },
@@ -765,7 +877,7 @@
     "Date": "May 25, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "JPN",
@@ -800,6 +912,38 @@
     "lc": "2"
   },
   {
+    "Fed": "HUN",
+    "Name": "Hungary",
+    "Rank": "8",
+    "Medal": "",
+    "Total": "48.250",
+    "Same": "25.550",
+    "Mixed": "22.700",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "FRA",
+    "Name": "France",
+    "Rank": "9",
+    "Medal": "",
+    "Total": "48.250",
+    "Same": "25.400",
+    "Mixed": "22.850",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "AIN1",
     "Name": "Authorized Neutrals (B)",
     "Rank": "8",
@@ -812,6 +956,22 @@
     "Event Type": "FIG World Cup",
     "Date": "Mar 28, 2026",
     "Q": "1",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "POL",
+    "Name": "Poland",
+    "Rank": "10",
+    "Medal": "",
+    "Total": "47.950",
+    "Same": "25.200",
+    "Mixed": "22.750",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
     "ic": "0",
     "lc": "2"
   },
@@ -829,7 +989,7 @@
     "Date": "May 23, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "ITA",
@@ -855,7 +1015,7 @@
     "Total": "47.800",
     "Same": "26.400",
     "Mixed": "21.400",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -909,7 +1069,7 @@
     "Date": "May 23, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "ITA",
@@ -919,7 +1079,7 @@
     "Total": "47.400",
     "Same": "25.650",
     "Mixed": "21.750",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -989,7 +1149,23 @@
     "Date": "May 23, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
+  },
+  {
+    "Fed": "AZE",
+    "Name": "Azerbaijan",
+    "Rank": "11",
+    "Medal": "",
+    "Total": "46.650",
+    "Same": "24.100",
+    "Mixed": "22.550",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "FRA",
@@ -1040,6 +1216,38 @@
     "lc": "4"
   },
   {
+    "Fed": "ROU",
+    "Name": "Romania",
+    "Rank": "12",
+    "Medal": "",
+    "Total": "46.250",
+    "Same": "23.250",
+    "Mixed": "23.000",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "BUL",
+    "Name": "Bulgaria",
+    "Rank": "6",
+    "Medal": "",
+    "Total": "46.250",
+    "Same": "23.500",
+    "Mixed": "22.750",
+    "Event": "European Cup Baku AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "European Cup Series",
+    "Date": "May 1, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "KAZ",
     "Name": "Kazakhstan",
     "Rank": "3",
@@ -1056,22 +1264,6 @@
     "lc": "4"
   },
   {
-    "Fed": "BUL",
-    "Name": "Bulgaria",
-    "Rank": "6",
-    "Medal": "",
-    "Total": "46.250",
-    "Same": "23.500",
-    "Mixed": "22.750",
-    "Event": "European Cup AA",
-    "Host Fed": "European Gymnastics",
-    "Event Type": "European Cup Series",
-    "Date": "May 1, 2026",
-    "Q": "2",
-    "ic": "0",
-    "lc": "3"
-  },
-  {
     "Fed": "HUN",
     "Name": "Hungary",
     "Rank": "4",
@@ -1079,22 +1271,6 @@
     "Total": "45.900",
     "Same": "22.050",
     "Mixed": "23.850",
-    "Event": "Internationaux de Thiais Grand Prix AA",
-    "Host Fed": "FIG",
-    "Event Type": "FIG Grand Prix",
-    "Date": "Apr 4, 2026",
-    "Q": "2",
-    "ic": "0",
-    "lc": "4"
-  },
-  {
-    "Fed": "USA",
-    "Name": "United States of America",
-    "Rank": "5",
-    "Medal": "",
-    "Total": "45.800",
-    "Same": "22.850",
-    "Mixed": "22.950",
     "Event": "Internationaux de Thiais Grand Prix AA",
     "Host Fed": "FIG",
     "Event Type": "FIG Grand Prix",
@@ -1118,6 +1294,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "3"
+  },
+  {
+    "Fed": "USA",
+    "Name": "United States of America",
+    "Rank": "5",
+    "Medal": "",
+    "Total": "45.800",
+    "Same": "22.850",
+    "Mixed": "22.950",
+    "Event": "Internationaux de Thiais Grand Prix AA",
+    "Host Fed": "FIG",
+    "Event Type": "FIG Grand Prix",
+    "Date": "Apr 4, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "4"
   },
   {
     "Fed": "KAZ",
@@ -1168,6 +1360,22 @@
     "lc": "3"
   },
   {
+    "Fed": "ITA",
+    "Name": "Italy",
+    "Rank": "13",
+    "Medal": "",
+    "Total": "44.800",
+    "Same": "20.100",
+    "Mixed": "24.700",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "AZE",
     "Name": "Azerbaijan",
     "Rank": "2",
@@ -1211,6 +1419,22 @@
     "Host Fed": "FIG",
     "Event Type": "FIG World Cup",
     "Date": "Apr 10, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "SVK",
+    "Name": "Slovakia",
+    "Rank": "14",
+    "Medal": "",
+    "Total": "44.500",
+    "Same": "24.350",
+    "Mixed": "20.150",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
     "Q": "2",
     "ic": "0",
     "lc": "2"
@@ -1271,7 +1495,7 @@
     "Total": "44.250",
     "Same": "21.950",
     "Mixed": "22.300",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -1294,6 +1518,22 @@
     "Q": "1",
     "ic": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "FIN",
+    "Name": "Finland",
+    "Rank": "15",
+    "Medal": "",
+    "Total": "44.000",
+    "Same": "20.000",
+    "Mixed": "24.000",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "SVK",
@@ -1319,7 +1559,7 @@
     "Total": "43.750",
     "Same": "21.150",
     "Mixed": "22.600",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -1408,6 +1648,22 @@
     "lc": "4"
   },
   {
+    "Fed": "POR",
+    "Name": "Portugal",
+    "Rank": "16",
+    "Medal": "",
+    "Total": "43.200",
+    "Same": "21.750",
+    "Mixed": "21.450",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "GEO",
     "Name": "Georgia",
     "Rank": "",
@@ -1422,6 +1678,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "CYP",
+    "Name": "Cyprus",
+    "Rank": "17",
+    "Medal": "",
+    "Total": "43.050",
+    "Same": "20.250",
+    "Mixed": "22.800",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "ROU",
@@ -1479,13 +1751,29 @@
     "Total": "42.800",
     "Same": "22.600",
     "Mixed": "20.200",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
     "Q": "2",
     "ic": "0",
     "lc": "3"
+  },
+  {
+    "Fed": "GRE",
+    "Name": "Greece",
+    "Rank": "18",
+    "Medal": "",
+    "Total": "42.750",
+    "Same": "21.600",
+    "Mixed": "21.150",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "FIN",
@@ -1518,6 +1806,22 @@
     "Q": "1",
     "ic": "0",
     "lc": "5"
+  },
+  {
+    "Fed": "TUR",
+    "Name": "Türki̇ye",
+    "Rank": "19",
+    "Medal": "",
+    "Total": "42.600",
+    "Same": "21.350",
+    "Mixed": "21.250",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "LTU",
@@ -1591,7 +1895,7 @@
     "Total": "42.150",
     "Same": "22.350",
     "Mixed": "19.800",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -1680,6 +1984,22 @@
     "lc": "4"
   },
   {
+    "Fed": "CZE",
+    "Name": "Czechia",
+    "Rank": "20",
+    "Medal": "",
+    "Total": "41.400",
+    "Same": "22.750",
+    "Mixed": "18.650",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "KGZ",
     "Name": "Kyrgyzstan",
     "Rank": "7",
@@ -1703,7 +2023,7 @@
     "Total": "41.300",
     "Same": "22.750",
     "Mixed": "18.550",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -1719,7 +2039,7 @@
     "Total": "41.250",
     "Same": "20.250",
     "Mixed": "21.000",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -1739,6 +2059,22 @@
     "Host Fed": "FIG",
     "Event Type": "FIG World Cup",
     "Date": "Apr 17, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "GBR",
+    "Name": "Great Britain",
+    "Rank": "21",
+    "Medal": "",
+    "Total": "41.150",
+    "Same": "19.900",
+    "Mixed": "21.250",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
     "Q": "2",
     "ic": "0",
     "lc": "2"
@@ -1837,7 +2173,7 @@
     "Date": "May 23, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "JPN",
@@ -1856,6 +2192,22 @@
     "lc": "5"
   },
   {
+    "Fed": "TPE",
+    "Name": "Chinese Taipei",
+    "Rank": "6",
+    "Medal": "",
+    "Total": "40.450",
+    "Same": "21.000",
+    "Mixed": "19.450",
+    "Event": "Asian Championships AA",
+    "Host Fed": "Asian Gymnastics Union",
+    "Event Type": "Continental Championships",
+    "Date": "May 25, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "AUT",
     "Name": "Austria",
     "Rank": "15",
@@ -1870,22 +2222,6 @@
     "Q": "1",
     "ic": "0",
     "lc": "2"
-  },
-  {
-    "Fed": "TPE",
-    "Name": "Chinese Taipei",
-    "Rank": "6",
-    "Medal": "",
-    "Total": "40.450",
-    "Same": "21.000",
-    "Mixed": "19.450",
-    "Event": "Asian Championships AA",
-    "Host Fed": "Asian Gymnastics Union",
-    "Event Type": "Continental Championships",
-    "Date": "May 25, 2026",
-    "Q": "2",
-    "ic": "0",
-    "lc": ""
   },
   {
     "Fed": "POR",
@@ -1936,6 +2272,22 @@
     "lc": "2"
   },
   {
+    "Fed": "MAS",
+    "Name": "Malaysia",
+    "Rank": "7",
+    "Medal": "",
+    "Total": "40.000",
+    "Same": "21.600",
+    "Mixed": "18.400",
+    "Event": "Asian Championships QF",
+    "Host Fed": "Asian Gymnastics Union",
+    "Event Type": "Continental Championships",
+    "Date": "May 23, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "GRE",
     "Name": "Greece",
     "Rank": "14",
@@ -1950,22 +2302,6 @@
     "Q": "2",
     "ic": "0",
     "lc": "2"
-  },
-  {
-    "Fed": "MAS",
-    "Name": "Malaysia",
-    "Rank": "7",
-    "Medal": "",
-    "Total": "40.000",
-    "Same": "21.600",
-    "Mixed": "18.400",
-    "Event": "Asian Championships QF",
-    "Host Fed": "Asian Gymnastics Union",
-    "Event Type": "Continental Championships",
-    "Date": "May 23, 2026",
-    "Q": "2",
-    "ic": "0",
-    "lc": ""
   },
   {
     "Fed": "LTU",
@@ -2032,6 +2368,22 @@
     "lc": "4"
   },
   {
+    "Fed": "LTU",
+    "Name": "Lithuania",
+    "Rank": "22",
+    "Medal": "",
+    "Total": "39.300",
+    "Same": "20.400",
+    "Mixed": "18.900",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "ITA",
     "Name": "Italy",
     "Rank": "12",
@@ -2062,6 +2414,22 @@
     "Q": "1",
     "ic": "1",
     "lc": "8"
+  },
+  {
+    "Fed": "AUT",
+    "Name": "Austria",
+    "Rank": "23",
+    "Medal": "",
+    "Total": "38.950",
+    "Same": "20.400",
+    "Mixed": "18.550",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "TUR",
@@ -2103,7 +2471,7 @@
     "Total": "38.800",
     "Same": "20.250",
     "Mixed": "18.550",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
@@ -2192,6 +2560,22 @@
     "lc": "4"
   },
   {
+    "Fed": "NOR",
+    "Name": "Norway",
+    "Rank": "24",
+    "Medal": "",
+    "Total": "38.250",
+    "Same": "17.700",
+    "Mixed": "20.550",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "KGZ",
     "Name": "Kyrgyzstan",
     "Rank": "8",
@@ -2205,7 +2589,7 @@
     "Date": "May 23, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "CZE",
@@ -2224,6 +2608,22 @@
     "lc": "4"
   },
   {
+    "Fed": "THA",
+    "Name": "Thailand",
+    "Rank": "9",
+    "Medal": "",
+    "Total": "37.400",
+    "Same": "19.950",
+    "Mixed": "17.450",
+    "Event": "Asian Championships QF",
+    "Host Fed": "Asian Gymnastics Union",
+    "Event Type": "Continental Championships",
+    "Date": "May 23, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "GBR",
     "Name": "Great Britain",
     "Rank": "5",
@@ -2238,22 +2638,6 @@
     "Q": "1",
     "ic": "0",
     "lc": "4"
-  },
-  {
-    "Fed": "THA",
-    "Name": "Thailand",
-    "Rank": "9",
-    "Medal": "",
-    "Total": "37.400",
-    "Same": "19.950",
-    "Mixed": "17.450",
-    "Event": "Asian Championships QF",
-    "Host Fed": "Asian Gymnastics Union",
-    "Event Type": "Continental Championships",
-    "Date": "May 23, 2026",
-    "Q": "2",
-    "ic": "0",
-    "lc": ""
   },
   {
     "Fed": "TUR",
@@ -2285,7 +2669,39 @@
     "Date": "May 25, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
+  },
+  {
+    "Fed": "GEO",
+    "Name": "Georgia",
+    "Rank": "25",
+    "Medal": "",
+    "Total": "37.000",
+    "Same": "18.250",
+    "Mixed": "18.750",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "SLO",
+    "Name": "Slovenia",
+    "Rank": "26",
+    "Medal": "",
+    "Total": "36.750",
+    "Same": "17.600",
+    "Mixed": "19.150",
+    "Event": "European Championships AA",
+    "Host Fed": "European Gymnastics",
+    "Event Type": "Continental Championships",
+    "Date": "May 29, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "VEN",
@@ -2391,13 +2807,29 @@
     "Total": "35.750",
     "Same": "19.750",
     "Mixed": "16.000",
-    "Event": "European Cup AA",
+    "Event": "European Cup Baku AA",
     "Host Fed": "European Gymnastics",
     "Event Type": "European Cup Series",
     "Date": "May 1, 2026",
     "Q": "2",
     "ic": "0",
     "lc": "3"
+  },
+  {
+    "Fed": "KGZ",
+    "Name": "Kyrgyzstan",
+    "Rank": "8",
+    "Medal": "",
+    "Total": "35.500",
+    "Same": "18.350",
+    "Mixed": "17.150",
+    "Event": "Asian Championships AA",
+    "Host Fed": "Asian Gymnastics Union",
+    "Event Type": "Continental Championships",
+    "Date": "May 25, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "CAN",
@@ -2414,22 +2846,6 @@
     "Q": "1",
     "ic": "1",
     "lc": "8"
-  },
-  {
-    "Fed": "KGZ",
-    "Name": "Kyrgyzstan",
-    "Rank": "8",
-    "Medal": "",
-    "Total": "35.500",
-    "Same": "18.350",
-    "Mixed": "17.150",
-    "Event": "Asian Championships AA",
-    "Host Fed": "Asian Gymnastics Union",
-    "Event Type": "Continental Championships",
-    "Date": "May 25, 2026",
-    "Q": "2",
-    "ic": "0",
-    "lc": ""
   },
   {
     "Fed": "AUS",
@@ -2525,7 +2941,7 @@
     "Date": "May 23, 2026",
     "Q": "2",
     "ic": "0",
-    "lc": ""
+    "lc": "2"
   },
   {
     "Fed": "DEN",
