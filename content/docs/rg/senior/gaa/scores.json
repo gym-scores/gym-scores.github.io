@@ -16,6 +16,22 @@
     "lc": "2"
   },
   {
+    "Fed": "BRA",
+    "Name": "Brazil",
+    "Rank": "1",
+    "Medal": "Gold",
+    "Total": "57.450",
+    "Same": "28.850",
+    "Mixed": "28.600",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "CHN",
     "Name": "People's Republic of China",
     "Rank": "1",
@@ -81,7 +97,7 @@
   },
   {
     "Fed": "AIN2",
-    "Name": "Authorized Neutrals (R)",
+    "Name": "Authorized Neutrals (Russia)",
     "Rank": "1",
     "Medal": "Gold",
     "Total": "54.250",
@@ -241,7 +257,7 @@
   },
   {
     "Fed": "AIN2",
-    "Name": "Authorized Neutrals (R)",
+    "Name": "Authorized Neutrals (Russia)",
     "Rank": "3",
     "Medal": "Bronze",
     "Total": "52.900",
@@ -257,7 +273,7 @@
   },
   {
     "Fed": "AIN1",
-    "Name": "Authorized Neutrals (B)",
+    "Name": "Authorized Neutrals (Belarus)",
     "Rank": "1",
     "Medal": "Gold",
     "Total": "52.850",
@@ -305,7 +321,7 @@
   },
   {
     "Fed": "AIN2",
-    "Name": "Authorized Neutrals (R)",
+    "Name": "Authorized Neutrals (Russia)",
     "Rank": "2",
     "Medal": "Silver",
     "Total": "52.800",
@@ -321,7 +337,7 @@
   },
   {
     "Fed": "AIN2",
-    "Name": "Authorized Neutrals (R)",
+    "Name": "Authorized Neutrals (Russia)",
     "Rank": "",
     "Medal": "",
     "Total": "52.550",
@@ -417,7 +433,7 @@
   },
   {
     "Fed": "AIN1",
-    "Name": "Authorized Neutrals (B)",
+    "Name": "Authorized Neutrals (Belarus)",
     "Rank": "3",
     "Medal": "Bronze",
     "Total": "51.100",
@@ -656,6 +672,22 @@
     "lc": "2"
   },
   {
+    "Fed": "USA",
+    "Name": "United States of America",
+    "Rank": "2",
+    "Medal": "Silver",
+    "Total": "49.350",
+    "Same": "23.950",
+    "Mixed": "25.400",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "ESP",
     "Name": "Spain",
     "Rank": "1",
@@ -673,7 +705,7 @@
   },
   {
     "Fed": "AIN2",
-    "Name": "Authorized Neutrals (R)",
+    "Name": "Authorized Neutrals (Russia)",
     "Rank": "5",
     "Medal": "",
     "Total": "49.150",
@@ -944,8 +976,24 @@
     "lc": "2"
   },
   {
+    "Fed": "MEX",
+    "Name": "Mexico",
+    "Rank": "3",
+    "Medal": "Bronze",
+    "Total": "48.250",
+    "Same": "24.300",
+    "Mixed": "23.950",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "AIN1",
-    "Name": "Authorized Neutrals (B)",
+    "Name": "Authorized Neutrals (Belarus)",
     "Rank": "8",
     "Medal": "",
     "Total": "48.200",
@@ -1040,6 +1088,22 @@
     "lc": "2"
   },
   {
+    "Fed": "CAN",
+    "Name": "Canada",
+    "Rank": "4",
+    "Medal": "",
+    "Total": "47.650",
+    "Same": "24.050",
+    "Mixed": "23.600",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "ROU",
     "Name": "Romania",
     "Rank": "1",
@@ -1105,7 +1169,7 @@
   },
   {
     "Fed": "AIN1",
-    "Name": "Authorized Neutrals (B)",
+    "Name": "Authorized Neutrals (Belarus)",
     "Rank": "10",
     "Medal": "",
     "Total": "46.950",
@@ -1696,6 +1760,22 @@
     "lc": "2"
   },
   {
+    "Fed": "EGY",
+    "Name": "Egypt",
+    "Rank": "1",
+    "Medal": "Gold",
+    "Total": "43.050",
+    "Same": "22.700",
+    "Mixed": "20.350",
+    "Event": "African Championships",
+    "Host Fed": "Union Africaine de Gymnastique",
+    "Event Type": "Continental Championships",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "ROU",
     "Name": "Romania",
     "Rank": "12",
@@ -1739,6 +1819,22 @@
     "Host Fed": "FIG",
     "Event Type": "FIG World Cup",
     "Date": "Apr 17, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "CHI",
+    "Name": "Chile",
+    "Rank": "5",
+    "Medal": "",
+    "Total": "42.850",
+    "Same": "20.850",
+    "Mixed": "22.000",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
     "Q": "2",
     "ic": "0",
     "lc": "2"
@@ -2064,6 +2160,22 @@
     "lc": "2"
   },
   {
+    "Fed": "VEN",
+    "Name": "Venezuela",
+    "Rank": "6",
+    "Medal": "",
+    "Total": "41.150",
+    "Same": "20.900",
+    "Mixed": "20.250",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "GBR",
     "Name": "Great Britain",
     "Rank": "21",
@@ -2256,6 +2368,22 @@
     "lc": "4"
   },
   {
+    "Fed": "AUS",
+    "Name": "Australia",
+    "Rank": "",
+    "Medal": "",
+    "Total": "40.100",
+    "Same": "20.000",
+    "Mixed": "20.100",
+    "Event": "Oceania Championships",
+    "Host Fed": "Oceania Gymnastics Union",
+    "Event Type": "Continental Championships",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "SVK",
     "Name": "Slovakia",
     "Rank": "16",
@@ -2332,6 +2460,22 @@
     "Event Type": "FIG World Cup",
     "Date": "Mar 28, 2026",
     "Q": "1",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "COL",
+    "Name": "Colombia",
+    "Rank": "7",
+    "Medal": "",
+    "Total": "39.700",
+    "Same": "20.500",
+    "Mixed": "19.200",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
     "ic": "0",
     "lc": "2"
   },
@@ -2656,6 +2800,22 @@
     "lc": "2"
   },
   {
+    "Fed": "PAR",
+    "Name": "Paraguay",
+    "Rank": "8",
+    "Medal": "",
+    "Total": "37.300",
+    "Same": "17.900",
+    "Mixed": "19.400",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "MAS",
     "Name": "Malaysia",
     "Rank": "7",
@@ -2721,7 +2881,7 @@
   },
   {
     "Fed": "AIN 1",
-    "Name": "Authorized Neutrals (B)",
+    "Name": "Authorized Neutrals (Belarus)",
     "Rank": "8",
     "Medal": "",
     "Total": "36.650",
@@ -2734,6 +2894,22 @@
     "Q": "1",
     "ic": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "RSA",
+    "Name": "Republic of South Africa",
+    "Rank": "2",
+    "Medal": "Silver",
+    "Total": "36.550",
+    "Same": "19.400",
+    "Mixed": "17.150",
+    "Event": "African Championships",
+    "Host Fed": "Union Africaine de Gymnastique",
+    "Event Type": "Continental Championships",
+    "Date": "Apr 30, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "FIN",
@@ -2759,7 +2935,7 @@
     "Total": "36.100",
     "Same": "18.900",
     "Mixed": "17.200",
-    "Event": "Rhythmic Nordic Championships AA",
+    "Event": "Nordic Championships AA",
     "Host Fed": "Denmark",
     "Event Type": "Regional Championships",
     "Date": "Mar 14, 2026",
@@ -2864,6 +3040,22 @@
     "lc": "4"
   },
   {
+    "Fed": "ARG",
+    "Name": "Argentina",
+    "Rank": "9",
+    "Medal": "",
+    "Total": "34.700",
+    "Same": "18.600",
+    "Mixed": "16.100",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
     "Fed": "CZE",
     "Name": "Czechia",
     "Rank": "20",
@@ -2951,7 +3143,7 @@
     "Total": "31.500",
     "Same": "17.200",
     "Mixed": "14.300",
-    "Event": "Rhythmic Nordic Championships AA",
+    "Event": "Nordic Championships AA",
     "Host Fed": "Denmark",
     "Event Type": "Regional Championships",
     "Date": "Mar 14, 2026",
@@ -2967,7 +3159,7 @@
     "Total": "31.250",
     "Same": "15.550",
     "Mixed": "15.700",
-    "Event": "Rhythmic Nordic Championships AA",
+    "Event": "Nordic Championships AA",
     "Host Fed": "Denmark",
     "Event Type": "Regional Championships",
     "Date": "Mar 14, 2026",
@@ -2983,7 +3175,7 @@
     "Total": "30.150",
     "Same": "14.900",
     "Mixed": "15.250",
-    "Event": "Rhythmic Nordic Championships AA",
+    "Event": "Nordic Championships AA",
     "Host Fed": "Denmark",
     "Event Type": "Regional Championships",
     "Date": "Mar 14, 2026",
@@ -3004,6 +3196,22 @@
     "Event Type": "FIG World Cup",
     "Date": "Mar 28, 2026",
     "Q": "1",
+    "ic": "0",
+    "lc": "2"
+  },
+  {
+    "Fed": "BOL",
+    "Name": "Bolivia",
+    "Rank": "10",
+    "Medal": "",
+    "Total": "29.500",
+    "Same": "14.500",
+    "Mixed": "15.000",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
     "ic": "0",
     "lc": "2"
   },
@@ -3038,6 +3246,22 @@
     "Q": "1",
     "ic": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "PER",
+    "Name": "Peru",
+    "Rank": "11",
+    "Medal": "",
+    "Total": "25.450",
+    "Same": "9.550",
+    "Mixed": "15.900",
+    "Event": "Pan American Championships AA",
+    "Host Fed": "Unión Panamericana de Gimnasia",
+    "Event Type": "Continental Championships",
+    "Date": "Jun 5, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "2"
   },
   {
     "Fed": "CUB",
@@ -3079,7 +3303,7 @@
     "Total": "17.650",
     "Same": "9.850",
     "Mixed": "7.800",
-    "Event": "Rhythmic Nordic Championships AA",
+    "Event": "Nordic Championships AA",
     "Host Fed": "Denmark",
     "Event Type": "Regional Championships",
     "Date": "Mar 14, 2026",
