@@ -16,6 +16,22 @@
     "lc": "2"
   },
   {
+    "Fed": "ISR",
+    "Name": "Israel",
+    "-": "",
+    "Medal": "",
+    "Total": "27.80",
+    "SameD": "14.10",
+    "MixedD": "13.70",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "BRA",
     "Name": "Brazil",
     "-": "",
@@ -176,6 +192,22 @@
     "lc": "2"
   },
   {
+    "Fed": "GER",
+    "Name": "Germany",
+    "-": "",
+    "Medal": "",
+    "Total": "25.90",
+    "SameD": "12.80",
+    "MixedD": "13.10",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "AIN1",
     "Name": "Authorized Neutrals (Belarus)",
     "-": "",
@@ -304,6 +336,22 @@
     "lc": "2"
   },
   {
+    "Fed": "CHN",
+    "Name": "People's Republic of China",
+    "-": "",
+    "Medal": "",
+    "Total": "24.90",
+    "SameD": "13.00",
+    "MixedD": "11.90",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "AIN2",
     "Name": "Authorized Neutrals (Russia)",
     "-": "",
@@ -336,6 +384,22 @@
     "lc": "3"
   },
   {
+    "Fed": "UZB",
+    "Name": "Uzbekistan",
+    "-": "",
+    "Medal": "",
+    "Total": "24.50",
+    "SameD": "12.00",
+    "MixedD": "12.50",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "UKR",
     "Name": "Ukraine",
     "-": "",
@@ -350,6 +414,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "BLR",
+    "Name": "Belarus",
+    "-": "",
+    "Medal": "",
+    "Total": "24.20",
+    "SameD": "10.90",
+    "MixedD": "13.30",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "AIN2",
@@ -414,6 +494,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "RUS",
+    "Name": "Russian Federation",
+    "-": "",
+    "Medal": "",
+    "Total": "23.90",
+    "SameD": "11.50",
+    "MixedD": "12.40",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "AIN1",
@@ -528,6 +624,22 @@
     "lc": "4"
   },
   {
+    "Fed": "POL",
+    "Name": "Poland",
+    "-": "",
+    "Medal": "",
+    "Total": "23.50",
+    "SameD": "11.00",
+    "MixedD": "12.50",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "CHN",
     "Name": "People’s Republic of China",
     "-": "",
@@ -590,6 +702,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "3"
+  },
+  {
+    "Fed": "USA",
+    "Name": "United States of America A",
+    "-": "",
+    "Medal": "",
+    "Total": "23.30",
+    "SameD": "11.30",
+    "MixedD": "12.00",
+    "Event": "US Championships AA",
+    "Organizer": "United States",
+    "Event Type": "National Championships",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "1",
+    "lc": "7"
   },
   {
     "Fed": "GER",
@@ -686,6 +814,22 @@
     "Q": "1",
     "ic": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "JPN",
+    "Name": "Japan",
+    "-": "",
+    "Medal": "",
+    "Total": "22.80",
+    "SameD": "12.50",
+    "MixedD": "10.30",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "HUN",
@@ -912,6 +1056,38 @@
     "lc": "4"
   },
   {
+    "Fed": "HUN",
+    "Name": "Hungary",
+    "-": "",
+    "Medal": "",
+    "Total": "22.30",
+    "SameD": "10.70",
+    "MixedD": "11.60",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "KOR",
+    "Name": "Republic of Korea",
+    "-": "",
+    "Medal": "",
+    "Total": "22.20",
+    "SameD": "10.30",
+    "MixedD": "11.90",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "JPN",
     "Name": "Japan",
     "-": "",
@@ -942,6 +1118,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "FIN",
+    "Name": "Finland",
+    "-": "",
+    "Medal": "",
+    "Total": "22.20",
+    "SameD": "11.20",
+    "MixedD": "11.00",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "ITA",
@@ -1006,6 +1198,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "CYP",
+    "Name": "Cyprus",
+    "-": "",
+    "Medal": "",
+    "Total": "22.00",
+    "SameD": "10.60",
+    "MixedD": "11.40",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "FRA",
@@ -1086,6 +1294,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "UZB",
+    "Name": "Uzbekistan",
+    "-": "",
+    "Medal": "",
+    "Total": "21.70",
+    "SameD": "11.50",
+    "MixedD": "10.20",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "ITA",
@@ -1312,6 +1536,54 @@
     "lc": "3"
   },
   {
+    "Fed": "AZE",
+    "Name": "Azerbaijan",
+    "-": "",
+    "Medal": "",
+    "Total": "21.00",
+    "SameD": "11.40",
+    "MixedD": "9.60",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "EST",
+    "Name": "Estonia",
+    "-": "",
+    "Medal": "",
+    "Total": "21.00",
+    "SameD": "9.80",
+    "MixedD": "11.20",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "ROU",
+    "Name": "Romania",
+    "-": "",
+    "Medal": "",
+    "Total": "21.00",
+    "SameD": "9.90",
+    "MixedD": "11.10",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "ITA",
     "Name": "Italy",
     "-": "",
@@ -1440,6 +1712,22 @@
     "lc": "2"
   },
   {
+    "Fed": "USA",
+    "Name": "United States of America B",
+    "-": "",
+    "Medal": "",
+    "Total": "20.60",
+    "SameD": "9.30",
+    "MixedD": "11.30",
+    "Event": "US Championships AA",
+    "Organizer": "United States",
+    "Event Type": "National Championships",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "1",
+    "lc": "7"
+  },
+  {
     "Fed": "FIN",
     "Name": "Finland",
     "-": "",
@@ -1454,6 +1742,38 @@
     "Q": "2",
     "ic": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "CAN",
+    "Name": "Canada",
+    "-": "",
+    "Medal": "",
+    "Total": "20.40",
+    "SameD": "9.90",
+    "MixedD": "10.50",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "ITA",
+    "Name": "Italy",
+    "-": "",
+    "Medal": "",
+    "Total": "20.40",
+    "SameD": "10.70",
+    "MixedD": "9.70",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "CAN",
@@ -1520,6 +1840,22 @@
     "lc": "4"
   },
   {
+    "Fed": "UKR",
+    "Name": "Ukraine",
+    "-": "",
+    "Medal": "",
+    "Total": "19.90",
+    "SameD": "10.30",
+    "MixedD": "9.60",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "AUS",
     "Name": "Australia",
     "-": "",
@@ -1569,7 +1905,7 @@
   },
   {
     "Fed": "CZE",
-    "Name": "Czechia",
+    "Name": "Czech Republic",
     "-": "",
     "Medal": "",
     "Total": "19.80",
@@ -1630,6 +1966,38 @@
     "Q": "2",
     "ic": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "USA",
+    "Name": "United States of America",
+    "-": "",
+    "Medal": "",
+    "Total": "19.70",
+    "SameD": "9.40",
+    "MixedD": "10.30",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "KAZ",
+    "Name": "Kazakhstan",
+    "-": "",
+    "Medal": "",
+    "Total": "19.70",
+    "SameD": "9.60",
+    "MixedD": "10.10",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "GRE",
@@ -1694,6 +2062,22 @@
     "Q": "2",
     "ic": "0",
     "lc": "2"
+  },
+  {
+    "Fed": "AUS",
+    "Name": "Australia",
+    "-": "",
+    "Medal": "",
+    "Total": "19.60",
+    "SameD": "9.50",
+    "MixedD": "10.10",
+    "Event": "FIG Beijing\nWCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 19, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
   },
   {
     "Fed": "SVK",
@@ -1808,6 +2192,22 @@
     "lc": "5"
   },
   {
+    "Fed": "NOR",
+    "Name": "Norway",
+    "-": "",
+    "Medal": "",
+    "Total": "19.10",
+    "SameD": "8.90",
+    "MixedD": "10.20",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "USA",
     "Name": "United States of America",
     "-": "",
@@ -1886,6 +2286,22 @@
     "Q": "1",
     "ic": "0",
     "lc": "4"
+  },
+  {
+    "Fed": "USA",
+    "Name": "United States of America Alternate",
+    "-": "",
+    "Medal": "",
+    "Total": "18.90",
+    "SameD": "9.55",
+    "MixedD": "9.35",
+    "Event": "US Championships AA",
+    "Organizer": "United States",
+    "Event Type": "National Championships",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "1",
+    "lc": "7"
   },
   {
     "Fed": "EGY",
@@ -2081,7 +2497,7 @@
   },
   {
     "Fed": "CZE",
-    "Name": "Czechia",
+    "Name": "Czech Republic",
     "-": "",
     "Medal": "",
     "Total": "18.00",
@@ -2240,6 +2656,22 @@
     "lc": "3"
   },
   {
+    "Fed": "GBR",
+    "Name": "Great Britain",
+    "-": "",
+    "Medal": "",
+    "Total": "17.60",
+    "SameD": "8.40",
+    "MixedD": "9.20",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "AUS",
     "Name": "Australia",
     "-": "",
@@ -2288,6 +2720,38 @@
     "lc": "2"
   },
   {
+    "Fed": "AUS",
+    "Name": "Australia",
+    "-": "",
+    "Medal": "",
+    "Total": "17.40",
+    "SameD": "9.00",
+    "MixedD": "8.40",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
+    "Fed": "TPE",
+    "Name": "Chinese Taipei",
+    "-": "",
+    "Medal": "",
+    "Total": "17.40",
+    "SameD": "8.20",
+    "MixedD": "9.20",
+    "Event": "FIG Cluj-Napoca WCC AA",
+    "Organizer": "FIG",
+    "Event Type": "FIG World Challenge Cup",
+    "Date": "Jun 26, 2026",
+    "Q": "2",
+    "ic": "0",
+    "lc": "3"
+  },
+  {
     "Fed": "AUT",
     "Name": "Austria",
     "-": "",
@@ -2321,7 +2785,7 @@
   },
   {
     "Fed": "CZE",
-    "Name": "Czechia",
+    "Name": "Czech Republic",
     "-": "",
     "Medal": "",
     "Total": "17.20",
