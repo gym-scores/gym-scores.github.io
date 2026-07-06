@@ -25,11 +25,10 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest updates (28 June 2026): <ul>
-                              <li>Pan American Championships (MAG/WAG)</li>
-                              <li>Asian Championships (MAG/WAG)</li>
-                              <li>Cluj-Napoca World Challenge Cup (RG)</li>
-                              <li>Dutch Championships (MAG/WAG)</li>
+  subtitle: "latest updates (5 July 2026): <ul>
+                              <li>Russian Championships (MAG/WAG)</li>
+                              <li>Australian Championships (MAG/WAG)</li>
+                              <li>Liga Iberdrola Final (RG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
