@@ -546,6 +546,23 @@
   {
     "Fed": "MEX",
     "Name": "Mexico",
+    "Rank": "1",
+    "Medal": "Gold",
+    "Total": "52.550",
+    "Same": "27.450",
+    "Mixed": "25.100",
+    "Event": "Central American and Caribbean Games AA",
+    "Host Fed": "Organización Deportiva Centroamericana y del Caribe",
+    "Event Type": "Regional Games",
+    "Date": "Jul 26, 2026",
+    "Q": "3",
+    "ic": "0",
+    "lc": "3",
+    "FIG 3+": "0"
+  },
+  {
+    "Fed": "MEX",
+    "Name": "Mexico",
     "Rank": "7",
     "Medal": "",
     "Total": "52.300",
@@ -646,6 +663,23 @@
     "FIG 3+": "0"
   },
   {
+    "Fed": "ITA",
+    "Name": "Italy",
+    "Rank": "1",
+    "Medal": "Gold",
+    "Total": "51.650",
+    "Same": "25.700",
+    "Mixed": "25.950",
+    "Event": "Friendly Match:\nGER v ITA",
+    "Host Fed": "Italy",
+    "Event Type": "Friendly Match",
+    "Date": "Aug 1, 2026",
+    "Q": "3",
+    "ic": "0",
+    "lc": "5",
+    "FIG 3+": "1"
+  },
+  {
     "Fed": "BRA",
     "Name": "Brazil",
     "Rank": "5",
@@ -695,6 +729,23 @@
     "ic": "0",
     "lc": "2",
     "FIG 3+": "0"
+  },
+  {
+    "Fed": "GER",
+    "Name": "Germany",
+    "Rank": "2",
+    "Medal": "Silver",
+    "Total": "51.200",
+    "Same": "27.150",
+    "Mixed": "24.050",
+    "Event": "Friendly Match:\nGER v ITA",
+    "Host Fed": "Italy",
+    "Event Type": "Friendly Match",
+    "Date": "Aug 1, 2026",
+    "Q": "3",
+    "ic": "0",
+    "lc": "5",
+    "FIG 3+": "1"
   },
   {
     "Fed": "AIN1",
@@ -3043,6 +3094,23 @@
     "FIG 3+": "1"
   },
   {
+    "Fed": "VEN",
+    "Name": "Venezuela",
+    "Rank": "2",
+    "Medal": "Silver",
+    "Total": "41.950",
+    "Same": "21.050",
+    "Mixed": "20.900",
+    "Event": "Central American and Caribbean Games AA",
+    "Host Fed": "Organización Deportiva Centroamericana y del Caribe",
+    "Event Type": "Regional Games",
+    "Date": "Jul 26, 2026",
+    "Q": "3",
+    "ic": "0",
+    "lc": "3",
+    "FIG 3+": "0"
+  },
+  {
     "Fed": "USA",
     "Name": "United States of America",
     "Rank": "9",
@@ -3434,6 +3502,23 @@
     "FIG 3+": "1"
   },
   {
+    "Fed": "COL",
+    "Name": "Colombia",
+    "Rank": "3",
+    "Medal": "Bronze",
+    "Total": "40.550",
+    "Same": "19.200",
+    "Mixed": "21.350",
+    "Event": "Central American and Caribbean Games AA",
+    "Host Fed": "Organización Deportiva Centroamericana y del Caribe",
+    "Event Type": "Regional Games",
+    "Date": "Jul 26, 2026",
+    "Q": "3",
+    "ic": "0",
+    "lc": "3",
+    "FIG 3+": "0"
+  },
+  {
     "Fed": "TPE",
     "Name": "Chinese Taipei",
     "Rank": "6",
@@ -3754,6 +3839,23 @@
     "Q": "3",
     "ic": "1",
     "lc": "2",
+    "FIG 3+": "0"
+  },
+  {
+    "Fed": "CUB",
+    "Name": "Cuba",
+    "Rank": "4",
+    "Medal": "",
+    "Total": "39.100",
+    "Same": "18.950",
+    "Mixed": "20.150",
+    "Event": "Central American and Caribbean Games AA",
+    "Host Fed": "Organización Deportiva Centroamericana y del Caribe",
+    "Event Type": "Regional Games",
+    "Date": "Jul 26, 2026",
+    "Q": "3",
+    "ic": "0",
+    "lc": "3",
     "FIG 3+": "0"
   },
   {
@@ -4316,6 +4418,23 @@
     "ic": "0",
     "lc": "4",
     "FIG 3+": "1"
+  },
+  {
+    "Fed": "GUA",
+    "Name": "Guatemala",
+    "Rank": "5",
+    "Medal": "",
+    "Total": "35.200",
+    "Same": "18.050",
+    "Mixed": "17.150",
+    "Event": "Central American and Caribbean Games AA",
+    "Host Fed": "Organización Deportiva Centroamericana y del Caribe",
+    "Event Type": "Regional Games",
+    "Date": "Jul 26, 2026",
+    "Q": "3",
+    "ic": "0",
+    "lc": "3",
+    "FIG 3+": "0"
   },
   {
     "Fed": "TPE",
