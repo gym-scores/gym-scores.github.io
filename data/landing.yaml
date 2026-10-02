@@ -25,9 +25,10 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest updates (17 August 2026): <ul>
-                              <li>World Championships (RG)</li>
-                              <li>European Championships (WAG)</li>
+  subtitle: "latest updates (1 October 2026): <ul>
+                              <li>Asian Games (MAG/WAG)</li>
+                              <li>European Championships (MAG)</li>
+                              <li>U.S. Worlds Selection Camp (WAG)</li>
                             </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
