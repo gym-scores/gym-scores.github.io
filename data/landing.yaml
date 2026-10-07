@@ -25,11 +25,10 @@ hero:
   #   height: 80px
 
   title: "gym-scores"
-  subtitle: "latest updates (1 October 2026): <ul>
-                              <li>Asian Games (MAG/WAG)</li>
-                              <li>European Championships (MAG)</li>
-                              <li>U.S. Worlds Selection Camp (WAG)</li>
-                            </ul>"
+  subtitle: "latest updates (6 October 2026): <ul>
+                              <li>German Worlds Trials (MAG/WAG)</li>
+                              <li>Elevien Worlds Online Preparation (MAG/WAG)</li>
+                              </ul>"
   #image:
    # path: "images" # path to image under configured assets directory. default 'images'
     #filename: "/frontpage.png" # filename of your hero image (including file extension)
